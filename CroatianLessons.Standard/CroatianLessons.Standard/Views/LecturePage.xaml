@@ -12,28 +12,29 @@
                 </ListView.Behaviors>
                 <ListView.ItemTemplate>
                     <DataTemplate>
-                        <TextCell Text="{Binding Title}" Detail="{Binding Phrase}" TextColor="DarkSlateBlue" DetailColor="SteelBlue">
+                        <!--<TextCell Text="{Binding Title}" Detail="{Binding Phrase}" TextColor="DarkSlateBlue" DetailColor="SteelBlue">
                            
-                        </TextCell>
-                        <!--<ViewCell>
+                        </TextCell>-->
+                        <ViewCell>
                             <Grid>
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*"/>
                                     <ColumnDefinition Width="Auto" />
                                 </Grid.ColumnDefinitions>
-                                    <Label Text="{Binding Title}" 
-                                        Grid.Column="0"
-                                        FontSize="Small" 
-                                        VerticalTextAlignment="Center"
-                                        Margin="20,1"/>
+                                <Label Text="{Binding Title}" 
+                                    Grid.Column="0"
+                                    FontSize="Medium" 
+                                    TextColor="DarkSlateBlue"   
+                                    VerticalTextAlignment="Center"
+                                    Margin="20,4"/>
                                 <Label Text="{Binding Phrase}"
-                                        Grid.Column="1"
-                                        FontSize="Micro" 
-                                        VerticalTextAlignment="Center"
-                                        Margin="20,1" />
-
+                                    Grid.Column="1"
+                                    FontSize="Small" 
+                                    TextColor="SteelBlue"
+                                    VerticalTextAlignment="Center"
+                                    Margin="20,4" />
                             </Grid>
-                        </ViewCell>-->
+                        </ViewCell>
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>

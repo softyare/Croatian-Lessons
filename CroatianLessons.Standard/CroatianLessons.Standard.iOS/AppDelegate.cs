@@ -22,7 +22,13 @@ namespace CroatianLessons.Standard.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            global::Xamarin.Forms.Forms.Init();
+            //UINavigationBar.Appearance.BarTintColor = UIColor.Purple;
+            //UINavigationBar.Appearance.SetTitleTextAttributes(new UITextAttributes
+            //{
+            //    TextColor = UIColor.LightTextColor
+            //});
+
+           global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

@@ -12,14 +12,24 @@
                 VerticalOptions="FillAndExpand"
                 HorizontalOptions="FillAndExpand">
 
-            <Button Text="{t:Translate BtnCloseLesson}"
-                    Command="{Binding CloseModalPageCommand}"
-                VerticalOptions="Start" 
-                HorizontalOptions="End"
-                FontSize="Small"
-                Margin="20,5"/>
+                <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
+                    <Button Text="{t:Translate BtnPrevLesson}"
+                        FontSize="Small"
+                        HorizontalOptions="StartAndExpand"
+                        Margin="10"
+                        VerticalOptions="End"
+                        Command="{Binding OpenPrevPageCommand}"
+                        IsEnabled="{Binding IsPreviousLessonAvailable}" />
+                    <Button Text="{t:Translate BtnNextLesson}"
+                        FontSize="Small"
+                        HorizontalOptions="EndAndExpand"
+                        Margin="10"
+                        VerticalOptions="End"
+                        Command="{Binding OpenNextPageCommand}"
+                        IsEnabled="{Binding IsNextLessonAvailable}" />
+                </StackLayout>
 
-            <Label Text="{Binding LessonInfo}"
+                <Label Text="{Binding LessonInfo}"
                 VerticalOptions="Center" 
                 HorizontalOptions="CenterAndExpand"
                 FontSize="Small"
@@ -61,22 +71,12 @@
                 FontSize="Small"
                 Margin="20,5"/>
 
-            <StackLayout Orientation="Horizontal" VerticalOptions="FillAndExpand" HorizontalOptions="CenterAndExpand">
-                <Button Text="{t:Translate BtnPrevLesson}"
-                        FontSize="Small"
-                        HorizontalOptions="Start"
-                        Margin="10"
-                        VerticalOptions="End"
-                        Command="{Binding OpenPrevPageCommand}"
-                        IsEnabled="{Binding IsPreviousLessonAvailable}" />
-                <Button Text="{t:Translate BtnNextLesson}"
-                        FontSize="Small"
-                        HorizontalOptions="End"
-                        Margin="10"
-                        VerticalOptions="End"
-                        Command="{Binding OpenNextPageCommand}"
-                        IsEnabled="{Binding IsNextLessonAvailable}" />
-            </StackLayout>
+                <Button Text="{t:Translate BtnCloseLesson}"
+                    Command="{Binding CloseModalPageCommand}"
+                VerticalOptions="Start" 
+                HorizontalOptions="End"
+                FontSize="Small"
+                Margin="20,5"/>
 
             </StackLayout>
 
