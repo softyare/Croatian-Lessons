@@ -26,8 +26,8 @@
                                          HeightRequest="150">
                             <Image Source="{Binding LectureIconImageSource}"
                                    Aspect="AspectFit"
-                                   HeightRequest="64"
-                                   WidthRequest="64"/>
+                                   HeightRequest="100"
+                                   WidthRequest="100"/>
                             <Label HorizontalOptions="Fill" 
                                    VerticalOptions="Fill" 
 				                   XAlign="Center" YAlign="Center" 

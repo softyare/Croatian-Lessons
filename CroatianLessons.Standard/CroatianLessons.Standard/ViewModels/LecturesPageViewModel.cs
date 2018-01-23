@@ -95,7 +95,7 @@ namespace CroatianLessons.Standard.ViewModels
             JObject lecture = JObject.Parse(json);
             selectedLectureJObject = lecture;
             LecturePageViewModel vm = new LecturePageViewModel(selectedLectureJObject) { Navigation = this.Navigation };
-            await Navigation.PushAsync(new NavigationPage(new LecturePage(vm)));
+            await Navigation.PushAsync(new NavigationPage(new LecturePage(vm)) { BarBackgroundColor=Color.MediumPurple});
         }
 
         private List<string> GetLectureFileNames(string appLanguageCode)
