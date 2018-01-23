@@ -1,0 +1,78 @@
+{
+  "LectureId": "lecture_4",
+  "Title": "Redewendungen",
+  "Lessons": {
+    "lesson_1": {
+      "LessonId": "lesson_1",
+      "Title": "Beim Geben",
+      "Phrase": "Izvolite.",
+      "Info": "Wenn wir etwas geben, sagen wir...",
+      "Translation": "Bitte schön.",
+      "Memo": "Dies ist eine formale (oder Plural) Phrase. Als Tourist in Kroatien würden Sie es in den meisten Situationen verwenden. Wenn Sie Ihrem kroatischen Freund etwas geben oder in anderen informellen Situationen, würden Sie \"Izvoli\" sagen.\n\nNoch informeller und kürzere Version, die Sie verwenden können, ist \"Evo ti.\" oder einfach \"Evo!\", was \"Hier!\" bedeutet.\n\nWenn es als Frage gestellt wird, bedeutet es \"Was kann ich für Sie tun?\"",
+      "LectureId": "lecture_4"
+    },
+    "lesson_2": {
+      "LessonId": "lesson_2",
+      "Title": "Wenn man etwas bekommt",
+      "Phrase": "Hvala!",
+      "Info": "Wenn wir etwas erhalten oder jemand etwas für uns getan hat, sagen wir ...",
+      "Translation": "Danke!",
+      "Memo": "\"Hv\" ist ziemlich schwer auszusprechen und wenn es für Sie einfacher ist, können Sie \"Fala\" sagen. Viele Kroaten machen das gleiche. Wenn Sie wirklich dankbar sind, können Sie einige Adjektive hinzufügen, wie:\n\"Hvala lijepo\" = \"Danke schön\"\n\"Hvala puno\" = \"Vielen Dank\"\n\"Veliko vam hvala\" = \"Ein großes Dankeschön\"",
+      "LectureId": "lecture_4"
+    },
+    "lesson_3": {
+      "LessonId": "lesson_3",
+      "Title": "Wenn Sie jemand dankt",
+      "Phrase": "Molim.",
+      "Info": "Nachdem uns jemand gedankt hat, antworten wir mit ...",
+      "Translation": "Bitte.",
+      "Memo": "Eine andere gebräuchliche Formulierung nach \"Hvala\" ist \"Nema na čemu\", was \"Überhaupt nichts\" bedeutet.\n\nNur \"Molim.\", kann von \"Ja molim.\" abgekürzt werden, was bedeutet \"Ich bete\".",
+      "LectureId": "lecture_4"
+    },
+    "lesson_4": {
+      "LessonId": "lesson_4",
+      "Title": "Wenn Sie haben nicht gut gehört",
+      "Phrase": "Molim?",
+      "Info": "Wenn wir wollen, dass jemand wiederholt, was sie gerade gesagt haben, oder wir Unglauben ausdrücken, fragen wir ...",
+      "Translation": "Bitte?",
+      "Memo": "Die andere Möglichkeit, dasselbe zu fragen, ist \"Kako?\" was bedeutet \"Wie?\" oder in Kombination \"Kako molim?\" was würde am besten mit \"Wie bitte?\" übersetzt werden, oder \"Was hast du gerade gesagt?\"",
+      "LectureId": "lecture_4"
+    },
+    "lesson_5": {
+      "LessonId": "lesson_5",
+      "Title": "Wenn Sie höflich fragen",
+      "Phrase": "Molim Vas ...",
+      "Info": "Wenn wir etwas in einer formellen Situation verlangen, sagen wir ...",
+      "Translation": "Bitte...",
+      "Memo": "Sie müssen ein Personalpronomen nach \"molim\" setzen, damit es \"bitte\" bedeutet. Zum Beispiel \"Molim Vas, pokažite mi.\" bedeutet \"Bitte, zeig es mir.\". Wenn Sie nur \"Molim te!\" oder \"Molim Vas!\" sagen, es könnte \"Ich bitte dich!\" in informellen und formalen Versionen bedeuten.",
+      "LectureId": "lecture_4"
+    },
+    "lesson_6": {
+      "LessonId": "lesson_6",
+      "Title": "Wenn Sie sich entschuldigt",
+      "Phrase": "Oprostite ...",
+      "Info": "Wenn wir Fragen in formellen Situationen beginnen, sagen wir ...",
+      "Translation": "Entschuldigen Sie ...",
+      "Memo": "Wenn Sie einen Fremden fragen würden, wie spät es ist, würden Sie sagen:\n\"Oprostite, koliko je sati?\" = \"Entschuldigung, wie spät ist es?\"\n\nWenn Sie einen Kellner in einem Restaurant anrufen würden, würden Sie anrufen:\n\"Oprostite!\" = \"Entschuldigung!\"\n\nSie können auch \"oprsotite\" sagen, wenn Sie jemandem auf der Straße begegnen, oder Sie können den internationalen Ausdruck \"pardon\" verwenden, der auch in Kroatien üblich ist.\n\nWenn Sie nach \"oprosti\" ein Personalpronomen setzen, bekommt es eine andere Bedeutung:\n\"Oprosti mi!\", oder formal \"Oprostite mi!\" = \"Verzeih mir!\"",
+      "LectureId": "lecture_4"
+    },
+    "lesson_7": {
+      "LessonId": "lesson_7",
+      "Title": "Wenn es Sie leid tut",
+      "Phrase": "Žao mi je.",
+      "Info": "Um zu sagen, dass es uns leid tut, sagen wir ...",
+      "Translation": "Es tut mir Leid.",
+      "Memo": "Dieser Ausdruck wird auch verwendet, um Beileid auszudrücken.\r\n\r\nEine längere Form könnte sein:\r\n\"Jako mi je žao!\" = \"Es tut mir sehr leid!\"",
+      "LectureId": "lecture_4"
+    },
+    "lesson_8": {
+      "LessonId": "lesson_8",
+      "Title": "Wenn Sie es nicht verstehen",
+      "Phrase": "Ne razumijem.",
+      "Info": "Um unser mangelndes Verständnis auszudrücken, sagen wir ...",
+      "Translation": "Ich verstehe nicht.",
+      "Memo": "Wie in anderen Sprachen können Sie diesen Ausdruck verwenden, um Ihre Verwirrung zu zeigen.\r\n\r\nWenn Sie sagen wollen, dass Sie die kroatische Sprache nicht verstehen, würden Sie sagen:\r\n\"Ne razumijem hrvatski.\" = \"Ich verstehe kein Kroatisch.\"",
+      "LectureId": "lecture_4"
+    }
+  }
+}

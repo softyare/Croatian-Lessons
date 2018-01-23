@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:custom="clr-namespace:CroatianLessons.Standard.Helpers.Custom"
+             xmlns:t="clr-namespace:CroatianLessons.Standard.Helpers"
+             x:Class="CroatianLessons.Standard.Views.LessonPage"
+             Title="{Binding LessonTitle}">
+    <ContentPage.Content>
+
+        <ScrollView Orientation="Vertical">
+            <StackLayout
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand">
+
+            <Button Text="{t:Translate BtnCloseLesson}"
+                    Command="{Binding CloseModalPageCommand}"
+                VerticalOptions="Start" 
+                HorizontalOptions="End"
+                FontSize="Small"
+                Margin="20,5"/>
+
+            <Label Text="{Binding LessonInfo}"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Small"
+                Margin="20,20,20,0"/>
+
+            <custom:PhraseButton Text="{Binding LessonPhrase}"
+                    Command="{Binding PlayAudioCommand}"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Large"
+                FontAttributes="Bold"
+                    TextColor="Blue"
+                Margin="20,5"
+                    Image="audio"
+                    />
+            <!--LineSepparator-->
+            <BoxView 
+                HeightRequest="1" 
+                BackgroundColor="Gray" 
+                Margin="20,0"
+                HorizontalOptions="FillAndExpand" />
+
+            <Label Text="{Binding LessonTranslation}"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Medium"
+                FontAttributes="Italic"
+                Margin="20,5"/>
+            <!--LineSepparator-->
+            <BoxView 
+                HeightRequest="1" 
+                BackgroundColor="Gray" 
+                Margin="20,0"
+                HorizontalOptions="FillAndExpand" />
+
+            <Label Text="{Binding LessonMemo}"
+                VerticalOptions="Center" 
+                HorizontalOptions="CenterAndExpand"
+                FontSize="Small"
+                Margin="20,5"/>
+
+            <StackLayout Orientation="Horizontal" VerticalOptions="FillAndExpand" HorizontalOptions="CenterAndExpand">
+                <Button Text="{t:Translate BtnPrevLesson}"
+                        FontSize="Small"
+                        HorizontalOptions="Start"
+                        Margin="10"
+                        VerticalOptions="End"
+                        Command="{Binding OpenPrevPageCommand}"
+                        IsEnabled="{Binding IsPreviousLessonAvailable}" />
+                <Button Text="{t:Translate BtnNextLesson}"
+                        FontSize="Small"
+                        HorizontalOptions="End"
+                        Margin="10"
+                        VerticalOptions="End"
+                        Command="{Binding OpenNextPageCommand}"
+                        IsEnabled="{Binding IsNextLessonAvailable}" />
+            </StackLayout>
+
+            </StackLayout>
+
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

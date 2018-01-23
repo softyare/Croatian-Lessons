@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:t="clr-namespace:CroatianLessons.Standard.Helpers"
+             xmlns:flv="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView"
+             x:Class="CroatianLessons.Standard.Views.LecturesPage"
+             Title="{t:Translate Tab1Title}">
+    <ContentPage.Content>
+        <ScrollView Orientation="Vertical">
+            <StackLayout
+                    Margin="10,20">
+
+            <flv:FlowListView 
+                FlowColumnCount="2" 
+                SeparatorVisibility="Default" 
+                HasUnevenRows="false"
+                FlowLastTappedItem="{Binding LastTappedItem}"
+                FlowItemTappedCommand="{Binding OpenLectureCommand}"
+	            FlowItemsSource="{Binding LectureListItems}" 
+                RowHeight="150">
+
+                <flv:FlowListView.FlowColumnTemplate>
+                    <DataTemplate>
+                            <StackLayout VerticalOptions="StartAndExpand"
+                                         Spacing="10"
+                                         HeightRequest="150">
+                            <Image Source="{Binding LectureIconImageSource}"
+                                   Aspect="AspectFit"
+                                   HeightRequest="64"
+                                   WidthRequest="64"/>
+                            <Label HorizontalOptions="Fill" 
+                                   VerticalOptions="Fill" 
+				                   XAlign="Center" YAlign="Center" 
+                                   Text="{Binding Title}"/>
+                            </StackLayout>
+                    </DataTemplate>
+                </flv:FlowListView.FlowColumnTemplate>
+
+            </flv:FlowListView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

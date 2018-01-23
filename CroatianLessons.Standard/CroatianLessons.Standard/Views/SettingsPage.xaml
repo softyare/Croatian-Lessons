@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:t="clr-namespace:CroatianLessons.Standard.Helpers"
+             x:Class="CroatianLessons.Standard.Views.SettingsPage"
+             Title="Settings">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="CenterAndExpand" 
+                     HorizontalOptions="CenterAndExpand" >
+
+            <StackLayout Orientation="Horizontal">
+
+                <Label Text="{t:Translate IntroLanguageInfo}" 
+                       HorizontalTextAlignment="Start"
+                       FontSize="Small"
+                       Margin="20,10,2,20"/>
+                <Label Text="{Binding CurrentLanguage}" 
+                       HorizontalTextAlignment="Start"
+                       FontSize="Small"
+                       Margin="2,10,2,20"/>
+
+            </StackLayout>
+
+            <Label Text="{Binding LanguageInfoMessage}"
+                   FontSize="Small"
+                   Margin="20,5" />
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="{t:Translate LabelSelectLanguage}"
+                       VerticalTextAlignment="Center"
+                   FontSize="Medium"
+                   Margin="20,10,5,10" />
+
+                <Picker 
+                    ItemsSource="{Binding SupportedLangCodes}" 
+                    SelectedItem="{Binding SelectedLangCode}"
+                    Margin="0,10" 
+                        WidthRequest="60"/>
+            </StackLayout>
+            <Image Source="Icon80"
+                   HorizontalOptions="CenterAndExpand"
+                   Aspect="AspectFit"/>
+            <Label Text="{t:Translate AppName}" 
+                   HorizontalOptions="CenterAndExpand"
+                   HorizontalTextAlignment="Center"
+                   FontSize="Small" 
+                   Margin="20,5,20,5"/>
+
+            <Label Text="LOVE CARPE DIEM MEDIATAINMENT" 
+                   HorizontalOptions="CenterAndExpand"
+                   HorizontalTextAlignment="Center"
+                   FontSize="Micro" 
+                   Margin="20,5,20,10"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

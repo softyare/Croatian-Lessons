@@ -1,0 +1,87 @@
+{
+  "LectureId": "lecture_3",
+  "Title": "Grundlegende Fragen",
+  "Lessons": {
+    "lesson_1": {
+      "LessonId": "lesson_1",
+      "Title": "Für Methoden",
+      "Phrase": "Kako?",
+      "Info": "Wenn wir fragen wollen, wie etwas gemacht wird, fragen wir ...",
+      "Translation": "Wie?",
+      "Memo": "Zum Beispiel \"Wie geht es dir?\" Fragen wir \"Kako si (ti)?\". Normalerweise verzichten wir auf Personalpronomen, wenn es aus dem Verb \"sein\" klar ist wer das Subjekt des Satzes ist .Sie würden es verwenden, wenn Sie es betonen möchten, zum Beispiel, wenn Sie auf dieselbe Frage antworten, die Ihnen gerade jemand gestellt hat: \"Kako si?\" - \"Dobro. Kako si ti?\"\nAllgemeine Antwort auf Frage \"Kako?\" ist \"Tako.\", bedeutet \"So.\" Es ist leicht sich daran zu erinnern: \"Kako? - Tako!\"",
+      "LectureId": "lecture_3"
+    },
+    "lesson_2": {
+      "LessonId": "lesson_2",
+      "Title": "Für Gründen",
+      "Phrase": "Zašto?",
+      "Info": "Wenn wir den Grund für etwas wissen wollen, fragen wir ...",
+      "Translation": "Warum?",
+      "Memo": "\"š\" in \"Zašto\" wird wie deutsch \"sch\" ausgesprochen, wie in \"Schule\" oder \"Fisch\".\r\nÄhnlich wie \"Kako? Tako!\" Gibt es auch eine allgemeine Antwort auf die Frage \"Zašto?\" - \"Zato.\" Bedeutung \"Darum.\"",
+      "LectureId": "lecture_3"
+    },
+    "lesson_3": {
+      "LessonId": "lesson_3",
+      "Title": "Für Leute oder Sachen",
+      "Phrase": "Tko? Što?",
+      "Info": "Wenn wir neugierig auf eine Person oder eine Sache sind, fragen wir ...",
+      "Translation": "Wer? Was?",
+      "Memo": "\"Tko?\" ist selbst für Kroaten ziemlich schwer auszusprechen, also hört man oft die \"faule\" Version \"Ko?\"\nVielleicht haben Sie bemerkt, dass Sie das Wort \"što\" bereits kennen aus der vorherigen Lektion - \"Zašto?\". Wenn wir \"Zašto\" wörtlich übersetzen würden, es kommt eigentlich aus zwei kroatischen Wörtern \"za\", was \"für\" bedeutet, und \"što\", was \"was\" bedeutet.",
+      "LectureId": "lecture_3"
+    },
+    "lesson_4": {
+      "LessonId": "lesson_4",
+      "Title": "Für die Zeit",
+      "Phrase": "Kad?",
+      "Info": "Wenn wir wissen wollen, zu welchem ​​Zeitpunkt etwas ist, fragen wir ...",
+      "Translation": "Wann?",
+      "Memo": "\"Kad?\" wird verwendet, wenn Sie wissen möchten, zu welcher Zeit und wann. Wenn Sie wissen möchten, wie spät es jetzt ist, würden Sie ein anderes Fragewort verwenden, das Sie in einem der eingehenden Lektionen lernen werden - \"Koliko je sati?\", Was wörtlich bedeutet \"Wie viel Stunden ist es?\"",
+      "LectureId": "lecture_3"
+    },
+    "lesson_5": {
+      "LessonId": "lesson_5",
+      "Title": "Für Richtungen oder Ziele",
+      "Phrase": "Gdje? Kamo? Kud?",
+      "Info": "Wenn wir eine Richtung oder einen Ort eines Ortes brauchen, fragen wir ...",
+      "Translation": "Wo? Wohin? Welcher weg?",
+      "Memo": "Viele Kroaten verwirren diese drei Fragen, so dass man oft \"Kud ideš?\" hören kann, bedeutung \"Welchen Weg gehst du?\", wenn sie wirklich \"Kamo ideš?\" fragen wollen, das bedeutet \"Wohin gehst du?\"",
+      "LectureId": "lecture_3"
+    },
+    "lesson_6": {
+      "LessonId": "lesson_6",
+      "Title": "Für Quellen oder Ursprünge",
+      "Phrase": "Odakle?",
+      "Info": "Wenn wir den Herkunftsort wissen wollen, fragen wir ...",
+      "Translation": "Woher?",
+      "Memo": "Wenn du wissen willst, woher jemand kommt, fragst du sie \"Odakle si?\" wenn in informeller Situation, oder formal \"Odakle ste?\"\r\nWie bei \"Kako si ti?\", Sie würden auch Personalpronomen am Ende der Frage hinzufügen, wenn Sie die gleiche Frage wiederholen, die Sie gerade gefragt werden: \"Odakle si?\" - \"Iz Hrvatske. Odakle si ti?\"",
+      "LectureId": "lecture_3"
+    },
+    "lesson_7": {
+      "LessonId": "lesson_7",
+      "Title": "Für Die Quantität",
+      "Phrase": "Koliko?",
+      "Info": "Für die Quantität von Dingen oder Wesen bitten wir ...",
+      "Translation": "Wie viel?",
+      "Memo": "Wird oft beim Einkaufen verwendet, um zu fragen, wie viel etwas kostet. Es hat auch seine allgemeine Antwort: \"Toliko.\", Was \"Soviel.\" bedeutet.",
+      "LectureId": "lecture_3"
+    },
+    "lesson_8": {
+      "LessonId": "lesson_8",
+      "Title": "Über Gesellschaft oder Instrumente",
+      "Phrase": "S kim? S čim?",
+      "Info": "Über Person in der Gesellschaft von jemandem oder über das Objekt, das verwendet wird, fragen wir ...",
+      "Translation": "Mit wem? Mit was?",
+      "Memo": "\"S kim\" wird zusammen wie ein Wort ausgesprochen und klingt nach englischem \"scheme\".\r\n\"č\" wird wie deutsch \"tsch\" ausgesprochen, zum Beispiel im englischen Namen \"Charlie\".",
+      "LectureId": "lecture_3"
+    },
+    "lesson_9": {
+      "LessonId": "lesson_9",
+      "Title": "Allgemeine Frage Partikel",
+      "Phrase": "Je li ... ?",
+      "Info": "Für Fragen, die mit \"sein\" beginnen, fügen wir \"li\" Partikel hinzu, also fragen wir ...",
+      "Translation": "Ist ...?",
+      "Memo": "\"Ist es spät?\", würden wir \"Je li kasno?\" Fragen. \"Es ist spät.\" würden wir nur \"Kasno je.\" sagen.",
+      "LectureId": "lecture_3"
+    }
+  }
+}

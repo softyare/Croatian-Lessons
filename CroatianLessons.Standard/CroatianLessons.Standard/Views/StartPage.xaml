@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:t="clr-namespace:CroatianLessons.Standard.Helpers"
+            xmlns:v="clr-namespace:CroatianLessons.Standard.Views"
+             x:Class="CroatianLessons.Standard.Views.StartPage">
+  <!--Pages can be added as references or inline-->
+    <NavigationPage Title="{t:Translate Tab1Title}" Icon="lectures">
+        <x:Arguments>
+            <v:LecturesPage/>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="{t:Translate Tab2Title}" Icon="accessories">
+        <x:Arguments>
+            <ContentPage>
+                <Label Text="{t:Translate Tab2Title}"
+                       HorizontalOptions="CenterAndExpand"
+                       VerticalOptions="CenterAndExpand"
+                       FontSize="Large"/>
+            </ContentPage>
+        </x:Arguments>
+    </NavigationPage>
+    <NavigationPage Title="{t:Translate Tab3Title}" Icon="settings">
+        <x:Arguments>
+            <v:SettingsPage/>
+        </x:Arguments>
+    </NavigationPage>
+</TabbedPage>

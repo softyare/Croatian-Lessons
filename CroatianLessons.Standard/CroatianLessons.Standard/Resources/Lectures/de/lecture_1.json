@@ -1,0 +1,78 @@
+{
+  "LectureId": "lecture_1",
+  "Title": "Die Grüße",
+  "Lessons": {
+    "lesson_1": {
+      "LessonId": "lesson_1",
+      "Title": "Wenn Sie kommen oder gehen",
+      "Phrase": "Bok!",
+      "Info": "Wenn wir unsere Freunde treffen, sagen wir ...",
+      "Translation": "Hallo!",
+      "Memo": "Das ist informelle Begrüßung. Wir sagen es Freunden, Familie und Bekannten.",
+      "LectureId": "lecture_1"
+    },
+    "lesson_2": {
+      "LessonId": "lesson_2",
+      "Title": "Am Morgen",
+      "Phrase": "Dobro jutro!",
+      "Info": "Am Morgen grüßen wir uns mit ...",
+      "Translation": "Guten Morgen!",
+      "Memo": "Dies ist eine formelle Begrüßung, wird aber auch in informellen Situationen verwendet. Wir sagen \"Dobro Jutro\" bis etwa 10 Uhr morgens. \"Dobro\" bedeutet \"gut\", \"jutro\" ist \"Morgen\".",
+      "LectureId": "lecture_1"
+    },
+    "lesson_3": {
+      "LessonId": "lesson_3",
+      "Title": "Nachmittags",
+      "Phrase": "Dobar dan!",
+      "Info": "Während des Tages sagen wir zueinander ...",
+      "Translation": "Guten Tag!",
+      "Memo": "Dies ist eine formelle Begrüßung von ca. 10 bis 18 Uhr. \"Dan\" bedeutet \"Tag\". Beachten Sie, dass \"jutro\" ist \"dobro\" und \"dan\" ist \"dobar\". Der Grund für diese Änderung sind Geschlechter in kroatischer Sprache. Der Tag ist männlich und der Morgen ist im neutralen Geschlecht. Abend, im nächsten lesson ist weiblich.",
+      "LectureId": "lecture_1"
+    },
+    "lesson_4": {
+      "LessonId": "lesson_4",
+      "Title": "Abends",
+      "Phrase": "Dobra večer!",
+      "Info": "Am Abend sagen wir ...",
+      "Translation": "Guten Abend!",
+      "Memo": "Viele kroatische Leute verwirren das Wort Geschlecht, besonders für das Wort \"Abend\" - \"večer\", das im weiblichen Geschlecht ist. So kann man oft \"Dobro večer\" oder \"Dobar večer\" hören, und niemand wird Ihnen seltsame Blicke zuwerfen, wenn Sie denselben Fehler machen.",
+      "LectureId": "lecture_1"
+    },
+    "lesson_5": {
+      "LessonId": "lesson_5",
+      "Title": "Begrüßung",
+      "Phrase": "Dobrodošli!",
+      "Info": "Wir begrüßen Menschen mit ...",
+      "Translation": "Willkommen!",
+      "Memo": "Beachten Sie, dass \"dobrodošli\" ein Wort ist, das aus zwei Wörtern \"dobro\" - \"gut\" und \"došli\" - \"kommt\", anders als Grüße für Morgen, Tag, Abend und Nacht \"dobro jutro\", \"dobar dan \", etc ",
+      "LectureId": "lecture_1"
+    },
+    "lesson_6": {
+      "LessonId": "lesson_6",
+      "Title": "Zum Abschied",
+      "Phrase": "Doviđenja!",
+      "Info": "Wenn wir Leute verlassen, sagen wir ...",
+      "Translation": "Auf Wiedersehen!",
+      "Memo": "\"Doviđenja\" bedeutet wörtlich \"Bis zu sehen\".",
+      "LectureId": "lecture_1"
+    },
+    "lesson_7": {
+      "LessonId": "lesson_7",
+      "Title": "Wir sehen uns!",
+      "Phrase": "Vidimo se!",
+      "Info": "Um zu sagen, dass wir uns wieder sehen werden, sagen wir ...",
+      "Translation": "Wir sehen uns!",
+      "Memo": "\"Vidimo se\" bedeutet wörtlich \"Wir sehen uns\"",
+      "LectureId": "lecture_1"
+    },
+    "lesson_8": {
+      "LessonId": "lesson_8",
+      "Title": "Höflich sein",
+      "Phrase": "Kako si? Kako ste?",
+      "Info": "Wenn wir anderen gegenüber höflich sein wollen, fragen wir sie, wie es ihnen geht ...",
+      "Translation": "Wie geht es dir? Wie geht es ihnen?",
+      "Memo": "Informell würden Sie Singularform \"Kako si?\" verwenden. Wenn Sie jemanden formell fragen oder eine Gruppe von Leuten fragen, würden Sie den Plural \"Kako ste?\" verwenden.",
+      "LectureId": "lecture_1"
+    }
+  }
+}

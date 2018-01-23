@@ -1,0 +1,177 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\Audio\lecture_1lesson_1.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_2.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_3.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_4.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_5.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_6.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_7.mp3" />
+    <None Remove="Resources\Audio\lecture_1lesson_8.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_1.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_2.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_3.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_4.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_5.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_6.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_7.mp3" />
+    <None Remove="Resources\Audio\lecture_2lesson_8.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_1.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_2.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_3.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_4.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_5.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_6.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_7.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_8.mp3" />
+    <None Remove="Resources\Audio\lecture_3lesson_9.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_1.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_2.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_3.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_4.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_5.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_6.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_7.mp3" />
+    <None Remove="Resources\Audio\lecture_4lesson_8.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_1.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_2.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_3.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_4.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_5.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_6.mp3" />
+    <None Remove="Resources\Audio\lecture_5lesson_7.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_1.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_2.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_3.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_4.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_5.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_6.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_7.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_8.mp3" />
+    <None Remove="Resources\Audio\lecture_6lesson_9.mp3" />
+    <None Remove="Resources\Lectures\de\lecture_1.json" />
+    <None Remove="Resources\Lectures\de\lecture_2.json" />
+    <None Remove="Resources\Lectures\de\lecture_3.json" />
+    <None Remove="Resources\Lectures\de\lecture_4.json" />
+    <None Remove="Resources\Lectures\en\lecture_1.json" />
+    <None Remove="Resources\Lectures\en\lecture_2.json" />
+    <None Remove="Resources\Lectures\en\lecture_3.json" />
+    <None Remove="Resources\Lectures\en\lecture_4.json" />
+    <None Remove="Resources\Lectures\en\lecture_5.json" />
+    <None Remove="Resources\Lectures\en\lecture_6.json" />
+    <None Remove="Resources\Lectures\Icons\lecture_1.png" />
+    <None Remove="Resources\Lectures\Icons\lecture_2.png" />
+    <None Remove="Resources\Lectures\Icons\lecture_3.png" />
+    <None Remove="Resources\Lectures\Icons\lecture_4.png" />
+    <None Remove="Resources\Lectures\Icons\lecture_5.png" />
+    <None Remove="Resources\Lectures\Icons\lecture_6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_1.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_2.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_3.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_4.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_5.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_6.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_7.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_1lesson_8.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_1.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_2.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_3.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_4.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_5.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_6.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_7.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_2lesson_8.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_1.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_2.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_3.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_4.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_5.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_6.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_7.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_8.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_3lesson_9.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_1.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_2.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_3.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_4.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_5.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_6.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_7.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_4lesson_8.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_1.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_2.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_3.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_4.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_5.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_6.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_5lesson_7.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_1.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_2.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_3.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_4.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_5.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_6.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_7.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_8.mp3" />
+    <EmbeddedResource Include="Resources\Audio\lecture_6lesson_9.mp3" />
+    <EmbeddedResource Include="Resources\Lectures\de\lecture_1.json" />
+    <EmbeddedResource Include="Resources\Lectures\de\lecture_2.json" />
+    <EmbeddedResource Include="Resources\Lectures\de\lecture_3.json" />
+    <EmbeddedResource Include="Resources\Lectures\de\lecture_4.json" />
+    <EmbeddedResource Include="Resources\Lectures\en\lecture_1.json" />
+    <EmbeddedResource Include="Resources\Lectures\en\lecture_2.json" />
+    <EmbeddedResource Include="Resources\Lectures\en\lecture_3.json" />
+    <EmbeddedResource Include="Resources\Lectures\en\lecture_4.json" />
+    <EmbeddedResource Include="Resources\Lectures\en\lecture_5.json" />
+    <EmbeddedResource Include="Resources\Lectures\en\lecture_6.json" />
+    <EmbeddedResource Include="Resources\Lectures\Icons\lecture_1.png" />
+    <EmbeddedResource Include="Resources\Lectures\Icons\lecture_5.png" />
+    <EmbeddedResource Include="Resources\Lectures\Icons\lecture_2.png" />
+    <EmbeddedResource Include="Resources\Lectures\Icons\lecture_3.png" />
+    <EmbeddedResource Include="Resources\Lectures\Icons\lecture_4.png" />
+    <EmbeddedResource Include="Resources\Lectures\Icons\lecture_6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DLToolkit.Forms.Controls.FlowListView" Version="2.0.10" />
+    <PackageReference Include="Microsoft.AppCenter.Analytics" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AppCenter.Crashes" Version="1.1.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.1-beta3" />
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.0.1" />
+    <PackageReference Include="Xam.Plugins.Settings" Version="3.2.0.130-beta" />
+    <PackageReference Include="Xamarin.Forms" Version="2.5.0.121934" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="App.xaml.cs">
+      <DependentUpon>*.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\AppResources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DataAccess\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\AppResources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\SettingsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
