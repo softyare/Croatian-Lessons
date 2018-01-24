@@ -27,8 +27,15 @@ namespace CroatianLessons.Standard.iOS
             //{
             //    TextColor = UIColor.LightTextColor
             //});
+            UITabBar.Appearance.SelectedImageTintColor = UIColor.Magenta;
+            UITabBarItem.Appearance.SetTitleTextAttributes(
+                new UITextAttributes()
+                {
+                    TextColor = UIColor.Magenta
+                },
+                UIControlState.Selected);
 
-           global::Xamarin.Forms.Forms.Init();
+            global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);

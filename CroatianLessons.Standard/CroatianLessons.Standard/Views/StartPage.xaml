@@ -3,7 +3,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
             xmlns:t="clr-namespace:CroatianLessons.Standard.Helpers"
             xmlns:v="clr-namespace:CroatianLessons.Standard.Views"
-             x:Class="CroatianLessons.Standard.Views.StartPage">
+             x:Class="CroatianLessons.Standard.Views.StartPage"
+            BarBackgroundColor="Wheat"
+            BarTextColor="Black"
+            >
   <!--Pages can be added as references or inline-->
     <NavigationPage Title="{t:Translate Tab1Title}" Icon="lectures" BarBackgroundColor="MediumOrchid" BarTextColor="AliceBlue">
         <x:Arguments>
