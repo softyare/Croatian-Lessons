@@ -1,0 +1,158 @@
+{
+  "LectureId": "lecture_11",
+  "Title": "In A Restaurant",
+  "Lessons": {
+  "lesson_1": {
+    "LessonId": "lesson_1",
+    "Title": "Appetizer",
+    "Phrase": "Predjelo",
+    "Info": "We start our meals with...",
+    "Translation": "Appetizer",
+    "Memo": "\"Jelo\" means \"meal\". \"Pred\" means \"before\" or \"in front of\". Therefore \"predjelo\" is a meal before a meal.",
+    "LectureId": "lecture_11"
+  },
+  "lesson_2": {
+    "LessonId": "lesson_2",
+    "Title": "Soup",
+    "Phrase": "Juha",
+    "Info": "Clear or creamy...",
+    "Translation": "Soup",
+    "Memo": "\"Pileća juha\" = \"Chicken soup\"\n\"Povrtna juha / juha od povrća\" = \"Vegetable soup\"\n\"Goveđa juha\" = \"Beef soup\"\n\"Juha od rajčice\" = \"Tomato soup\"\n\"Juha od gljiva\" = \"Mashroom soup\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_3": {
+    "LessonId": "lesson_3",
+    "Title": "Main course",
+    "Phrase": "Glavno jelo",
+    "Info": "We literally say \"main meal\"...",
+    "Translation": "Main course",
+    "Memo": "The word \"glavno\", meaning \"main\", comes from the word \"glava\", meaning \"head\".",
+    "LectureId": "lecture_11"
+  },
+  "lesson_4": {
+    "LessonId": "lesson_4",
+    "Title": "Dessert",
+    "Phrase": "Desert",
+    "Info": "Something sweet for the end...",
+    "Translation": "Dessert",
+    "Memo": "\"Kolač\" = \"Cake\"\n\"Sladoled\" = \"Ice cream\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_5": {
+    "LessonId": "lesson_5",
+    "Title": "Meat",
+    "Phrase": "Meso",
+    "Info": "White or red....",
+    "Translation": "Meat",
+    "Memo": "When used as an adjective the word is \"mesni\", \"mesna\", or \"mesne\" for example:\n\"mesne okruglice\" = \"meat balls\"\n\"mesni odrezak\" = \"meat steak\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_6": {
+    "LessonId": "lesson_6",
+    "Title": "Chicken",
+    "Phrase": "Piletina",
+    "Info": "Chicken meat",
+    "Translation": "Chicken",
+    "Memo": "\"pečena piletina\" = \"roasted chicken\"\n\"pohana piletina\" = \"fried chicken\"\n\"pileća juha\" = \"chicken soup\"\n\"pileća krilca\" = \"chicken wings\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_7": {
+    "LessonId": "lesson_7",
+    "Title": "Pork",
+    "Phrase": "Svinjetina",
+    "Info": "Pork meat",
+    "Translation": "Pork",
+    "Memo": "\"Svinja\" = \"Pig\"\n\"Svinjetina\" = \"Pork meat\"\n\"Svinjsko pečenje\" = \"Roasted pork\"\n\"Svinjski odrezak\" = \"Pork steak\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_8": {
+    "LessonId": "lesson_8",
+    "Title": "Beef",
+    "Phrase": "Govedina",
+    "Info": "Beef meat",
+    "Translation": "Beef",
+    "Memo": "\"Teletina\" = \"Beef meat, up to 12 months young\"\n\"Junetina\" = \"Beef meat, 12 - 24 months young\"\n\"Govedina\" = \"Beef meat, 24 months and older\"\n\"Teleće pečenje\" = \"Roasted young beef\"\n\"Juneća rebra\" = \"Beef ribs\"\n\"Goveđi gulaš\" = \"Beef stew\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_9": {
+    "LessonId": "lesson_9",
+    "Title": "Lamb",
+    "Phrase": "Janjetina",
+    "Info": "Lamb meat",
+    "Translation": "Lamb",
+    "Memo": "\"Janje\" = \"Lamb\"\n\"Janjetina\" = \"Lamb meat\"\n\"Pečena janjetina\" = \"Roasted lamb\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_10": {
+    "LessonId": "lesson_10",
+    "Title": "Fish",
+    "Phrase": "Riba",
+    "Info": "Sea or river...",
+    "Translation": "Fish",
+    "Memo": "\"Morska riba\" = \"Sea fish\"\n\"Riječna riba\" = \"River fish\"\n\"Svježa riba\" = Fresh fish\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_11": {
+    "LessonId": "lesson_11",
+    "Title": "Roast",
+    "Phrase": "Pečenje",
+    "Info": "Roasted meat",
+    "Translation": "Roasted meat",
+    "Memo": "\"Peć\" = \"Oven\"\n\"Peći\" = \"To bake\", \"To roast\"\n\"Pečem\" = \"I'm baking, I'm roasting\"\n\"Pečenje\" = \"Roasted meat\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_12": {
+    "LessonId": "lesson_12",
+    "Title": "Bread",
+    "Phrase": "Kruh",
+    "Info": "Wheat or corn...",
+    "Translation": "Bread",
+    "Memo": "\"Domaći kruh\" = \"Home made bread\"\n\"Kukuruzni kruh\" = \"Corn bread\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_13": {
+    "LessonId": "lesson_13",
+    "Title": "Potato",
+    "Phrase": "Krumpir",
+    "Info": "Roasted, fried or mashed...",
+    "Translation": "Potato",
+    "Memo": "\"Pečeni krumpir\" = \"Roasted potato\"\n\"Kuhani krumpir\" = \"Boiled potato\"\n\"Prženi krumpirići\" = \"French fries\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_14": {
+    "LessonId": "lesson_14",
+    "Title": "Vegetables",
+    "Phrase": "Povrće",
+    "Info": "Tomatoes, carrots, etc...",
+    "Translation": "Vegetables",
+    "Memo": "Our word for garden is \"vrt\", and prefix \"po\" suggests something that is on top of something. Therefore \"po-vrt-je\" means something that is on the surface of a garden. \"Tj\" changes to \"ć\", and we have \"povrće\".",
+    "LectureId": "lecture_11"
+  },
+  "lesson_15": {
+    "LessonId": "lesson_15",
+    "Title": "Fruits",
+    "Phrase": "Voće",
+    "Info": "Apples, Bananas, etc...",
+    "Translation": "Fruits",
+    "Memo": "\"Jabuke\" = \"Apples\"\n\"Trešnje\" = \"Cherries\"\n\"Jagode\" = Strawberries\"\n\"Lubenica\" = \"Watermelon\"\n\"Breskva\" = \"Peach\"\n\"Marelica\" = \"Apricot\"\n\"Kruška\" = \"Pear\"",
+    "LectureId": "lecture_11"
+  },
+  "lesson_16": {
+    "LessonId": "lesson_16",
+    "Title": "Čevapčići",
+    "Phrase": "Čevapčići",
+    "Info": "Popular domestic dish...",
+    "Translation": "Čevapčići",
+    "Memo": "Popular dish in Croatia, traditionally from Bosnia And Herzegovina, made out of grilled finger-sized minced beef patties.",
+    "LectureId": "lecture_11"
+  },
+  "lesson_17": {
+    "LessonId": "lesson_17",
+    "Title": "Pancakes",
+    "Phrase": "Palačinke",
+    "Info": "Best with chocolate or marmelade",
+    "Translation": "Pancakes",
+    "Memo": "Thin pancakes, common street food on Croatian coast during summer.",
+    "LectureId": "lecture_11"
+  }
+}}

@@ -1,0 +1,87 @@
+{
+  "LectureId": "lecture_7",
+  "Title": "Friends & Family",
+  "Lessons": {
+    "lesson_1": {
+      "LessonId": "lesson_1",
+      "Title": "Our closest",
+      "Phrase": "Obitelj i prijatelji.",
+      "Info": "People colsest to us we call ...",
+      "Translation": "Family and friends.",
+      "Memo": "\"Ovo je moja obitelj\" = \"This is my family\"\n\"Ovo su moji prijatelji\" = \"These are my friends\"",
+      "LectureId": "lecture_7"
+    },
+    "lesson_2": {
+      "LessonId": "lesson_2",
+      "Title": "Parents",
+      "Phrase": "Majka i otac. Mama i tata.",
+      "Info": "We call our parents ...",
+      "Translation": "Mother and father. Mom and dad.",
+      "Memo": "Small children would sometimes use the diminutive form, calling:\n\"Mamice! Tatice!\" = \"Mommy! Daddy!\"\n\nTeens would sometimes refer to their parents as:\n\"Stari i stara\" = \"Old man and old woman\"",
+      "LectureId": "lecture_7"
+    },
+    "lesson_3": {
+      "LessonId": "lesson_3",
+      "Title": "Grandparents",
+      "Phrase": "Djed i baba. \nPradjed i prababa.",
+      "Info": "Our grandparents we call ...",
+      "Translation": "Grandfather and grandmother.\nGreat-grandfather and Great-grandmother.",
+      "Memo": "Kids usually call their grandparents:\n\"Deda i baka\" = \"Grandpa and granny\"",
+      "LectureId": "lecture_7"
+    },
+    "lesson_4": {
+      "LessonId": "lesson_4",
+      "Title": "Siblings",
+      "Phrase": "Brat i sestra. Braća i sestre.",
+      "Info": "Our siblings we call ...",
+      "Translation": "Brother and sister. Brothers and sisters.",
+      "Memo": "Kids call their siblings:\n\"Braco i seka\" = \"Bro and sis\"\n\nWe don't have the group name for siblings like in English language.",
+      "LectureId": "lecture_7"
+    },
+    "lesson_5": {
+      "LessonId": "lesson_5",
+      "Title": "Offsprings",
+      "Phrase": "Kćer i sin.",
+      "Info": "Our children we call ...",
+      "Translation": "Daughter and son.",
+      "Memo": "For both son and daughter we can say:\n\"Moje dijete\" = \"My child\"",
+      "LectureId": "lecture_7"
+    },
+    "lesson_6": {
+      "LessonId": "lesson_6",
+      "Title": "Closer family",
+      "Phrase": "Roditelji i djeca.",
+      "Info": "When talking about closer family we refer to...",
+      "Translation": "Parents and children.",
+      "Memo": "\"Roditelj\" literally means \"Birth giver\".\nNotice that \"lj\" at the end of the word is one complex letter in Croatian language. You can also find it in the next lesson for the word \"friend\" = \"prijatelj\"",
+      "LectureId": "lecture_7"
+    },
+    "lesson_7": {
+      "LessonId": "lesson_7",
+      "Title": "Friends",
+      "Phrase": "Prijatelj i prijateljica.",
+      "Info": "Our friends we call ...",
+      "Translation": "Male friend and female friend.",
+      "Memo": "We distinguish words for male and female friends.\nFor a girlfriend in romantic sense we use word \"djevojka\", meaning simply \"girl\".",
+      "LectureId": "lecture_7"
+    },
+    "lesson_8": {
+      "LessonId": "lesson_8",
+      "Title": "Acquaintances",
+      "Phrase": "Poznanik i poznanica.",
+      "Info": "Our acquaintances we call ...",
+      "Translation": "Male acquaintance and female acquaintance",
+      "Memo": "The root of the word \"poznanik\" is the word \"znati\" that means \"to know\", therefore \"poznanik\" literally means \"someone you know\".",
+      "LectureId": "lecture_7"
+    },
+    "lesson_9": {
+      "LessonId": "lesson_9",
+      "Title": "Extended family",
+      "Phrase": "Ujak i ujna. \nStric i strina. \nTetak i tetka.",
+      "Info": "Some members of extended family we call ...",
+      "Translation": "Uncle and aunt.",
+      "Memo": "We have many words for the members of our extended family, as you can see in this example for uncle and aunt.\nMy \"ujak\" is my mother's brother, and \"ujna\" is his wife.\nMy \"stric\" is my father's brother, and \"strina\" is his wife.\nMy \"tetka\" is my father's sister, and \"tetak\" is her husband\", and the same is for my mother's sister and her husband.",
+      "LectureId": "lecture_7"
+    }
+  }
+}

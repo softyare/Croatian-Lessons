@@ -1,0 +1,86 @@
+{
+  "LectureId": "lecture_8",
+  "Title": "On The Road",
+  "Lessons": {
+  "lesson_1": {
+    "LessonId": "lesson_1",
+    "Title": "Every summer",
+    "Phrase": "Idemo u Hrvatsku!",
+    "Info": "When a vacation finally begins...",
+    "Translation": "We are going to Croatia!",
+    "Memo": "\"Idemo\" means \"We're going\", but it can also mean \"Let's go\". If you support  Croatian soccer team for example, you would shout:\n\"Idemo Hrvatska!\" = \"Let's go Croatia!\" or \"Come on Croatia!\".\n\" 'aj'mo Hrvatska!\", means the same as the previous phrase. \" 'aj'mo\" is shortened from \"Hajdemo\", which also means \"Let's go\".\n\n\"Hrvatska\" is native name of Croatia. Croatian language is \"Hrvatski jezik\". If you have come to this lesson already, you can say:\n\"Učim hrvatski.\" = \"I'm learning Croatian.\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_2": {
+    "LessonId": "lesson_2",
+    "Title": "Way & road",
+    "Phrase": "Put, cesta, autocesta.",
+    "Info": "We drive on...",
+    "Translation": "Way, road, highway.",
+    "Memo": "\"Put\" is the root of many words in Croatian language:\n\"Putnik\" = \"Traveler\"\n\"Putovanje\" = \"Travel, trip\"\n\"Putovnica\" = \"Passport\"\n\"Usput\" = \"By the way\"\n...",
+    "LectureId": "lecture_8"
+  },
+  "lesson_3": {
+    "LessonId": "lesson_3",
+    "Title": "Asking for a way 1",
+    "Phrase": "Tražim put do Splita.",
+    "Info": "If you need to ask the way to some place...",
+    "Translation": "I'm looking for the way to Split.",
+    "Memo": "\"Tražim\" means \"I'm looking for\".\n\nYou can also ask:\n\"Kojim putem do Zagreba?\" = \"Which way to Zagreb?\", or simply:\n\"Put za Hvar?\" = \"The way to Hvar?\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_4": {
+    "LessonId": "lesson_4",
+    "Title": "Asking for a way 2",
+    "Phrase": "Je li ovo cesta za Dubrovnik?",
+    "Info": "To make sure you are on the right road, ask...",
+    "Translation": "Is this the road to Dubrovnik?",
+    "Memo": "\"Koja cesta ide do obale?\" = \"Which road goes to the shore?\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_5": {
+    "LessonId": "lesson_5",
+    "Title": "Asking for a way 3",
+    "Phrase": "Kako do trajekta?",
+    "Info": "The easy way to ask for directions is...",
+    "Translation": "How to get to ferry?",
+    "Memo": "\"Kako doći do plaže?\" = \"How to get to the beach?\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_6": {
+    "LessonId": "lesson_6",
+    "Title": "Asking for help",
+    "Phrase": "Oprostite! Možete li mi pomoći?",
+    "Info": "When you need to ask for help, you'd say...",
+    "Translation": "Excuse me! Can you help me?",
+    "Memo": "\"Pomoć\" = \"Help\"\n\"Prva pomoć\" = \"First aid\"\n\"Upomoć!\" = \"Help!\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_7": {
+    "LessonId": "lesson_7",
+    "Title": "Asking to see",
+    "Phrase": "Možete li mi pokazati?",
+    "Info": "When you want someone to show you, you ask...",
+    "Translation": "Can you show me?",
+    "Memo": "Someone might answer you with:\n\"Vidite li ... ?\" = \"Can you see ... ?\"\n\nTo which you might answer with:\n\"Vidim\" = \"I see\", or\n\"Ne vidim\" = \"I don't see\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_8": {
+    "LessonId": "lesson_8",
+    "Title": "Directions",
+    "Phrase": "Lijevo - Desno - Pravo",
+    "Info": "We often use these words for directions... ",
+    "Translation": "Left - Right - Straight",
+    "Memo": "For orientation we use:\n\"Sjever\" = \"North\"\n\"Istok\" = \"East\"\n\"Jug\" = \"South\"\n\"Zapad\" = \"West\"",
+    "LectureId": "lecture_8"
+  },
+  "lesson_9": {
+    "LessonId": "lesson_9",
+    "Title": "On your way back home",
+    "Phrase": "Sretan put!",
+    "Info": "When someone is going to travel, we say...",
+    "Translation": "Have a nice trip!",
+    "Memo": "\"Sretan\" means both \"Lucky\" and \"Happy\" in Croatian.\n\"Sreća\" = \"Luck\" or \"Happiness\"",
+    "LectureId": "lecture_8"
+  }
+}}

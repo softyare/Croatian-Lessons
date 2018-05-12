@@ -5,6 +5,36 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resources\Audio\Abeceda\a.mp3" />
+    <None Remove="Resources\Audio\Abeceda\b.mp3" />
+    <None Remove="Resources\Audio\Abeceda\c.mp3" />
+    <None Remove="Resources\Audio\Abeceda\cx.mp3" />
+    <None Remove="Resources\Audio\Abeceda\cy.mp3" />
+    <None Remove="Resources\Audio\Abeceda\d.mp3" />
+    <None Remove="Resources\Audio\Abeceda\dx.mp3" />
+    <None Remove="Resources\Audio\Abeceda\dy.mp3" />
+    <None Remove="Resources\Audio\Abeceda\e.mp3" />
+    <None Remove="Resources\Audio\Abeceda\f.mp3" />
+    <None Remove="Resources\Audio\Abeceda\g.mp3" />
+    <None Remove="Resources\Audio\Abeceda\h.mp3" />
+    <None Remove="Resources\Audio\Abeceda\i.mp3" />
+    <None Remove="Resources\Audio\Abeceda\j.mp3" />
+    <None Remove="Resources\Audio\Abeceda\k.mp3" />
+    <None Remove="Resources\Audio\Abeceda\l.mp3" />
+    <None Remove="Resources\Audio\Abeceda\lj.mp3" />
+    <None Remove="Resources\Audio\Abeceda\m.mp3" />
+    <None Remove="Resources\Audio\Abeceda\n.mp3" />
+    <None Remove="Resources\Audio\Abeceda\nj.mp3" />
+    <None Remove="Resources\Audio\Abeceda\o.mp3" />
+    <None Remove="Resources\Audio\Abeceda\p.mp3" />
+    <None Remove="Resources\Audio\Abeceda\r.mp3" />
+    <None Remove="Resources\Audio\Abeceda\s.mp3" />
+    <None Remove="Resources\Audio\Abeceda\sx.mp3" />
+    <None Remove="Resources\Audio\Abeceda\t.mp3" />
+    <None Remove="Resources\Audio\Abeceda\u.mp3" />
+    <None Remove="Resources\Audio\Abeceda\v.mp3" />
+    <None Remove="Resources\Audio\Abeceda\z.mp3" />
+    <None Remove="Resources\Audio\Abeceda\zx.mp3" />
     <None Remove="Resources\Audio\lecture_1lesson_1.mp3" />
     <None Remove="Resources\Audio\lecture_1lesson_2.mp3" />
     <None Remove="Resources\Audio\lecture_1lesson_3.mp3" />
@@ -73,6 +103,36 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Include="Resources\Audio\Abeceda\a.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\b.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\c.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\cx.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\cy.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\d.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\dx.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\dy.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\e.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\f.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\g.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\h.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\i.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\j.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\k.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\l.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\lj.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\m.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\n.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\nj.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\o.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\p.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\r.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\s.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\sx.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\t.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\u.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\v.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\z.mp3" />
+    <EmbeddedResource Include="Resources\Audio\Abeceda\zx.mp3" />
     <EmbeddedResource Include="Resources\Audio\lecture_1lesson_1.mp3" />
     <EmbeddedResource Include="Resources\Audio\lecture_1lesson_2.mp3" />
     <EmbeddedResource Include="Resources\Audio\lecture_1lesson_3.mp3" />
@@ -163,12 +223,16 @@
 
   <ItemGroup>
     <Folder Include="DataAccess\" />
+    <Folder Include="Resources\AbecedaImg\" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Update="Resources\AppResources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\AccessoriesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Views\SettingsPage.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>

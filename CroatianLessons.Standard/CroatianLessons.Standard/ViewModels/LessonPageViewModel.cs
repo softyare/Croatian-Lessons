@@ -4,6 +4,7 @@ using Plugin.SimpleAudioPlayer.Abstractions;
 using System.ComponentModel;
 using System.IO;
 using System.Reflection;
+using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
 
@@ -63,7 +64,7 @@ namespace CroatianLessons.Standard.ViewModels
         private void PlayAudio()
         {
             ISimpleAudioPlayer player = Plugin.SimpleAudioPlayer.CrossSimpleAudioPlayer.Current;
-
+            
             try
             {
                 if (!player.IsPlaying)

@@ -61,6 +61,24 @@ namespace CroatianLessons.Standard.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Adventure.
+        /// </summary>
+        internal static string A {
+            get {
+                return ResourceManager.GetString("A", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Alphabet.
+        /// </summary>
+        internal static string Alphabet {
+            get {
+                return ResourceManager.GetString("Alphabet", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to No.
         /// </summary>
         internal static string AnswerNo {
@@ -84,6 +102,15 @@ namespace CroatianLessons.Standard.Resources {
         internal static string AppName {
             get {
                 return ResourceManager.GetString("AppName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Bug.
+        /// </summary>
+        internal static string B {
+            get {
+                return ResourceManager.GetString("B", resourceCulture);
             }
         }
         
@@ -133,6 +160,105 @@ namespace CroatianLessons.Standard.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Road.
+        /// </summary>
+        internal static string C {
+            get {
+                return ResourceManager.GetString("C", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Man.
+        /// </summary>
+        internal static string Cx {
+            get {
+                return ResourceManager.GetString("Cx", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Cy {
+            get {
+                return ResourceManager.GetString("Cy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string D {
+            get {
+                return ResourceManager.GetString("D", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Dx {
+            get {
+                return ResourceManager.GetString("Dx", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Dy {
+            get {
+                return ResourceManager.GetString("Dy", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string E {
+            get {
+                return ResourceManager.GetString("E", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string F {
+            get {
+                return ResourceManager.GetString("F", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string G {
+            get {
+                return ResourceManager.GetString("G", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string H {
+            get {
+                return ResourceManager.GetString("H", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string I {
+            get {
+                return ResourceManager.GetString("I", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Welcome to Love Carpe Diem&apos;s Croatian Lessons!.
         /// </summary>
         internal static string IntroInfoMsg {
@@ -147,6 +273,33 @@ namespace CroatianLessons.Standard.Resources {
         internal static string IntroLanguageInfo {
             get {
                 return ResourceManager.GetString("IntroLanguageInfo", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string J {
+            get {
+                return ResourceManager.GetString("J", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string K {
+            get {
+                return ResourceManager.GetString("K", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string L {
+            get {
+                return ResourceManager.GetString("L", resourceCulture);
             }
         }
         
@@ -214,6 +367,96 @@ namespace CroatianLessons.Standard.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Lj {
+            get {
+                return ResourceManager.GetString("Lj", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string M {
+            get {
+                return ResourceManager.GetString("M", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string N {
+            get {
+                return ResourceManager.GetString("N", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Nj {
+            get {
+                return ResourceManager.GetString("Nj", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string O {
+            get {
+                return ResourceManager.GetString("O", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string P {
+            get {
+                return ResourceManager.GetString("P", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string R {
+            get {
+                return ResourceManager.GetString("R", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string S {
+            get {
+                return ResourceManager.GetString("S", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Sx {
+            get {
+                return ResourceManager.GetString("Sx", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string T {
+            get {
+                return ResourceManager.GetString("T", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Lectures.
         /// </summary>
         internal static string Tab1Title {
@@ -237,6 +480,42 @@ namespace CroatianLessons.Standard.Resources {
         internal static string Tab3Title {
             get {
                 return ResourceManager.GetString("Tab3Title", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string U {
+            get {
+                return ResourceManager.GetString("U", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string V {
+            get {
+                return ResourceManager.GetString("V", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Z {
+            get {
+                return ResourceManager.GetString("Z", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        internal static string Zx {
+            get {
+                return ResourceManager.GetString("Zx", resourceCulture);
             }
         }
     }

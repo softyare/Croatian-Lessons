@@ -15,12 +15,7 @@
     </NavigationPage>
     <NavigationPage Title="{t:Translate Tab2Title}" Icon="accessories" BarBackgroundColor="SteelBlue" BarTextColor="AliceBlue">
         <x:Arguments>
-            <ContentPage>
-                <Label Text="{t:Translate Tab2Title}"
-                       HorizontalOptions="CenterAndExpand"
-                       VerticalOptions="CenterAndExpand"
-                       FontSize="Large"/>
-            </ContentPage>
+            <v:AccessoriesPage/>
         </x:Arguments>
     </NavigationPage>
     <NavigationPage Title="{t:Translate Tab3Title}" Icon="settings" BarBackgroundColor="MediumVioletRed" BarTextColor="LightPink">

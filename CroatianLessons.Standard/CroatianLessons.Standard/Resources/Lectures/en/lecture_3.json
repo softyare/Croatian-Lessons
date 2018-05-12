@@ -1,87 +1,195 @@
 {
   "LectureId": "lecture_3",
-  "Title": "Basic Questions",
+  "Title": "Numbers",
   "Lessons": {
-    "lesson_1": {
-      "LessonId": "lesson_1",
-      "Title": "For methods",
-      "Phrase": "Kako?",
-      "Info": "When we want to ask about the way something's done, we ask...",
-      "Translation": "How?",
-      "Memo": "For example, \"How are you?\" we ask \"Kako si (ti)?\". Ususaly, we omit personal pronouns when it's obvious from the verb \"to be\" who the subject of the sentence is. You would use it in the case you want to put accent on it, for example if you answer on the same question someone just asked you: \"Kako si?\" - \"Dobro. Kako si ti?\".\nGeneral answer on question \"Kako?\" is \"Tako.\", meaning \"Like that.\" or \"So.\". It's easy to remember: \"Kako? - Tako!\"",
-      "LectureId": "lecture_3"
-    },
-    "lesson_2": {
-      "LessonId": "lesson_2",
-      "Title": "For reasons",
-      "Phrase": "Zašto?",
-      "Info": "When we want to know the reason for something, we ask...",
-      "Translation": "Why?",
-      "Memo": "\"š\" in \"Zašto\" is pronounced like English \"sh\", like in \"shot\" or \"fish\".\nSimilar to \"Kako? Tako!\", there is also general answer to question \"Zašto?\" - \"Zato.\" meaning \"Because.\"",
-      "LectureId": "lecture_3"
-    },
-    "lesson_3": {
-      "LessonId": "lesson_3",
-      "Title": "For people or things",
-      "Phrase": "Tko? Što?",
-      "Info": "When we're curious about a person or a thing, we ask...",
-      "Translation": "Who? What?",
-      "Memo": "\"Tko?\" is quite hard to pronounce even for Croatians, so you would often hear the 'lazy' version \" 'Ko?\"\nMaybe you have noticed that you already know word \"što?\" from previous lesson - \"Zašto?\", which means \"Why?\" If we would literally translate \"Zašto?\" it actually comes from two croatian words \"za\", meaning \"for\", and \"što\", meaning \"what\".",
-      "LectureId": "lecture_3"
-    },
-    "lesson_4": {
-      "LessonId": "lesson_4",
-      "Title": "For time",
-      "Phrase": "Kad?",
-      "Info": "When we want to know at what point in time something is, we ask...",
-      "Translation": "When?",
-      "Memo": "\"Kad?\" is used when you want to know at what time is something, or when. If you want to know what time is it now, you would use another question word you will learn in one of incoming lessons - \"Koliko je sati?\", which literally means \"How much hours is it?\"",
-      "LectureId": "lecture_3"
-    },
-    "lesson_5": {
-      "LessonId": "lesson_5",
-      "Title": "For directions or destinations",
-      "Phrase": "Gdje? Kamo? Kud?",
-      "Info": "When we need a direction to or a location of some place, we ask...",
-      "Translation": "Where? Where to? What way?",
-      "Memo": "Many Croatians are confusing these three questions, so you can often hear \"Kud ideš?\" meaning \"What way are you going?\" when they really want to ask \"Kamo ideš?\" that means \"Where are you going?\"",
-      "LectureId": "lecture_3"
-    },
-    "lesson_6": {
-      "LessonId": "lesson_6",
-      "Title": "For sources or origins",
-      "Phrase": "Odakle?",
-      "Info": "When we want to know the place of origin, we ask...",
-      "Translation": "Where from?",
-      "Memo": "If you want to know where someone is from, you would ask them \"Odakle si?\" if in informal situation, or formally \"Odakle ste?\"\nLike with \"Kako si ti?\" you would also add personal pronoun at the end of the question if you repeat the same question you are just being asked: \"Odakle si?\" - \"Iz Hrvatske. Odakle si ti?\"",
-      "LectureId": "lecture_3"
-    },
-    "lesson_7": {
-      "LessonId": "lesson_7",
-      "Title": "For quantity",
-      "Phrase": "Koliko?",
-      "Info": "For the quantity of things or beings we ask...",
-      "Translation": "How much?",
-      "Memo": "Often used in shopping for asking how much something costs. It also has its general answer: \"Toliko.\", meaning \"That much\".",
-      "LectureId": "lecture_3"
-    },
-    "lesson_8": {
-      "LessonId": "lesson_8",
-      "Title": "For company or means",
-      "Phrase": "S kim? S čim?",
-      "Info": "About person in someone's company or about object being in use, we ask...",
-      "Translation": "With whom? With what?",
-      "Memo": "\"S kim\" is pronounced together like one word, and it sounds like English \"scheme\".\n\"č\" is pronounced like English \"ch\", for example in name \"Charlie\".",
-      "LectureId": "lecture_3"
-    },
-    "lesson_9": {
-      "LessonId": "lesson_9",
-      "Title": "General question particle",
-      "Phrase": "Je li ... ?",
-      "Info": "For questions that begin with \"to be\" verb, we add \"li\" particle, so we ask...",
-      "Translation": "Is ... ?",
-      "Memo": "\"Is it late?\" we would ask \"Je li kasno?\". \"It is late.\" we would say just \"Kasno je.\".",
-      "LectureId": "lecture_3"
-    }
+  "lesson_1": {
+    "LessonId": "lesson_1",
+    "Title": "0 - Zero",
+    "Phrase": "Nula",
+    "Info": "0",
+    "Translation": "Zero",
+    "Memo": "We also say \"ništica\" or \"ništa\" for zero. \"Ništa\" also means \"nothing\".",
+    "LectureId": "lecture_3"
+  },
+  "lesson_2": {
+    "LessonId": "lesson_2",
+    "Title": "1 - One",
+    "Phrase": "Jedan",
+    "Info": "1",
+    "Translation": "One",
+    "Memo": "\"Jedan\" = \"One man\"\n\"Jedna\" = \"One woman, or something female\"\n\"Jedno\" = \"Something of neutral gender\"\n\"Jednom\" = \"Once\"\n\"Prvi / Prva / Prvo\" = \"First\"\n\"Jedinica\" = \"Unit\", also the name of the digit 1",
+    "LectureId": "lecture_3"
+  },
+  "lesson_3": {
+    "LessonId": "lesson_3",
+    "Title": "2 - Two",
+    "Phrase": "Dva",
+    "Info": "2",
+    "Translation": "Two",
+    "Memo": "\"Dvojica\" = \"Two men\"\n\"Dvije\" = \"Two women (or anything female)\"\n\"Dvoje\" = \"Two people (male and female)\"\n\"Drugi / Druga / Drugo\" = \"Second\"\n\"Dvaput\" = \"Twice\"\n\"Dvojka\" = The name of the digit 2",
+    "LectureId": "lecture_3"
+  },
+  "lesson_4": {
+    "LessonId": "lesson_4",
+    "Title": "3 - Three",
+    "Phrase": "Tri",
+    "Info": "3",
+    "Translation": "Three",
+    "Memo": "\"Trojica\" = \"Three men\"\n\"Tri\" = \"Three women (or three of anything non living)\"\n\"Troje\" = \"Three people (male and female)\"\n\"Treći / Treća / Treće\" = \"Third\"\n\"Trojka\" = \"Group of three\", also the name of the digit 3",
+    "LectureId": "lecture_3"
+  },
+  "lesson_5": {
+    "LessonId": "lesson_5",
+    "Title": "4 - Four",
+    "Phrase": "Četiri",
+    "Info": "4",
+    "Translation": "Four",
+    "Memo": "\"Četvorica\" = \"Four men\"\n\"Četiri\" = \"Four women, or four of anything non-living\"\n\"Četvero\" = \"Four people, male and female\"\n\"Četvrti / Četvrta / Četvrto\" = \"Fourth\"\n\"Četvorka\" = \"Group of five\", also the name of the digit 4",
+    "LectureId": "lecture_3"
+  },
+  "lesson_6": {
+    "LessonId": "lesson_6",
+    "Title": "5 - Five",
+    "Phrase": "Pet",
+    "Info": "5",
+    "Translation": "Five",
+    "Memo": "\"Petorica\" = \"5 men\"\n\"Petero\" = \"5 people\"\n\"Peti / Peta / Peto\" = \"Fifth\"\n\"Petorka\" = \"Group of five\"\n\"Petica\" = The name of the digit 5",
+    "LectureId": "lecture_3"
+  },
+  "lesson_7": {
+    "LessonId": "lesson_7",
+    "Title": "6 - Six",
+    "Phrase": "Šest",
+    "Info": "6",
+    "Translation": "Six",
+    "Memo": "\"Šestorica\" = \"6 men\"\n\"Šestero\" = \"6 people\"\n\"Šesti / Šesta / Šesto\" = \"Sixth\"\n\"Šestorka\" = \"Group of 6\"\n\"Šestica\" = The name of the digit 6",
+    "LectureId": "lecture_3"
+  },
+  "lesson_8": {
+    "LessonId": "lesson_8",
+    "Title": "7 - Seven",
+    "Phrase": "Sedam",
+    "Info": "7",
+    "Translation": "Seven",
+    "Memo": "\"Sedmorica\" = \"7 men\"\n\"Sedmero\" = \"7 people\"\n\"Sedmi / Sedma / Sedmo\" = \"Seventh\"\n\"Sedmorka\" = \"Group of 7\"\n\"Sedmica\" = The name of the digit 7",
+    "LectureId": "lecture_3"
+  },
+  "lesson_9": {
+    "LessonId": "lesson_9",
+    "Title": "8 - Eight",
+    "Phrase": "Osam",
+    "Info": "8",
+    "Translation": "Eight",
+    "Memo": "\"Osmorica\" = \"8 men\"\n\"Osmero\" = \"8 people\"\n\"Osmi / Osma / Osmo\" = \"Eighth\"\n\"Osmorka\" = \"Group of 8\"\n\"Osmica\" = The name of the digit 8",
+    "LectureId": "lecture_3"
+  },
+  "lesson_10": {
+    "LessonId": "lesson_10",
+    "Title": "9 - Nine",
+    "Phrase": "Devet",
+    "Info": "9",
+    "Translation": "Nine",
+    "Memo": "\"Devetorica\" = \"9 men\"\n\"Devetero\" = \"9 people\"\n\"Deveti / Deveta / Deveto\" = \"Ninth\"\n\"Devetorka\" = \"Group of 9\"\n\"Devetka\" = The name of the digit 9",
+    "LectureId": "lecture_3"
+  },
+  "lesson_11": {
+    "LessonId": "lesson_11",
+    "Title": "10 - Ten",
+    "Phrase": "Deset",
+    "Info": "10",
+    "Translation": "Ten",
+    "Memo": "\"Desetorica\" = \"10 men\"\n\"Desetero\" = \"10 people\"\n\"Deseti / Deseta / Deseto\" = \"Tenth\"\n\"Desetorka\" = \"Group of 10\"\n\"Desetka\" = The name of the digit 10",
+    "LectureId": "lecture_3"
+  },
+  "lesson_12": {
+    "LessonId": "lesson_12",
+    "Title": "11 - Eleven",
+    "Phrase": "Jedanaest",
+    "Info": "11",
+    "Translation": "Eleven",
+    "Memo": "\"Jedanaestorica\" = \"11 men\"\r\n\"Jedanaestero\" = \"11 people\"\r\n\"Jedanaesti / Jedanaesta / Jedanaesto\" = \"Eleventh\"\r\n\"Jedanaestorka\" = \"Group of 11\"\r\n\"Jedanaestica\" = The name of the digit 11",
+    "LectureId": "lecture_3"
+  },
+  "lesson_13": {
+    "LessonId": "lesson_13",
+    "Title": "12 - Twelve",
+    "Phrase": "Dvanaest",
+    "Info": "12",
+    "Translation": "Twelve",
+    "Memo": "\"Dvanaestorica\" = \"12 men\"\n\"Dvanaestero\" = \"12 people\"\n\"Dvanaesti / Dvanaesta / Dvanaesto\" = \"Twelfth\"\n\"Dvanaestorka\" = \"Group of 12\"\n\"Dvanaestica\" = The name of the digit 12",
+    "LectureId": "lecture_3"
+  },
+  "lesson_14": {
+    "LessonId": "lesson_14",
+    "Title": "13 - Thirteen",
+    "Phrase": "Trinaest",
+    "Info": "13",
+    "Translation": "Thirteen",
+    "Memo": "\"Trinaestorica\" = \"13 men\"\n\"Trinaestero\" = \"13 people\"\n\"Trinaesti / Trinaesta / Trinaesto\" = \"Thirteenth\"\n\"Trinaestorka\" = \"Group of 13\"\n\"Trinaestica\" = The name of the digit 13",
+    "LectureId": "lecture_3"
+  },
+  "lesson_15": {
+    "LessonId": "lesson_15",
+    "Title": "20 - Twenty",
+    "Phrase": "Dvadeset",
+    "Info": "20",
+    "Translation": "Twenty",
+    "Memo": "\"Dvadesetorica\" = \"20 men\"\r\n\"Dvadesetero\" = \"20 people\"\r\n\"Dvadeseti / Dvadeseta / Dvadeseto\" = \"Twentieth\"\r\n\"Dvadesetorka\" = \"Group of 20\"\r\n\"Dvadesetica\" = The name of the digit 20",
+    "LectureId": "lecture_3"
+  },
+  "lesson_16": {
+    "LessonId": "lesson_16",
+    "Title": "25 - Twenty five",
+    "Phrase": "Dvadeset i pet",
+    "Info": "25",
+    "Translation": "Twenty five",
+    "Memo": "\"Dvadesetpetorica\" = \"25 men\"\n\"Dvadesetpetero\" = \"25 people\"\n\"Dvadesetpeti / Dvadesetpeta / Dvadesetpeto\" = \"Twenty-fifth\"\n\"Dvadesetpetorka\" = \"Group of 25\"\n\"Dvadesetpetica\" = The name of the digit 25",
+    "LectureId": "lecture_3"
+  },
+  "lesson_17": {
+    "LessonId": "lesson_17",
+    "Title": "99 - Ninety nine",
+    "Phrase": "Devedeset i devet",
+    "Info": "99",
+    "Translation": "Ninety nine",
+    "Memo": "\"Devedesetdevetorica\" = \"99 men\"\r\n\"Devedesetdevetero\" = \"99 people\"\r\n\"Devedesetdeveti / Devedesetdeveta / Devedesetdeveto\" = \"Ninety-ninth\"\r\n\"Devedesetpetorka\" = \"Group of 99\"\r\n\"Devedesetdevetka\" = The name of the digit 99",
+    "LectureId": "lecture_3"
+  },
+  "lesson_18": {
+    "LessonId": "lesson_18",
+    "Title": "100 - Hundred",
+    "Phrase": "Sto",
+    "Info": "100",
+    "Translation": "Hundred",
+    "Memo": "We also say \"stotinu\". The name of the digit is \"stotica\" ili \"stotka\".",
+    "LectureId": "lecture_3"
+  },
+  "lesson_19": {
+    "LessonId": "lesson_19",
+    "Title": "500 - Five hundred",
+    "Phrase": "Petsto",
+    "Info": "500",
+    "Translation": "Five hundred",
+    "Memo": "We also say \"pet stotina\".",
+    "LectureId": "lecture_3"
+  },
+  "lesson_20": {
+    "LessonId": "lesson_20",
+    "Title": "1000 - Thousand",
+    "Phrase": "Tisuću",
+    "Info": "1000",
+    "Translation": "Thousand",
+    "Memo": "For a million we say \"milijun\", and for a billion we say \"milijarda\".",
+    "LectureId": "lecture_3"
+  },
+  "lesson_21": {
+    "LessonId": "lesson_21",
+    "Title": "1/2 - Half",
+    "Phrase": "Pola",
+    "Info": "1/2",
+    "Translation": "Half",
+    "Memo": "\"Poluvrijeme\" = \"Half time\" (in sports)\n\"Pola sata\" = \"Half an hour\"\n\"Pola pet\" = \"Half past four\" (note: \"pet\" means 5)",
+    "LectureId": "lecture_3"
   }
+}
 }

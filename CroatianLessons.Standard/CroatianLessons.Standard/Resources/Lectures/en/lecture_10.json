@@ -1,0 +1,113 @@
+{
+  "LectureId": "lecture_10",
+  "Title": "In A Bar",
+  "Lessons": {
+  "lesson_1": {
+    "LessonId": "lesson_1",
+    "Title": "Calling a waiter",
+    "Phrase": "Oprostite, mogu li naručiti?",
+    "Info": "When you want to call a waiter to order drinks...",
+    "Translation": "Excuse me, can I order?",
+    "Memo": "Waiter is called \"konobar\" in Croatian, or \"konobarica\" if it's female waiter, but it's not polite to call \"Konobar!\" in the bar.",
+    "LectureId": "lecture_10"
+  },
+  "lesson_2": {
+    "LessonId": "lesson_2",
+    "Title": "Waiter's reply",
+    "Phrase": "Izvolite, što ćete popiti?",
+    "Info": "A waiter would usually ask you...",
+    "Translation": "Please, what do you want to drink?",
+    "Memo": "More often a waiter would just ask \"Izvolite?\", meaning \"Yes, please?\"",
+    "LectureId": "lecture_10"
+  },
+  "lesson_3": {
+    "LessonId": "lesson_3",
+    "Title": "Beer",
+    "Phrase": "Jedno pivo, molim vas.",
+    "Info": "To order a beer...",
+    "Translation": "One beer, please.",
+    "Memo": "If you're ordering more than one beer, then the word \"pivo\" changes to \"piva\":\n\"Dva piva\" = \"Two beers\",\n\"Tri piva\" = \"Three beers\", etc...",
+    "LectureId": "lecture_10"
+  },
+  "lesson_4": {
+    "LessonId": "lesson_4",
+    "Title": "Coffee",
+    "Phrase": "Jednu kavu s mlijekom, molim vas.",
+    "Info": "To order a coffee with milk...",
+    "Translation": "One coffee with milk, please.",
+    "Memo": "If you order just a coffe in Croatian bars it usually means an espresso.",
+    "LectureId": "lecture_10"
+  },
+  "lesson_5": {
+    "LessonId": "lesson_5",
+    "Title": "Water",
+    "Phrase": "Mogu li dobiti čašu vode?",
+    "Info": "To ask for a glass of water...",
+    "Translation": "Can I have a glass of water?",
+    "Memo": "\"Čaša\" = \"A glass, a cup\"\n\"Voda\" = \"Water\"",
+    "LectureId": "lecture_10"
+  },
+  "lesson_6": {
+    "LessonId": "lesson_6",
+    "Title": "Wine 1",
+    "Phrase": "Kakvih vina imate?",
+    "Info": "To ask for the wine offer...",
+    "Translation": "What kind of wines do you have?",
+    "Memo": "Croatia offers a variety of quality wines. Some of the best known are Babić, Malvazija, Pošip, Plavac, Dingač and others... ",
+    "LectureId": "lecture_10"
+  },
+  "lesson_7": {
+    "LessonId": "lesson_7",
+    "Title": "Wine 2",
+    "Phrase": "Crno ili bijelo vino?",
+    "Info": "Main kinds of wine...",
+    "Translation": "Red or white wine?",
+    "Memo": "We actually say \"black wine\" for \"red wine\" in Croatia.\n\"Crno\" = \"Black\"\n\"Crveno\" = \"Red\"\n\"Bijelo\" = \"White\"\n\"Crno vino\" = \"Red wine\"",
+    "LectureId": "lecture_10"
+  },
+  "lesson_8": {
+    "LessonId": "lesson_8",
+    "Title": "Brandy",
+    "Phrase": "Rakija šljivovica ili lozovača?",
+    "Info": "Usual domestic aperitif",
+    "Translation": "Plum or grape brandy?",
+    "Memo": "Rakija is our domestic brandy, usualy made out of grapes or plums. The third most common kind of rakija is \"travarica\", a grape brandy infused with mediterranean herbs.",
+    "LectureId": "lecture_10"
+  },
+  "lesson_9": {
+    "LessonId": "lesson_9",
+    "Title": "Cocktails",
+    "Phrase": "Pravite li koktele?",
+    "Info": "To ask if the bar offers cocktails...",
+    "Translation": "Do you make cocktails?",
+    "Memo": "We have domesticated the word \"cocktail\" to \"koktel\".",
+    "LectureId": "lecture_10"
+  },
+  "lesson_10": {
+    "LessonId": "lesson_10",
+    "Title": "Payment",
+    "Phrase": "Mogu li platiti?",
+    "Info": "To ask for payment...",
+    "Translation": "Can I pay?",
+    "Memo": "A waiter could ask you \"Mogu li naplatiti?\", meaning \"Can i charge you?\"\n\"Platiti\" = \"To pay\"\n\"Naplatiti\" = To charge\"",
+    "LectureId": "lecture_10"
+  },
+  "lesson_11": {
+    "LessonId": "lesson_11",
+    "Title": "Bill",
+    "Phrase": "Račun molim!",
+    "Info": "To ask for a bill...",
+    "Translation": "Check please!",
+    "Memo": "\"Račun\" means \"a bill, a check\", but it can also mean \"a calculation\".\n\"Računati\" = \"To calculate, to count\"\n\"Račun\" = \"A bill, a calculation\"",
+    "LectureId": "lecture_10"
+  },
+  "lesson_12": {
+    "LessonId": "lesson_12",
+    "Title": "Credit cards",
+    "Phrase": "Primate li kartice?",
+    "Info": "To ask if you can pay with a credit card...",
+    "Translation": "Do you accept credit cards?",
+    "Memo": "A waiter could ask you \"Gotovina ili kartica\", meaning \"Cash or card?\"",
+    "LectureId": "lecture_10"
+  }
+}}

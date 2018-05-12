@@ -117,6 +117,12 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="A" xml:space="preserve">
+    <value>Adventure</value>
+  </data>
+  <data name="Alphabet" xml:space="preserve">
+    <value>Alphabet</value>
+  </data>
   <data name="AnswerNo" xml:space="preserve">
     <value>No</value>
   </data>
@@ -126,6 +132,9 @@
   <data name="AppName" xml:space="preserve">
     <value>Croatian Lessons For Tourists</value>
     <comment>Application name</comment>
+  </data>
+  <data name="B" xml:space="preserve">
+    <value>Bug</value>
   </data>
   <data name="BtnCloseLesson" xml:space="preserve">
     <value>Close ✕</value>
@@ -146,6 +155,39 @@
     <value>Let's start!</value>
     <comment>Button text to start learning, i.e. leaving Intro screen</comment>
   </data>
+  <data name="C" xml:space="preserve">
+    <value>Road</value>
+  </data>
+  <data name="Cx" xml:space="preserve">
+    <value>Man</value>
+  </data>
+  <data name="Cy" xml:space="preserve">
+    <value />
+  </data>
+  <data name="D" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Dx" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Dy" xml:space="preserve">
+    <value />
+  </data>
+  <data name="E" xml:space="preserve">
+    <value />
+  </data>
+  <data name="F" xml:space="preserve">
+    <value />
+  </data>
+  <data name="G" xml:space="preserve">
+    <value />
+  </data>
+  <data name="H" xml:space="preserve">
+    <value />
+  </data>
+  <data name="I" xml:space="preserve">
+    <value />
+  </data>
   <data name="IntroInfoMsg" xml:space="preserve">
     <value>Welcome to Love Carpe Diem's Croatian Lessons!</value>
     <comment>Welcome to Love Carpe Diem's Croatian Lessons!</comment>
@@ -153,6 +195,15 @@
   <data name="IntroLanguageInfo" xml:space="preserve">
     <value>Your device's language is </value>
     <comment>Info on device's language</comment>
+  </data>
+  <data name="J" xml:space="preserve">
+    <value />
+  </data>
+  <data name="K" xml:space="preserve">
+    <value />
+  </data>
+  <data name="L" xml:space="preserve">
+    <value />
   </data>
   <data name="LabelSelectLanguage" xml:space="preserve">
     <value>Select application language:</value>
@@ -178,6 +229,36 @@
   <data name="LanguageNotFoundInfoSettings" xml:space="preserve">
     <value>Unfortunately your language is not supported in this version. Use default English language or pick another language.</value>
   </data>
+  <data name="Lj" xml:space="preserve">
+    <value />
+  </data>
+  <data name="M" xml:space="preserve">
+    <value />
+  </data>
+  <data name="N" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Nj" xml:space="preserve">
+    <value />
+  </data>
+  <data name="O" xml:space="preserve">
+    <value />
+  </data>
+  <data name="P" xml:space="preserve">
+    <value />
+  </data>
+  <data name="R" xml:space="preserve">
+    <value />
+  </data>
+  <data name="S" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Sx" xml:space="preserve">
+    <value />
+  </data>
+  <data name="T" xml:space="preserve">
+    <value />
+  </data>
   <data name="Tab1Title" xml:space="preserve">
     <value>Lectures</value>
     <comment>Tab1Title</comment>
@@ -189,5 +270,17 @@
   <data name="Tab3Title" xml:space="preserve">
     <value>Settings</value>
     <comment>Tab3Title</comment>
+  </data>
+  <data name="U" xml:space="preserve">
+    <value />
+  </data>
+  <data name="V" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Z" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Zx" xml:space="preserve">
+    <value />
   </data>
 </root>

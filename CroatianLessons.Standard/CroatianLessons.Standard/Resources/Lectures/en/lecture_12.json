@@ -1,0 +1,122 @@
+{
+  "LectureId": "lecture_12",
+  "Title": "Love & Dating",
+  "Lessons": {
+  "lesson_1": {
+    "LessonId": "lesson_1",
+    "Title": "Love",
+    "Phrase": "Ljubav",
+    "Info": "All you need is...",
+    "Translation": "Love",
+    "Memo": "\"Ljubav\" is the root of some other words in Croatian language, like:\n\"Ljubiti\" - \"To kiss\"\n\"Poljubac\" - \"A kiss\"\n\"Zaljubljen / Zaljubljena\" = \"In love\"\n\"Ljubavnik / Ljubavnica\" = \"Lover\"\n\"Ljubomora\" = \"Jealousy\"\n\"Voditi ljubav\" = \"To make love\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_2": {
+    "LessonId": "lesson_2",
+    "Title": "Kiss",
+    "Phrase": "Poljubac",
+    "Info": "It all starts with a...",
+    "Translation": "Kiss",
+    "Memo": "Another word for kiss is \"pusa\".",
+    "LectureId": "lecture_12"
+  },
+  "lesson_3": {
+    "LessonId": "lesson_3",
+    "Title": "Asking for a kiss",
+    "Phrase": "Poljubi me!",
+    "Info": "Sometimes you have to ask for it...",
+    "Translation": "Kiss me!",
+    "Memo": "Another phrase is:\n\"Daj mi pusu\" = \"Give me a kiss\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_4": {
+    "LessonId": "lesson_4",
+    "Title": "Expressing affection",
+    "Phrase": "Zaljubljen sam u tebe!",
+    "Info": "To express your feelings you can say...",
+    "Translation": "I'm in love with you!",
+    "Memo": "This phrase he would say to her. She would say: \"Zaljubljena sam u tebe!\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_5": {
+    "LessonId": "lesson_5",
+    "Title": "Expressing sympathy",
+    "Phrase": "Sviđaš mi se!",
+    "Info": "You can also say...",
+    "Translation": "I like you!",
+    "Memo": "The question would be \"Da li ti se sviđam?\" = \"Do you like me?\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_6": {
+    "LessonId": "lesson_6",
+    "Title": "Expressing love",
+    "Phrase": "Volim te!",
+    "Info": "When your feelings are deeper you would say...",
+    "Translation": "I love you!",
+    "Memo": "\"Voljeti\" = \"To love\"\n\"Volim Hrvatsku\" = \"I love Croatia\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_7": {
+    "LessonId": "lesson_7",
+    "Title": "Asking for a hug",
+    "Phrase": "Zagrli me!",
+    "Info": "When you need a hug...",
+    "Translation": "Hug me!",
+    "Memo": "\"Zagrljaj\" = \"Hug\"\n\"Grljenje\" = \"Hugging\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_8": {
+    "LessonId": "lesson_8",
+    "Title": "Expressing missing",
+    "Phrase": "Nedostaješ mi!",
+    "Info": "When your love is far away...",
+    "Translation": "I miss you!",
+    "Memo": "Another common phrase of the same meaning is \"Fališ mi!\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_9": {
+    "LessonId": "lesson_9",
+    "Title": "Expressing enchantment",
+    "Phrase": "Prekrasno izgledaš!",
+    "Info": "To give her a compliment...",
+    "Translation": "You look beautiful!",
+    "Memo": "This phrase is usually given to a woman. To give a compliment to a man you could say:\n\"Zgodan si\" - \"You are handsome\" or\n\"Dobro izgledaš\" - \"You're looking good\".",
+    "LectureId": "lecture_12"
+  },
+  "lesson_10": {
+    "LessonId": "lesson_10",
+    "Title": "Asking for a relationship status",
+    "Phrase": "Jesi li u vezi?",
+    "Info": "To ask for a relationship status...",
+    "Translation": "Are you in a relationship?",
+    "Memo": "\"Jesi li sam? / Jesi li sama?\" - \"Are you alone?\"\n\"Jesi li s nekime?\" - \"Are you with someone?\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_11": {
+    "LessonId": "lesson_11",
+    "Title": "Asking out",
+    "Phrase": "Hoćeš li izaći sa mnom?",
+    "Info": "To ask someone out...",
+    "Translation": "Do you want to go out with me?",
+    "Memo": "\"Izlaz\" = \"Exit\"\n\"Izaći\" = \"To come out\" (in general)\n\"Izaći\" = \"To go out\" (to party)\n\"Izlazak\" = \"A date, hanging with friends, being out\"",
+    "LectureId": "lecture_12"
+  },
+  "lesson_12": {
+    "LessonId": "lesson_12",
+    "Title": "Asking to marry",
+    "Phrase": "Hoćeš li se udati za mene?",
+    "Info": "To ask her to marry you...",
+    "Translation": "Would you marry me?",
+    "Memo": "\"Ona se udaje\" = \"She is getting married\"\n\"On se ženi\" = \"He is getting married\"\n\"Ona je udana\" = \"She is married\"\n\"On je oženjen\" = \"He is married\" (literally: he is womened)",
+    "LectureId": "lecture_12"
+  },
+  "lesson_13": {
+    "LessonId": "lesson_13",
+    "Title": "Wedding",
+    "Phrase": "Svadba",
+    "Info": "The big day...",
+    "Translation": "Wedding",
+    "Memo": "Another word for wedding is \"pir\". All the people at a wedding we call \"svatovi\".",
+    "LectureId": "lecture_12"
+  }
+}}
