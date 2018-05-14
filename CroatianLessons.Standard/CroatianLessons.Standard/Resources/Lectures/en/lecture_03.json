@@ -1,87 +1,87 @@
 {
-  "LectureId": "lecture_3",
+  "LectureId": "lecture_03",
   "Title": "Numbers",
   "Lessons": {
-  "lesson_1": {
-    "LessonId": "lesson_1",
+  "lesson_01": {
+    "LessonId": "lesson_01",
     "Title": "0 - Zero",
     "Phrase": "Nula",
     "Info": "0",
     "Translation": "Zero",
     "Memo": "We also say \"ništica\" or \"ništa\" for zero. \"Ništa\" also means \"nothing\".",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_2": {
-    "LessonId": "lesson_2",
+  "lesson_02": {
+    "LessonId": "lesson_02",
     "Title": "1 - One",
     "Phrase": "Jedan",
     "Info": "1",
     "Translation": "One",
     "Memo": "\"Jedan\" = \"One man\"\n\"Jedna\" = \"One woman, or something female\"\n\"Jedno\" = \"Something of neutral gender\"\n\"Jednom\" = \"Once\"\n\"Prvi / Prva / Prvo\" = \"First\"\n\"Jedinica\" = \"Unit\", also the name of the digit 1",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_3": {
-    "LessonId": "lesson_3",
+  "lesson_03": {
+    "LessonId": "lesson_03",
     "Title": "2 - Two",
     "Phrase": "Dva",
     "Info": "2",
     "Translation": "Two",
     "Memo": "\"Dvojica\" = \"Two men\"\n\"Dvije\" = \"Two women (or anything female)\"\n\"Dvoje\" = \"Two people (male and female)\"\n\"Drugi / Druga / Drugo\" = \"Second\"\n\"Dvaput\" = \"Twice\"\n\"Dvojka\" = The name of the digit 2",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_4": {
-    "LessonId": "lesson_4",
+  "lesson_04": {
+    "LessonId": "lesson_04",
     "Title": "3 - Three",
     "Phrase": "Tri",
     "Info": "3",
     "Translation": "Three",
     "Memo": "\"Trojica\" = \"Three men\"\n\"Tri\" = \"Three women (or three of anything non living)\"\n\"Troje\" = \"Three people (male and female)\"\n\"Treći / Treća / Treće\" = \"Third\"\n\"Trojka\" = \"Group of three\", also the name of the digit 3",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_5": {
-    "LessonId": "lesson_5",
+  "lesson_05": {
+    "LessonId": "lesson_05",
     "Title": "4 - Four",
     "Phrase": "Četiri",
     "Info": "4",
     "Translation": "Four",
     "Memo": "\"Četvorica\" = \"Four men\"\n\"Četiri\" = \"Four women, or four of anything non-living\"\n\"Četvero\" = \"Four people, male and female\"\n\"Četvrti / Četvrta / Četvrto\" = \"Fourth\"\n\"Četvorka\" = \"Group of five\", also the name of the digit 4",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_6": {
-    "LessonId": "lesson_6",
+  "lesson_06": {
+    "LessonId": "lesson_06",
     "Title": "5 - Five",
     "Phrase": "Pet",
     "Info": "5",
     "Translation": "Five",
     "Memo": "\"Petorica\" = \"5 men\"\n\"Petero\" = \"5 people\"\n\"Peti / Peta / Peto\" = \"Fifth\"\n\"Petorka\" = \"Group of five\"\n\"Petica\" = The name of the digit 5",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_7": {
-    "LessonId": "lesson_7",
+  "lesson_07": {
+    "LessonId": "lesson_07",
     "Title": "6 - Six",
     "Phrase": "Šest",
     "Info": "6",
     "Translation": "Six",
     "Memo": "\"Šestorica\" = \"6 men\"\n\"Šestero\" = \"6 people\"\n\"Šesti / Šesta / Šesto\" = \"Sixth\"\n\"Šestorka\" = \"Group of 6\"\n\"Šestica\" = The name of the digit 6",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_8": {
-    "LessonId": "lesson_8",
+  "lesson_08": {
+    "LessonId": "lesson_08",
     "Title": "7 - Seven",
     "Phrase": "Sedam",
     "Info": "7",
     "Translation": "Seven",
     "Memo": "\"Sedmorica\" = \"7 men\"\n\"Sedmero\" = \"7 people\"\n\"Sedmi / Sedma / Sedmo\" = \"Seventh\"\n\"Sedmorka\" = \"Group of 7\"\n\"Sedmica\" = The name of the digit 7",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_9": {
-    "LessonId": "lesson_9",
+  "lesson_09": {
+    "LessonId": "lesson_09",
     "Title": "8 - Eight",
     "Phrase": "Osam",
     "Info": "8",
     "Translation": "Eight",
     "Memo": "\"Osmorica\" = \"8 men\"\n\"Osmero\" = \"8 people\"\n\"Osmi / Osma / Osmo\" = \"Eighth\"\n\"Osmorka\" = \"Group of 8\"\n\"Osmica\" = The name of the digit 8",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_10": {
     "LessonId": "lesson_10",
@@ -90,7 +90,7 @@
     "Info": "9",
     "Translation": "Nine",
     "Memo": "\"Devetorica\" = \"9 men\"\n\"Devetero\" = \"9 people\"\n\"Deveti / Deveta / Deveto\" = \"Ninth\"\n\"Devetorka\" = \"Group of 9\"\n\"Devetka\" = The name of the digit 9",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_11": {
     "LessonId": "lesson_11",
@@ -99,7 +99,7 @@
     "Info": "10",
     "Translation": "Ten",
     "Memo": "\"Desetorica\" = \"10 men\"\n\"Desetero\" = \"10 people\"\n\"Deseti / Deseta / Deseto\" = \"Tenth\"\n\"Desetorka\" = \"Group of 10\"\n\"Desetka\" = The name of the digit 10",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_12": {
     "LessonId": "lesson_12",
@@ -108,7 +108,7 @@
     "Info": "11",
     "Translation": "Eleven",
     "Memo": "\"Jedanaestorica\" = \"11 men\"\r\n\"Jedanaestero\" = \"11 people\"\r\n\"Jedanaesti / Jedanaesta / Jedanaesto\" = \"Eleventh\"\r\n\"Jedanaestorka\" = \"Group of 11\"\r\n\"Jedanaestica\" = The name of the digit 11",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_13": {
     "LessonId": "lesson_13",
@@ -117,7 +117,7 @@
     "Info": "12",
     "Translation": "Twelve",
     "Memo": "\"Dvanaestorica\" = \"12 men\"\n\"Dvanaestero\" = \"12 people\"\n\"Dvanaesti / Dvanaesta / Dvanaesto\" = \"Twelfth\"\n\"Dvanaestorka\" = \"Group of 12\"\n\"Dvanaestica\" = The name of the digit 12",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_14": {
     "LessonId": "lesson_14",
@@ -126,7 +126,7 @@
     "Info": "13",
     "Translation": "Thirteen",
     "Memo": "\"Trinaestorica\" = \"13 men\"\n\"Trinaestero\" = \"13 people\"\n\"Trinaesti / Trinaesta / Trinaesto\" = \"Thirteenth\"\n\"Trinaestorka\" = \"Group of 13\"\n\"Trinaestica\" = The name of the digit 13",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_15": {
     "LessonId": "lesson_15",
@@ -135,7 +135,7 @@
     "Info": "20",
     "Translation": "Twenty",
     "Memo": "\"Dvadesetorica\" = \"20 men\"\r\n\"Dvadesetero\" = \"20 people\"\r\n\"Dvadeseti / Dvadeseta / Dvadeseto\" = \"Twentieth\"\r\n\"Dvadesetorka\" = \"Group of 20\"\r\n\"Dvadesetica\" = The name of the digit 20",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_16": {
     "LessonId": "lesson_16",
@@ -144,7 +144,7 @@
     "Info": "25",
     "Translation": "Twenty five",
     "Memo": "\"Dvadesetpetorica\" = \"25 men\"\n\"Dvadesetpetero\" = \"25 people\"\n\"Dvadesetpeti / Dvadesetpeta / Dvadesetpeto\" = \"Twenty-fifth\"\n\"Dvadesetpetorka\" = \"Group of 25\"\n\"Dvadesetpetica\" = The name of the digit 25",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_17": {
     "LessonId": "lesson_17",
@@ -153,7 +153,7 @@
     "Info": "99",
     "Translation": "Ninety nine",
     "Memo": "\"Devedesetdevetorica\" = \"99 men\"\r\n\"Devedesetdevetero\" = \"99 people\"\r\n\"Devedesetdeveti / Devedesetdeveta / Devedesetdeveto\" = \"Ninety-ninth\"\r\n\"Devedesetpetorka\" = \"Group of 99\"\r\n\"Devedesetdevetka\" = The name of the digit 99",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_18": {
     "LessonId": "lesson_18",
@@ -162,7 +162,7 @@
     "Info": "100",
     "Translation": "Hundred",
     "Memo": "We also say \"stotinu\". The name of the digit is \"stotica\" ili \"stotka\".",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
   "lesson_19": {
     "LessonId": "lesson_19",
@@ -171,25 +171,25 @@
     "Info": "500",
     "Translation": "Five hundred",
     "Memo": "We also say \"pet stotina\".",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_20": {
-    "LessonId": "lesson_20",
+  "lesson_020": {
+    "LessonId": "lesson_020",
     "Title": "1000 - Thousand",
     "Phrase": "Tisuću",
     "Info": "1000",
     "Translation": "Thousand",
     "Memo": "For a million we say \"milijun\", and for a billion we say \"milijarda\".",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   },
-  "lesson_21": {
-    "LessonId": "lesson_21",
+  "lesson_021": {
+    "LessonId": "lesson_021",
     "Title": "1/2 - Half",
     "Phrase": "Pola",
     "Info": "1/2",
     "Translation": "Half",
     "Memo": "\"Poluvrijeme\" = \"Half time\" (in sports)\n\"Pola sata\" = \"Half an hour\"\n\"Pola pet\" = \"Half past four\" (note: \"pet\" means 5)",
-    "LectureId": "lecture_3"
+    "LectureId": "lecture_03"
   }
 }
 }

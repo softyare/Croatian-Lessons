@@ -1,78 +1,78 @@
 {
-  "LectureId": "lecture_1",
+  "LectureId": "lecture_01",
   "Title": "The Greetings",
   "Lessons": {
-    "lesson_1": {
-      "LessonId": "lesson_1",
+    "lesson_01": {
+      "LessonId": "lesson_01",
       "Title": "When you come or leave",
       "Phrase": "Bok!",
       "Info": "When we meet our friends we say...",
       "Translation": "Hi!",
       "Memo": "This is an informal greeting. We say it to friends, family, and acquaintances.",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_2": {
-      "LessonId": "lesson_2",
+    "lesson_02": {
+      "LessonId": "lesson_02",
       "Title": "In the morning",
       "Phrase": "Dobro jutro!",
       "Info": "In the morning we greet each other with...",
       "Translation": "Good morning!",
       "Memo": "This is a formal greeting but used in informal situations as well. We say \"dobro jutro\" until about 10 am. \"Dobro\" means \"good\", \"jutro\" is \"morning\".",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_3": {
-      "LessonId": "lesson_3",
+    "lesson_03": {
+      "LessonId": "lesson_03",
       "Title": "In the afternoon",
       "Phrase": "Dobar dan!",
       "Info": "During the day we say to each other...",
       "Translation": "Good afternoon",
       "Memo": "This is formal greeting used from about 10 am till 18 pm. \"Dan\" means \"day\". Notice that \"jutro\" was \"dobro\", and \"dan\" is \"dobar\". The reason for that change is the genders in the Croatian language. A day is male and morning is of neutral gender. Evening, in the next lesson is female.",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_4": {
-      "LessonId": "lesson_4",
+    "lesson_04": {
+      "LessonId": "lesson_04",
       "Title": "In the evening",
       "Phrase": "Dobra večer!",
       "Info": "In the evening we say...",
       "Translation": "Good evening",
       "Memo": "Many Croatian people are confusing word genders, especially for the word evening - \"večer\", which is in the female gender. So you can often hear \"Dobro večer\", or \"Dobar večer\", and no one will give you strange looks if you make the same mistake.",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_5": {
-      "LessonId": "lesson_5",
+    "lesson_05": {
+      "LessonId": "lesson_05",
       "Title": "Welcoming",
       "Phrase": "Dobrodošli!",
       "Info": "We're welcoming people with...",
       "Translation": "Welcome!",
       "Memo": "Notice that \"dobrodošli\" is one word made of two words \"dobro\" = \"good, well\" and \"došli\" = \"come\" connected to one, unlike greetings for the morning, day, evening and night \"dobro jutro\", \"dobar dan\", etc...",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_6": {
-      "LessonId": "lesson_6",
+    "lesson_06": {
+      "LessonId": "lesson_06",
       "Title": "On farewell",
       "Phrase": "Doviđenja!",
       "Info": "When we're leaving people we say...",
       "Translation": "Goodbye!",
       "Memo": "\"Doviđenja\" literally means \"Until seeing\".",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_7": {
-      "LessonId": "lesson_7",
+    "lesson_07": {
+      "LessonId": "lesson_07",
       "Title": "See you!",
       "Phrase": "Vidimo se!",
       "Info": "To give a notice on farewell that we'll see eachother again we say...",
       "Translation": "See you!",
       "Memo": "\"Vidimo se\" literally means \"We see each other\"",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     },
-    "lesson_8": {
-      "LessonId": "lesson_8",
+    "lesson_08": {
+      "LessonId": "lesson_08",
       "Title": "Being polite",
       "Phrase": "Kako si? Kako ste?",
       "Info": "If we want to be polite to other people we ask them how are they...",
       "Translation": "How are you doing?",
       "Memo": "Informally, you would use a singular form \"Kako si?\". If you're asking someone formally or you're asking a group of people, you would use plural form \"Kako ste?\"",
-      "LectureId": "lecture_1"
+      "LectureId": "lecture_01"
     }
   }
 }

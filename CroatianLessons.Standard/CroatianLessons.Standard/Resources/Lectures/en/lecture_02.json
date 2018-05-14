@@ -1,78 +1,78 @@
 {
-  "LectureId": "lecture_2",
+  "LectureId": "lecture_02",
   "Title": "Basic Words",
   "Lessons": {
-    "lesson_1": {
-      "LessonId": "lesson_1",
+    "lesson_01": {
+      "LessonId": "lesson_01",
       "Title": "Affirmation and negation",
       "Phrase": "Da. Ne. Možda...",
       "Info": "To confirm, decline or if we're not sure, we say ...",
       "Translation": "Yes. No. Maybe...",
       "Memo": "Pronounce \"ž\" in \"možda\" like French \"j\" in \"bon jour\", or like the second \"g\" in \"negligee\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_2": {
-      "LessonId": "lesson_2",
+    "lesson_02": {
+      "LessonId": "lesson_02",
       "Title": "Personal pronouns 1",
       "Phrase": "Ja sam. Ti si.",
       "Info": "When we're addressing ourselves or directly to someone we say ...",
       "Translation": "I am. You are.",
       "Memo": "Use \"Ja sam\" when you want to say what you are, let's say a man, a singer or busy... If you would answer on a question like \"Are you a man?\" or \"Are you busy?\" you would answer with a phrase \"Jesam.\" In Croatian language \"J\" is always pronounced like English \"Y\" in \"Yes\" for example.",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_3": {
-      "LessonId": "lesson_3",
+    "lesson_03": {
+      "LessonId": "lesson_03",
       "Title": "Personal pronouns 2",
       "Phrase": "On, ona, ono je.",
       "Info": "When we're addressing someone else, we say...",
       "Translation": "He, she, it is.",
       "Memo": "\"On, ona, ono\" - easy to remember. Like with \"I am\" case, you would say \"on je\" or \"ona je\" somebody, something or somewhere. But when you would answer the question \"Is he or she this, that, or there?\", you would just say \"je\", meaning (he or she) \"is\", or \"nije\" if the answer is negative.",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_4": {
-      "LessonId": "lesson_4",
+    "lesson_04": {
+      "LessonId": "lesson_04",
       "Title": "Personal pronouns 3 - plural",
       "Phrase": "Mi smo. Vi ste. Oni su.",
       "Info": "When we're addressing a group of people we say...",
       "Translation": "We are. You are. They are.",
       "Memo": "We have personal gender pronouns in plural form too. Male group is \"oni\", female is \"one\", and neutral is \"ona\". ",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_5": {
-      "LessonId": "lesson_5",
+    "lesson_05": {
+      "LessonId": "lesson_05",
       "Title": "Conjunctions",
       "Phrase": "i, ili, ali...",
       "Info": "When we count somehing or choosing...",
       "Translation": "and, or, but...",
       "Memo": "We use \"i\" as \"and\" when we connect things, like \"this and that\" we'd say \"to i to\". We use \"a\" as \"and\" wehn we separate things, \"this and not that\" we'd say \"to, a ne to\". Also, the phrase \"and then...\" we'd say \"a onda...\". So, in Croatian language English \"and\" is sometimes \"i\", and sometimes \"a\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_6": {
-      "LessonId": "lesson_6",
+    "lesson_06": {
+      "LessonId": "lesson_06",
       "Title": "Prepositions 1",
       "Phrase": "u... na... iz... o... ",
       "Info": "To say where something is we use...",
       "Translation": "in... on... from... about... ",
       "Memo": "Notice that you already learned some very easy Croatian words: \"a\", \"i\", \"o\", \"u\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_7": {
-      "LessonId": "lesson_7",
+    "lesson_07": {
+      "LessonId": "lesson_07",
       "Title": "Prepositions 2",
       "Phrase": "s... bez...",
       "Info": "To join or exclude we use...",
       "Translation": "with... without...",
       "Memo": "\"S\" is another easy Croatian word. It means \"with\". But if the word after \"s\" begins with \"s\", \"š\", \"z\" or \"ž\", then you would use longer form \"sa\". For example, \"with sister\" we would say \"sa sestrom\", not \"s sestrom\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_8": {
-      "LessonId": "lesson_8",
+    "lesson_08": {
+      "LessonId": "lesson_08",
       "Title": "Prepositions 3",
       "Phrase": "od - do",
       "Info": "To express distance in space or time we use...",
       "Translation": "from - until",
       "Memo": "Notice that \"od\", which means \"from\", is a backward version of \"do\" which means \"until\". \"Do\" also means \"next to\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     }
   }
 }

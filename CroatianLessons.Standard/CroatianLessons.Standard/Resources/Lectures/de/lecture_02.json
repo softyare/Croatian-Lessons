@@ -1,78 +1,78 @@
 {
-  "LectureId": "lecture_2",
+  "LectureId": "lecture_02",
   "Title": "Grundwortschatz",
   "Lessons": {
-    "lesson_1": {
-      "LessonId": "lesson_1",
+    "lesson_01": {
+      "LessonId": "lesson_01",
       "Title": "Bestätigung und Verneinung",
       "Phrase": "Da. Ne. Možda...",
       "Info": "Um zu bestätigen, abzulehnen oder wenn wir uns nicht sicher sind, sagen wir ...",
       "Translation": "Ja. Nein. Vielleicht...",
       "Memo": "\"Ž\" in \"možda\" ist wie Französisch \"j\" in \"bon jour\" aussprechen, oder wie das zweite \"g\" in \"negligee\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_2": {
-      "LessonId": "lesson_2",
+    "lesson_02": {
+      "LessonId": "lesson_02",
       "Title": "Personalpronomen 1",
       "Phrase": "Ja sam. Ti si.",
       "Info": "Wenn wir uns selbst oder direkt mit jemandem sprechen, sagen wir ...",
       "Translation": "\r\nIch bin. Du bist.",
       "Memo": "Benutze \"Ja sam\", wenn Sie sagen willst, was Sie sind, sagen wir mal einen Mann, einen Sänger oder beschäftigt ... Eine Frage wie \"Bist du ein Mann?\" oder \"Bist du beschäftigt?\" Sie würden mit dem Satz \"Jesam\" antworten. Kroatisches Wort für \"Ich\" ist das gleiche wie das deutsche affirmative Wort \"ja\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_3": {
-      "LessonId": "lesson_3",
+    "lesson_03": {
+      "LessonId": "lesson_03",
       "Title": "Personalpronomen 2",
       "Phrase": "On, ona, ono je.",
       "Info": "Wenn wir jemanden ansprechen, sagen wir ...",
       "Translation": "Er, sie, es ist.",
       "Memo": "\"On, Ona, Ono\" - einfach zu merken. Wie bei \"Ich bin\" Fall, würden Sie sagen \"on je\" oder \"ona je\" jemand, etwas oder irgendwo. Aber wenn Sie die Frage \"Ist er oder sie etwas?\" Beantworten würden, würden Sie einfach \"je\" sagen, oder \"nije\", wenn die Antwort negativ ist.",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_4": {
-      "LessonId": "lesson_4",
+    "lesson_04": {
+      "LessonId": "lesson_04",
       "Title": "Personalpronomen 3 - Plural",
       "Phrase": "Mi smo. Vi ste. Oni su.",
       "Info": "Wenn wir eine Gruppe von Leuten ansprechen, sagen wir ...",
       "Translation": "Wir sind. Ihr seid. Sie sind.",
       "Memo": "Wir haben persönliche Geschlechtspronomen auch im Plural. Männliche Gruppe ist \"oni\", weiblich ist \"one\" und neutral ist \"ona\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_5": {
-      "LessonId": "lesson_5",
+    "lesson_05": {
+      "LessonId": "lesson_05",
       "Title": "Konjunktionen",
       "Phrase": "i, ili, ali...",
       "Info": "Wenn wir etwas zählen oder wählen",
       "Translation": "und, oder, aber ...",
       "Memo": "Wir verwenden \"i\" als \"und\", wenn wir etwas verbinden, wie \"dies und das\", würden wir \"to i to\" sagen. Wir benutzen \"a\" als \"und\" wir trennen etwas, \"das und nicht das\" wir würden sagen \"to, a ne to\". Auch die Phrase \"und dann ...\" würden wir \"a onda ...\" sagen. Also, in der kroatischen Sprache ist \"und\" manchmal \"i\" und manchmal \"a\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_6": {
-      "LessonId": "lesson_6",
+    "lesson_06": {
+      "LessonId": "lesson_06",
       "Title": "Präpositionen 1",
       "Phrase": "o... u... na... iz...",
       "Info": "Um zu sagen, wo etwas ist, benutzen wir ...",
       "Translation": "\r\nin... auf... von... über...",
       "Memo": "Beachten Sie, dass Sie bereits einige sehr einfache kroatische Wörter gelernt haben: \"a\", \"i\", \"o\", \"u\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_7": {
-      "LessonId": "lesson_7",
+    "lesson_07": {
+      "LessonId": "lesson_07",
       "Title": "Präpositionen 2",
       "Phrase": "s... bez...",
       "Info": "Um beitreten oder ausschließen wir verwenden ...",
       "Translation": "mit... ohne...",
       "Memo": "\r\n\"S\" ist ein weiteres einfaches kroatisches Wort. Es bedeutet \"mit\". Aber wenn das Wort nach \"s\" mit \"s\", \"š\", \"z\" oder \"ž\" beginnt, dann würden Sie die längere Form \"sa\" verwenden. Zum Beispiel würden wir \"mit Schwester\" \"sa sestrom\" sagen, nicht \"s sestrom\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     },
-    "lesson_8": {
-      "LessonId": "lesson_8",
+    "lesson_08": {
+      "LessonId": "lesson_08",
       "Title": "Präpositionen 3",
       "Phrase": "od - do",
       "Info": "Um die Entfernung in Raum oder Zeit auszudrücken, benutzen wir ...",
       "Translation": "von - bis",
       "Memo": "Beachten Sie, dass \"od\", was \"von\" bedeutet, eine Rückwärtsversion von \"do\" ist, was \"bis\" bedeutet. \"Do\" bedeutet auch \"neben\".",
-      "LectureId": "lecture_2"
+      "LectureId": "lecture_02"
     }
   }
 }

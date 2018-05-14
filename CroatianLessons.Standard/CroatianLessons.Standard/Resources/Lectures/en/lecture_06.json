@@ -1,69 +1,69 @@
 {
-  "LectureId": "lecture_6",
+  "LectureId": "lecture_06",
   "Title": "Introduction",
   "Lessons": {
-    "lesson_1": {
-      "LessonId": "lesson_1",
+    "lesson_01": {
+      "LessonId": "lesson_01",
       "Title": "Asking for the name",
       "Phrase": "Kako se zoveš?",
       "Info": "When we want to know someone's name, we ask...",
       "Translation": "What's your name?",
       "Memo": "This phrase really means \"How are you called?\", but is more common than the other phrase we use: \"Kako ti je ime?\" what literally means \"How is your name?\"",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     },
-    "lesson_2": {
-      "LessonId": "lesson_2",
+    "lesson_02": {
+      "LessonId": "lesson_02",
       "Title": "Introducing yourself",
       "Phrase": "Moje ime je ...",
       "Info": "When we want to tell our name, we say ...",
       "Translation": "My name is ...",
       "Memo": "Usually we just say \"Ja sam ...\", meaning \"I am ...\"",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     },
-    "lesson_3": {
-      "LessonId": "lesson_3",
+    "lesson_03": {
+      "LessonId": "lesson_03",
       "Title": "Being glad",
       "Phrase": "Drago mi je!",
       "Info": "After telling our name we usually say ...",
       "Translation": "Nice to meet you!",
       "Memo": "This is the phrase we usually add after telling our name. For example:\n\"Ja sam Ivan, drago mi je!\" = \"I'm Ivan, nice to meet you\",\nor more often just:\n\"Ivan, drago mi je\" = \"Ivan, nice to meet you\".\n\nThe phrase actually means \"I'm glad!\" and to express how really glad you are to meet someone you can use the longer expression:\n\"Drago mi je što smo se upoznali.\" = \"I'm glad we met each other.\"",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     },
-    "lesson_4": {
-      "LessonId": "lesson_4",
+    "lesson_04": {
+      "LessonId": "lesson_04",
       "Title": "Aking for the whereabouts",
       "Phrase": "Odakle si?",
       "Info": "To find out where someone comes from, we ask ...",
       "Translation": "Where are you from?",
       "Memo": "If asking formally or a group of people, we'd ask \"Odakle ste?\"",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     },
-    "lesson_5": {
-      "LessonId": "lesson_5",
+    "lesson_05": {
+      "LessonId": "lesson_05",
       "Title": "Telling your whereabouts",
       "Phrase": "Ja sam iz ...",
       "Info": "To tell where we're from, we say..",
       "Translation": "I'm from ...",
       "Memo": "A longer expression could be:\n\"(Ja) dolazim iz ...\" = \"I'm coming from ...\"",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     },
-    "lesson_6": {
-      "LessonId": "lesson_6",
+    "lesson_06": {
+      "LessonId": "lesson_06",
       "Title": "Introducing someone else",
       "Phrase": "Ovo je ...",
       "Info": "To introduce someone who is with us, we say...",
       "Translation": "This is ...",
       "Memo": "\"Moj prijatelj, moja prijateljica\" = \"My friend\" (male and female)\n\"Moj momak, moja djevojka\" = \"My boyfriend, my girlfriend\"\n\"Moj suprug, moja supruga\" = \"My husband, my wife\"\n\"Moj sin, moja kćer\" = \"My son, my daughter\"\n\"Moj brat, moja sestra\" = \"My brother, my sister\"\n\nHow to pronounce all those words you can find out in the lecture about friends and family.",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     },
-    "lesson_7": {
-      "LessonId": "lesson_7",
+    "lesson_07": {
+      "LessonId": "lesson_07",
       "Title": "Titles",
       "Phrase": "Gospodin ... Gospođa ...",
       "Info": "For formal situations we use these titles ...",
       "Translation": "Mister ... Missus ...",
       "Memo": "Letter \"đ\" is pronounced like \"J\" in name \"Jimmy\" or like \"g\" in word \"gym\".",
-      "LectureId": "lecture_6"
+      "LectureId": "lecture_06"
     }
   }
 }

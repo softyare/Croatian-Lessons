@@ -2,8 +2,8 @@
   "LectureId": "lecture_11",
   "Title": "In A Restaurant",
   "Lessons": {
-  "lesson_1": {
-    "LessonId": "lesson_1",
+  "lesson_01": {
+    "LessonId": "lesson_01",
     "Title": "Appetizer",
     "Phrase": "Predjelo",
     "Info": "We start our meals with...",
@@ -11,8 +11,8 @@
     "Memo": "\"Jelo\" means \"meal\". \"Pred\" means \"before\" or \"in front of\". Therefore \"predjelo\" is a meal before a meal.",
     "LectureId": "lecture_11"
   },
-  "lesson_2": {
-    "LessonId": "lesson_2",
+  "lesson_02": {
+    "LessonId": "lesson_02",
     "Title": "Soup",
     "Phrase": "Juha",
     "Info": "Clear or creamy...",
@@ -20,8 +20,8 @@
     "Memo": "\"Pileća juha\" = \"Chicken soup\"\n\"Povrtna juha / juha od povrća\" = \"Vegetable soup\"\n\"Goveđa juha\" = \"Beef soup\"\n\"Juha od rajčice\" = \"Tomato soup\"\n\"Juha od gljiva\" = \"Mashroom soup\"",
     "LectureId": "lecture_11"
   },
-  "lesson_3": {
-    "LessonId": "lesson_3",
+  "lesson_03": {
+    "LessonId": "lesson_03",
     "Title": "Main course",
     "Phrase": "Glavno jelo",
     "Info": "We literally say \"main meal\"...",
@@ -29,8 +29,8 @@
     "Memo": "The word \"glavno\", meaning \"main\", comes from the word \"glava\", meaning \"head\".",
     "LectureId": "lecture_11"
   },
-  "lesson_4": {
-    "LessonId": "lesson_4",
+  "lesson_04": {
+    "LessonId": "lesson_04",
     "Title": "Dessert",
     "Phrase": "Desert",
     "Info": "Something sweet for the end...",
@@ -38,8 +38,8 @@
     "Memo": "\"Kolač\" = \"Cake\"\n\"Sladoled\" = \"Ice cream\"",
     "LectureId": "lecture_11"
   },
-  "lesson_5": {
-    "LessonId": "lesson_5",
+  "lesson_05": {
+    "LessonId": "lesson_05",
     "Title": "Meat",
     "Phrase": "Meso",
     "Info": "White or red....",
@@ -47,8 +47,8 @@
     "Memo": "When used as an adjective the word is \"mesni\", \"mesna\", or \"mesne\" for example:\n\"mesne okruglice\" = \"meat balls\"\n\"mesni odrezak\" = \"meat steak\"",
     "LectureId": "lecture_11"
   },
-  "lesson_6": {
-    "LessonId": "lesson_6",
+  "lesson_06": {
+    "LessonId": "lesson_06",
     "Title": "Chicken",
     "Phrase": "Piletina",
     "Info": "Chicken meat",
@@ -56,8 +56,8 @@
     "Memo": "\"pečena piletina\" = \"roasted chicken\"\n\"pohana piletina\" = \"fried chicken\"\n\"pileća juha\" = \"chicken soup\"\n\"pileća krilca\" = \"chicken wings\"",
     "LectureId": "lecture_11"
   },
-  "lesson_7": {
-    "LessonId": "lesson_7",
+  "lesson_07": {
+    "LessonId": "lesson_07",
     "Title": "Pork",
     "Phrase": "Svinjetina",
     "Info": "Pork meat",
@@ -65,8 +65,8 @@
     "Memo": "\"Svinja\" = \"Pig\"\n\"Svinjetina\" = \"Pork meat\"\n\"Svinjsko pečenje\" = \"Roasted pork\"\n\"Svinjski odrezak\" = \"Pork steak\"",
     "LectureId": "lecture_11"
   },
-  "lesson_8": {
-    "LessonId": "lesson_8",
+  "lesson_08": {
+    "LessonId": "lesson_08",
     "Title": "Beef",
     "Phrase": "Govedina",
     "Info": "Beef meat",
@@ -74,8 +74,8 @@
     "Memo": "\"Teletina\" = \"Beef meat, up to 12 months young\"\n\"Junetina\" = \"Beef meat, 12 - 24 months young\"\n\"Govedina\" = \"Beef meat, 24 months and older\"\n\"Teleće pečenje\" = \"Roasted young beef\"\n\"Juneća rebra\" = \"Beef ribs\"\n\"Goveđi gulaš\" = \"Beef stew\"",
     "LectureId": "lecture_11"
   },
-  "lesson_9": {
-    "LessonId": "lesson_9",
+  "lesson_09": {
+    "LessonId": "lesson_09",
     "Title": "Lamb",
     "Phrase": "Janjetina",
     "Info": "Lamb meat",

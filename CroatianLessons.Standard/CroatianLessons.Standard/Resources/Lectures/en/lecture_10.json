@@ -2,8 +2,8 @@
   "LectureId": "lecture_10",
   "Title": "In A Bar",
   "Lessons": {
-  "lesson_1": {
-    "LessonId": "lesson_1",
+  "lesson_01": {
+    "LessonId": "lesson_01",
     "Title": "Calling a waiter",
     "Phrase": "Oprostite, mogu li naručiti?",
     "Info": "When you want to call a waiter to order drinks...",
@@ -11,8 +11,8 @@
     "Memo": "Waiter is called \"konobar\" in Croatian, or \"konobarica\" if it's female waiter, but it's not polite to call \"Konobar!\" in the bar.",
     "LectureId": "lecture_10"
   },
-  "lesson_2": {
-    "LessonId": "lesson_2",
+  "lesson_02": {
+    "LessonId": "lesson_02",
     "Title": "Waiter's reply",
     "Phrase": "Izvolite, što ćete popiti?",
     "Info": "A waiter would usually ask you...",
@@ -20,8 +20,8 @@
     "Memo": "More often a waiter would just ask \"Izvolite?\", meaning \"Yes, please?\"",
     "LectureId": "lecture_10"
   },
-  "lesson_3": {
-    "LessonId": "lesson_3",
+  "lesson_03": {
+    "LessonId": "lesson_03",
     "Title": "Beer",
     "Phrase": "Jedno pivo, molim vas.",
     "Info": "To order a beer...",
@@ -29,8 +29,8 @@
     "Memo": "If you're ordering more than one beer, then the word \"pivo\" changes to \"piva\":\n\"Dva piva\" = \"Two beers\",\n\"Tri piva\" = \"Three beers\", etc...",
     "LectureId": "lecture_10"
   },
-  "lesson_4": {
-    "LessonId": "lesson_4",
+  "lesson_04": {
+    "LessonId": "lesson_04",
     "Title": "Coffee",
     "Phrase": "Jednu kavu s mlijekom, molim vas.",
     "Info": "To order a coffee with milk...",
@@ -38,8 +38,8 @@
     "Memo": "If you order just a coffe in Croatian bars it usually means an espresso.",
     "LectureId": "lecture_10"
   },
-  "lesson_5": {
-    "LessonId": "lesson_5",
+  "lesson_05": {
+    "LessonId": "lesson_05",
     "Title": "Water",
     "Phrase": "Mogu li dobiti čašu vode?",
     "Info": "To ask for a glass of water...",
@@ -47,8 +47,8 @@
     "Memo": "\"Čaša\" = \"A glass, a cup\"\n\"Voda\" = \"Water\"",
     "LectureId": "lecture_10"
   },
-  "lesson_6": {
-    "LessonId": "lesson_6",
+  "lesson_06": {
+    "LessonId": "lesson_06",
     "Title": "Wine 1",
     "Phrase": "Kakvih vina imate?",
     "Info": "To ask for the wine offer...",
@@ -56,8 +56,8 @@
     "Memo": "Croatia offers a variety of quality wines. Some of the best known are Babić, Malvazija, Pošip, Plavac, Dingač and others... ",
     "LectureId": "lecture_10"
   },
-  "lesson_7": {
-    "LessonId": "lesson_7",
+  "lesson_07": {
+    "LessonId": "lesson_07",
     "Title": "Wine 2",
     "Phrase": "Crno ili bijelo vino?",
     "Info": "Main kinds of wine...",
@@ -65,8 +65,8 @@
     "Memo": "We actually say \"black wine\" for \"red wine\" in Croatia.\n\"Crno\" = \"Black\"\n\"Crveno\" = \"Red\"\n\"Bijelo\" = \"White\"\n\"Crno vino\" = \"Red wine\"",
     "LectureId": "lecture_10"
   },
-  "lesson_8": {
-    "LessonId": "lesson_8",
+  "lesson_08": {
+    "LessonId": "lesson_08",
     "Title": "Brandy",
     "Phrase": "Rakija šljivovica ili lozovača?",
     "Info": "Usual domestic aperitif",
@@ -74,8 +74,8 @@
     "Memo": "Rakija is our domestic brandy, usualy made out of grapes or plums. The third most common kind of rakija is \"travarica\", a grape brandy infused with mediterranean herbs.",
     "LectureId": "lecture_10"
   },
-  "lesson_9": {
-    "LessonId": "lesson_9",
+  "lesson_09": {
+    "LessonId": "lesson_09",
     "Title": "Cocktails",
     "Phrase": "Pravite li koktele?",
     "Info": "To ask if the bar offers cocktails...",

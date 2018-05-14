@@ -1,78 +1,78 @@
 {
-  "LectureId": "lecture_5",
+  "LectureId": "lecture_05",
   "Title": "Common Phrases",
   "Lessons": {
-    "lesson_1": {
-      "LessonId": "lesson_1",
+    "lesson_01": {
+      "LessonId": "lesson_01",
       "Title": "When giving",
       "Phrase": "Izvolite.",
       "Info": "When we're giving something we say...",
       "Translation": "Here you are.",
       "Memo": "This is formal (or plural) phrase. As a tourist in Croatia, you would use it in most of the situations. If giving something to your Croatian friend, or in other informal situations you would say \"Izvoli.\"\n\nEven more informal and shorter version you can use is \"Evo ti.\" or just \"Evo!\", meaning \"Here!\"\n\nIf asked as a question \"Izvolite?\" means \"What can I do for you?\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_2": {
-      "LessonId": "lesson_2",
+    "lesson_02": {
+      "LessonId": "lesson_02",
       "Title": "When getting something",
       "Phrase": "Hvala!",
       "Info": "When we're receiving something or someone has done something for us we say ...",
       "Translation": "Thank you!",
       "Memo": "\"Hv\" is quite difficult to pronounce, and if it's easier for you, you can say \"Fala\". Many Croatians do the same.\n\nIf you are really grateful, you can add some adjectives, like:\n\"Hvala lijepo\" = \"Thank you nicely\"\n\"Hvala puno\" = \"Thanks a lot\"\n\"Veliko vam hvala\" = \"A big thank you\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_3": {
-      "LessonId": "lesson_3",
+    "lesson_03": {
+      "LessonId": "lesson_03",
       "Title": "When someone thanks you",
       "Phrase": "Molim.",
       "Info": "After someone thanked us, we answer with ...",
       "Translation": "You're welcome.",
       "Memo": "Another common phrase after \"Hvala\" is \"Nema na čemu\" which means \"Nothing at all\"\n\nAs you will see in the next lessons, \"molim\" means other things in the Croatian language as well, depending on the context and the form of the phrase.",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_4": {
-      "LessonId": "lesson_4",
+    "lesson_04": {
+      "LessonId": "lesson_04",
       "Title": "If you have not heard well",
       "Phrase": "Molim?",
       "Info": "If we want someone to repeat what they just said, or we're expressing disbelief, we ask ...",
       "Translation": "Excuse me?",
       "Memo": "The other way to ask the same is asking \"Kako?\" which means \"How?\", or in combination \"Kako molim?\" which would best be translated as \"Excuse me, what?\" or \"What did you just say?\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_5": {
-      "LessonId": "lesson_5",
+    "lesson_05": {
+      "LessonId": "lesson_05",
       "Title": "When you're asking politely",
       "Phrase": "Molim Vas ...",
       "Info": "When asking for something in a formal situation we say ...",
       "Translation": "Please ...",
       "Memo": "This is already the third meaning of the word \"molim\", this time meaning \"please\".\nYou need to put a personal pronoun after \"molim\" for it to mean \"please\". For example, \"Molim Vas, pokažite mi.\" means \"Please, show me.\". If you say just \"Molim te!\" or \"Molim Vas!\" it could mean \"I beg you!\", in informal and formal versions.\n\nJust \"Molim.\", can be shortened from \"Ja molim.\" which means \"I pray.\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_6": {
-      "LessonId": "lesson_6",
+    "lesson_06": {
+      "LessonId": "lesson_06",
       "Title": "When you apologize",
       "Phrase": "Oprostite ...",
       "Info": "When we begin questions in formal situations we say ...",
       "Translation": "Excuse me ...",
       "Memo": "If you would ask a stranger what the time is you would say:\n\"Oprostite, koliko je sati?\" = \"Excuse me, what time is it?\"\n\nIf you would call for a waiter in a restaurant, you would call:\n\"Oprostite!\" = \"Excuse me!\"\n\nYou can also say \"oprostite\" if you bump into somebody on the street, or you can use international phrase \"pardon\", which is also common in Croatia.\n\nIf you put a personal pronoun after \"oprosti\", it gets another meaning: \n\"Oprosti mi!\", or formally \"Oprostite mi!\" = \"Forgive me!\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_7": {
-      "LessonId": "lesson_7",
+    "lesson_07": {
+      "LessonId": "lesson_07",
       "Title": "When you're sorry",
       "Phrase": "Žao mi je.",
       "Info": "To express that we're sorry we say ...",
       "Translation": "I'm sorry",
       "Memo": "This phrase is also used to express condolences. \n\nA longer form could be:\n\"Jako mi je žao!\" = \"I'm very sorry!\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     },
-    "lesson_8": {
-      "LessonId": "lesson_8",
+    "lesson_08": {
+      "LessonId": "lesson_08",
       "Title": "If you don't understand",
       "Phrase": "Ne razumijem.",
       "Info": "To express our lack of understanding we say ...",
       "Translation": "I don't understand.",
       "Memo": "As in other languages, you can use this expression to show your confusion.\n\nIf you want to say you don't understand the Croatian language, you would say:\n\"Ne razumijem hrvatski.\" = \"I don't understand Croatian.\"",
-      "LectureId": "lecture_5"
+      "LectureId": "lecture_05"
     }
   }
 }
