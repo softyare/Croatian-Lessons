@@ -1,0 +1,159 @@
+{
+  "LectureId": "lecture_11",
+  "Title": "Dans un restaurant",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Entrée",
+      "Phrase": "Predjelo",
+      "Info": "Nous commençons nos repas avec ...",
+      "Translation": "Entrée",
+      "Memo": "Jelo signifie \"repas\". \"Pred\" signifie \"avant\". Par conséquent \"predjelo\" est un repas avant un repas.",
+      "LectureId": "lecture_11"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Soupe",
+      "Phrase": "Juha",
+      "Info": "Bouillon ou crémeux",
+      "Translation": "Soupe",
+      "Memo": "\"Pileća juha\"=\"Soupe de poulet\"\n\" Povrtna juha / juha od povrća \" = \" Soupe de légumes \"\n\" Goveđa juha \" = \" Soupe de bœuf \"\n\" Juha od rajčice \" = \" Soupe de tomates \"\n\" Juha od gljiva \" = \" Soupe de champigonons \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Plat principal",
+      "Phrase": "Glavno jelo",
+      "Info": "Nous disons littéralement \"repas principal\" ...",
+      "Translation": "Plat principal",
+      "Memo": "Le mot \"glavno\",  signifie \"principal\", vient du mot \"glava\", qui signifie \"tête\".",
+      "LectureId": "lecture_11"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Dessert",
+      "Phrase": "Desert",
+      "Info": "Quelque chose du sucré pour la fin ...",
+      "Translation": "Dessert",
+      "Memo": " \"Kolač \"=\" Gâteau\"\n\" Sladoled \" = \" Glace \"\n",
+      "LectureId": "lecture_11"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Viande",
+      "Phrase": "Meso",
+      "Info": "Blanche ou rouge...",
+      "Translation": "Viande",
+      "Memo": "Lorsqu'il est utilisé comme un adjectif, le mot est \"mesni\" ,\" mesna\" , ou\" mesne\" par exemple:\n\" mesne okruglice \" = \" boulettes de viande\"\n\" mesni odrezak \" = \" steak de viande \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Poulet",
+      "Phrase": "Piletina",
+      "Info": "Viande de poulet",
+      "Translation": "Poulet",
+      "Memo": "\"pečena piletina\"=\"poulet rôti\"\n\" pohana piletina \" = \" poulet panné \"\n\" pileća juha \" = \" soupe au poulet \"\n\" pileća krilca \" = \" ailes de poulet \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Porc",
+      "Phrase": "Svinjetina",
+      "Info": "Viande de porc",
+      "Translation": "Porc",
+      "Memo": "\"Svinja\"=\"Cochon\"\n\" Svinjetina \" = \" Viande de porc \"\n\" Svinjsko pečenje \" = \" Porc rôti \"\n\" Svinjski odrezak \" = \" Steak de porc \"\n",
+      "LectureId": "lecture_11"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Boeuf",
+      "Phrase": "Govedina",
+      "Info": "Viande de boeuf",
+      "Translation": "Boeuf",
+      "Memo": "\"Teletina\"=\"Viande de bœuf, jusqu'à 12 mois \"\n\" Junetina \" = \" Viande de boeuf, entre  12 - 24 mois  \"\n\" Govedina \" = \" Viande de boeuf, 24 mois et plus \"\n\" Teleće pečenje \" = \" Rôti de bœuf \"\n\" Juneća rebra \" = \" Côtes de bœuf \"\n\" Goveđi gulaš \" = \" Ragoût de boeuf \"\n",
+      "LectureId": "lecture_11"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "Agneau",
+      "Phrase": "Janjetina",
+      "Info": "Viande d'agneau",
+      "Translation": "Agneau",
+      "Memo": "\"Janje\"=\"Agneau\"\n\" Janjetina \" = \" Viande d'agneau \"\n\" Pečena janjetina \" = \" Agneau rôti \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_10",
+      "Title": "Poisson",
+      "Phrase": "Riba",
+      "Info": "D'eau douce ou de mer...",
+      "Translation": "Poisson",
+      "Memo": "\"Morska riba\"=\"Poisson de mer\"\n\" Riječna riba \" = \" Poisson d'eau douce \"\n\" Svježa riba \" = Poisson frais \"\n",
+      "LectureId": "lecture_11"
+    },
+    "lesson_11": {
+      "LessonId": "lesson_11",
+      "Title": "Rôti",
+      "Phrase": "Pečenje",
+      "Info": "Viande rôtie",
+      "Translation": "Rôti",
+      "Memo": " \"Peć\"=\"Four\"\n\" Peći \" = \" Faire cuire \", \" Rôtir \"\n\" Pečem \" = \" Je cuisine, je rôtis \"\n\" Pečenje \" = \" Viande rôtie \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_12": {
+      "LessonId": "lesson_12",
+      "Title": "Pain",
+      "Phrase": "Kruh",
+      "Info": "De blé ou de maïs",
+      "Translation": "Pain",
+      "Memo": " \"Domaći kruh\"=\"Pain maison\"\n\" Kukuruzni kruh \" = \" Pain de maïs \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_13": {
+      "LessonId": "lesson_13",
+      "Title": "Pommes de terre",
+      "Phrase": "Krumpir",
+      "Info": "Sautées, frites ou en purée...",
+      "Translation": "Pommes de terre",
+      "Memo": "\"Pečeni krumpir\"=\"Pommes de terre rôtie\"\n\" Kuhani krumpir \" = \" Pommes de terre bouillie \"\n\" Prženi krumpirići \" = \" Frites \"\n",
+      "LectureId": "lecture_11"
+    },
+    "lesson_14": {
+      "LessonId": "lesson_14",
+      "Title": "Légumes",
+      "Phrase": "Povrće",
+      "Info": "Tomates, carottes, etc ...",
+      "Translation": "Légumes",
+      "Memo": "Notre mot pour le jardin est \"vrt\", et le préfixe \"po\" suggère quelque chose qui est au-dessus de quelque chose. Par conséquent \"po-vrt-je\" signifie quelque chose qui est sur la surface du jardin. \"Tj\" devient \"ć\", et nous avons \"povrće\".",
+      "LectureId": "lecture_11"
+    },
+    "lesson_15": {
+      "LessonId": "lesson_15",
+      "Title": "Fruits",
+      "Phrase": "Voće",
+      "Info": "Pommes, bananes, etc ...",
+      "Translation": "Fruits",
+      "Memo": "\"Jabuke\"=\"Pommes\"\n\" Trešnje \" = \" Cerises \"\n\" Jagode \" = Fraises \"\n\" Lubenica \" = \" Pastèque \"\n\" Breskva \" = \" Pêche \"\n\" Marelica \" = \" Abricot \"\n\" Kruška \" = \" Poire \"",
+      "LectureId": "lecture_11"
+    },
+    "lesson_16": {
+      "LessonId": "lesson_16",
+      "Title": "Čevapčići",
+      "Phrase": "Čevapčići",
+      "Info": "Plat populaire fait maison ...",
+      "Translation": "Čevapčići",
+      "Memo": "Plat populaire en Croatie, traditionnellement originaire de Bosnie-Herzégovine, fabriqué à partir de boullettes de bœuf haché et grillées..",
+      "LectureId": "lecture_11"
+    },
+    "lesson_17": {
+      "LessonId": "lesson_17",
+      "Title": "Crêpes",
+      "Phrase": "Palačinke",
+      "Info": "Meilleur avec du chocolat ou de la marmelade",
+      "Translation": "Crêpes",
+      "Memo": "Crêpes minces, qu'on peut déguster sur la côte croate pendant l'été.",
+      "LectureId": "lecture_11"
+    }
+  }
+}

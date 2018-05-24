@@ -3,6 +3,7 @@ using CroatianLessons.Droid.Helpers;
 using CroatianLessons.Standard.Helpers;
 using System.Globalization;
 using System.Threading;
+using System.Diagnostics;
 
 [assembly: Dependency(typeof(Localize))]
 namespace CroatianLessons.Droid.Helpers
@@ -24,6 +25,7 @@ namespace CroatianLessons.Droid.Helpers
             {
                 // iOS locale not valid .NET culture (eg. "en-ES" : English in Spain)
                 // fallback to first characters, in this case "en"
+                Debug.WriteLine(e1);
                 try
                 {
                     var fallback = ToDotnetFallbackLanguage(new PlatformCulture(netLanguage));
@@ -33,6 +35,7 @@ namespace CroatianLessons.Droid.Helpers
                 {
                     // iOS language not valid .NET culture, falling back to English
                     ci = new System.Globalization.CultureInfo("en");
+                    Debug.WriteLine(e2);
                 }
             }
             return ci;

@@ -1,0 +1,87 @@
+{
+  "LectureId": "lecture_07",
+  "Title": "Amis et famille",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Nos proches",
+      "Phrase": "Obitelj i prijatelji.",
+      "Info": "Les personnes les plus proches de nous...",
+      "Translation": "Famille et amis...",
+      "Memo": "\"Ovo je moja obitelj\" = \"C'est ma famille\"\n\"Ovo su moji prijatelji\" = \"Ce sont mes amis\"",
+      "LectureId": "lecture_07"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Parents",
+      "Phrase": "Majka i otac. Mama i tata.",
+      "Info": "Nous appelons nos parents ...",
+      "Translation": "Mère et père. Maman et papa.",
+      "Memo": "Les petits enfants utilisent parfois la forme diminutive, appelant:\n\"Mamice! Tatice!\" = \"Maman! Papa!\"\n\nLes adolescents se réfèrent parfois à leurs parents comme:\n\"Stari i stara\" = \"Vieux, vieille\"",
+      "LectureId": "lecture_07"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Grands-parents",
+      "Phrase": "Djed i baba. Pradjed i prababa.",
+      "Info": "On appelle nos grands-parents  ...",
+      "Translation": "Grand-père et grand-mère.\nArrière-grand-père et arrière-grand-mère.",
+      "Memo": "Les enfants appellent généralement leurs grands-parents:\r\n\" Deda i baka \" = \" Papi et mamie\"",
+      "LectureId": "lecture_07"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Frères et sœurs",
+      "Phrase": "Brat i sestra. Braća i sestre.",
+      "Info": "On appelle nos frères et sœurs ...",
+      "Translation": "Frère et soeur.Frères et soeurs.",
+      "Memo": "Les enfants appellent leurs frères et soeurs:\r\n\" Braco i seka \" = \"Frérot et frangine \"\r\n\r\n",
+      "LectureId": "lecture_07"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Progéniture",
+      "Phrase": "Kćer i sin.",
+      "Info": "On appelle nos enfants...",
+      "Translation": "Fille et fils.",
+      "Memo": "Pour note fils et notre fille, nous pouvons dire:\r\n\" Moje dijete \" = \" Mon enfant \" ",
+      "LectureId": "lecture_07"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Famille proche",
+      "Phrase": "Roditelji i djeca.",
+      "Info": "Quand on parle de  notre famille  proche ...",
+      "Translation": "Parents et enfants",
+      "Memo": " \"Roditelj\"signifie littéralement\"donneur de naissance\".\nNotez que \" lj \" à la fin du mot est une lettre complexe en langue croate. Vous pouvez également le trouver dans la prochaine leçon pour le mot \"ami \" = \" prijatelj \"",
+      "LectureId": "lecture_07"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Amis",
+      "Phrase": "Prijatelj i prijateljica.",
+      "Info": "On apelle nos amis...",
+      "Translation": "Un ami et une amie.",
+      "Memo": "Nous distinguons les mots pour les amis masculins et féminins.\nPour une petite amie au sens romantique, nous utilisons le mot \" djevojka \", signifiant simplement \" fille \"",
+      "LectureId": "lecture_07"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Connaissances",
+      "Phrase": "Poznanik i poznanica.",
+      "Info": "On appelle nos connaissances..",
+      "Translation": "Une connaissance",
+      "Memo": "La racine du mot \"poznanik\" est le mot \"znati\" qui signifie \"connaître\", donc \"poznanik\" signifie littéralement \"quelqu'un que vous connaissez\".",
+      "LectureId": "lecture_07"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "Famille élargie",
+      "Phrase": "Ujak i ujna. Stric i strina. Tetak i tetka.",
+      "Info": "Certains membres de la famille élargie...",
+      "Translation": "Oncle et tante.",
+      "Memo": "Nous avons beaucoup de mots pour les membres de notre famille élargie, comme vous pouvez le voir dans cet exemple pour oncle et tante.\r\nMon \" ujak \" est le frère de ma mère, et \" ujna \" est sa femme.\r\nMon \" stric \" est le frère de mon père, et \" strina \" est sa femme.\r\nMa tetka\"est la soeur de mon père, et\"tetak\"est son mari\", et il en est de même pour la soeur de ma mère et son mari.\"",
+      "LectureId": "lecture_07"
+    }
+  }
+}

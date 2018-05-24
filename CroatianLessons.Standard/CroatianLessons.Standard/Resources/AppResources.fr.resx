@@ -13,51 +13,52 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="A" xml:space="preserve">
-    <value>Abenteuer</value>
+    <value>Aventure</value>
   </data>
   <data name="AddNote" xml:space="preserve">
-    <value>Notiz hinzufügen</value>
+    <value>Ajouter une note</value>
   </data>
   <data name="Alphabet" xml:space="preserve">
     <value>Alphabet</value>
   </data>
   <data name="AnswerNo" xml:space="preserve">
-    <value>Nein</value>
+    <value>Non</value>
   </data>
   <data name="AnswerYes" xml:space="preserve">
-    <value>Ja</value>
+    <value>Oui</value>
   </data>
   <data name="AppName" xml:space="preserve">
-    <value>Kroatische Lektionen für Touristen</value>
+    <value>Leçons de croate pour les touristes</value>
     <comment>Application name</comment>
   </data>
   <data name="B" xml:space="preserve">
-    <value>Käfer</value>
+    <value>le insecte</value>
   </data>
   <data name="BtnCloseLesson" xml:space="preserve">
-    <value>Abschließen ✕</value>
+    <value>Fermé ✕</value>
     <comment>Close Lesson Page (modal)</comment>
   </data>
   <data name="BtnFinish" xml:space="preserve">
-    <value>Fertig</value>
+    <value>Terminé
+</value>
   </data>
   <data name="BtnNextLesson" xml:space="preserve">
-    <value>Nächste Lektion »</value>
+    <value>Leçon suivante »</value>
     <comment>Button text for next lesson</comment>
   </data>
   <data name="BtnPrevLesson" xml:space="preserve">
-    <value>« Vorherige Lektion</value>
+    <value>« Précédente leçon</value>
     <comment>Button text for previous lesson</comment>
   </data>
   <data name="BtnStartLearning" xml:space="preserve">
-    <value>Los geht’s!</value>
+    <value>Commençons !</value>
     <comment>Button text to start learning, i.e. leaving Intro screen</comment>
   </data>
   <data name="C" xml:space="preserve">
-    <value>Straße</value>
+    <value>Route</value>
   </data>
   <data name="Cx" xml:space="preserve">
-    <value>Mann</value>
+    <value>Homme</value>
   </data>
   <data name="Cy" xml:space="preserve">
     <value></value>
@@ -87,11 +88,11 @@
     <value></value>
   </data>
   <data name="IntroInfoMsg" xml:space="preserve">
-    <value>Willkommen Sie bei Love Carpe Diem's ​​Kroatisch Unterricht!</value>
+    <value>Bienvenus au leçons de croate preparées par le team de Love Carpe Diem!</value>
     <comment>Welcome to Love Carpe Diem's Croatian Lessons!</comment>
   </data>
   <data name="IntroLanguageInfo" xml:space="preserve">
-    <value>Ihr Gerät Sprache ist </value>
+    <value>La langue de votre appareil est </value>
     <comment>Info on device's language</comment>
   </data>
   <data name="J" xml:space="preserve">
@@ -104,28 +105,28 @@
     <value></value>
   </data>
   <data name="LabelSelectLanguage" xml:space="preserve">
-    <value>Wählen Sie die Sprache der Anwendung:</value>
+    <value>Sélectionnez la langue de l’application :</value>
     <comment>Label for language selector</comment>
   </data>
   <data name="LanguageChangeDialogText" xml:space="preserve">
-    <value>Möchten Sie die Vortragssprache in xxxx ändern?</value>
+    <value>Vous voulez changer de langue en xxxx</value>
   </data>
   <data name="LanguageChangeDialogTitle" xml:space="preserve">
-    <value>Sprachwechsel</value>
+    <value>Changer la langue</value>
   </data>
   <data name="LanguageFoundInfo" xml:space="preserve">
-    <value>Die Applikation ist auf die Sprache Ihres Geräts eingestellt. Sie können die Sprache hier oder später in den Einstellungen ändern.</value>
+    <value>L'application est réglée sur la langue de votre appareil. Vous pouvez changer la langue ici maintenant ou plus tard dans les paramètres.</value>
     <comment>Info message if device's language is supported</comment>
   </data>
   <data name="LanguageFoundInfoSettings" xml:space="preserve">
-    <value>Die Applikation ist auf die Sprache Ihres Geräts eingestellt. Sie können die Sprache hier ändern.</value>
+    <value>Application est configurée pour la langue de votre appareil. Vous pouvez changer la langue ici.</value>
   </data>
   <data name="LanguageNotFoundInfo" xml:space="preserve">
-    <value>Leider wird Ihre Sprache in dieser Version nicht unterstützt. Verwenden Sie die Standardsprache Englisch oder wählen Sie eine andere Sprache hier oder später in den Einstellungen.</value>
+    <value>Malheureusement, votre langue n'est pas supportée dans cette version. Utilisez l' anglais par défaut ou choisissez une autre langue ici maintenant ou plus tard dans les paramètres.</value>
     <comment>Info message if device's language is not supported</comment>
   </data>
   <data name="LanguageNotFoundInfoSettings" xml:space="preserve">
-    <value>Leider wird Ihre Sprache in dieser Version nicht unterstützt. Verwenden Sie die Standardsprache Englisch oder wählen Sie eine andere Sprache.</value>
+    <value>Malheureusement, votre langue n'est pas supportée dans cette version. Utilisez l' anglais par défaut ou choisissez une autre langue.</value>
   </data>
   <data name="Lj" xml:space="preserve">
     <value></value>
@@ -158,15 +159,15 @@
     <value></value>
   </data>
   <data name="Tab1Title" xml:space="preserve">
-    <value>Vorlesungen</value>
+    <value>Cours</value>
     <comment>Tab1Title</comment>
   </data>
   <data name="Tab2Title" xml:space="preserve">
-    <value>Zubehör</value>
+    <value>Accessoires</value>
     <comment>Tab2Title</comment>
   </data>
   <data name="Tab3Title" xml:space="preserve">
-    <value>Einstellungen</value>
+    <value>Paramètres</value>
     <comment>Tab3Title</comment>
   </data>
   <data name="U" xml:space="preserve">

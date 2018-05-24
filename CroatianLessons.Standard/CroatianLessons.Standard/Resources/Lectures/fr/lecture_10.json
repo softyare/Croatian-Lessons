@@ -1,0 +1,114 @@
+{
+  "LectureId": "lecture_10",
+  "Title": "Dans un bar",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Appeler un serveur",
+      "Phrase": "Oprostite, mogu li naručiti?",
+      "Info": "Quand vous voulez appeler un serveur pour commander des boissons ...",
+      "Translation": "Excusez-moi, puis-je commander?",
+      "Memo": "Le serveur s'appelle \"konobar\" en croate, ou \"konobarica\" si c'est une fémme, mais ce n'est pas poli d'appeler \"Konobar!\" dans le bar.",
+      "LectureId": "lecture_10"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "La réponse du serveur",
+      "Phrase": "Izvolite, što ćete popiti?",
+      "Info": "Un serveur vous demande habituellement ...",
+      "Translation": "Qu'est ce que vous voulez  boire?",
+      "Memo": "Le plus souvent, un serveur demande simplement \"Izvolite?\", Signifiant \"vous désirez?\"",
+      "LectureId": "lecture_10"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Bière",
+      "Phrase": "Jedno pivo, molim vas.",
+      "Info": "Pour commander une bière ...",
+      "Translation": "Une bière s'il vous plaît.",
+      "Memo": "Si vous commandez plus d'une bière, le mot\" \"pivo\" \"devient\" \"piva\" \":\n\" Dva piva \" = \" Deux bières \",\n\" Tri piva \" = \" Trois bières \", etc ... \"\n",
+      "LectureId": "lecture_10"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Café",
+      "Phrase": "Jednu kavu s mlijekom, molim vas.",
+      "Info": "Pour commander un café au lait ...",
+      "Translation": "Un café avec au lait, s'il vous plaît.",
+      "Memo": "Si vous commandez un café dans les bars croates, cela signifie généralement un expresso.",
+      "LectureId": "lecture_10"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Eau",
+      "Phrase": "Mogu li dobiti čašu vode?",
+      "Info": "Demander un verre d'eau ...",
+      "Translation": "Un verre d'eau s'il vous plaît ",
+      "Memo": " \"Čaša\" \"=\" \"Un verre,\" Voda \" = \" Eau \" ",
+      "LectureId": "lecture_10"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Vin 1",
+      "Phrase": "Kakvih vina imate?",
+      "Info": "Demander la carte des vins",
+      "Translation": "Quels  vins avez-vous?",
+      "Memo": "La Croatie offre une variété de vins de qualité. Certains des plus connus sont Babić, Malvazija, Pošip, Plavac, Dingač et autres ...",
+      "LectureId": "lecture_10"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Vin 2",
+      "Phrase": "Crno ili bijelo vino?",
+      "Info": "Principaux types de vin ...",
+      "Translation": "Du vin rouge ou du blanc?",
+      "Memo": "\nNous disons en fait\" \"vin noir\" \"pour\" \"vin rouge\" \"en Croatie.\n\" Crno \" = \" Noir \"\n\" Crveno \" = \" Rouge \"\n\" Bijelo \" = \" Blanc \"\n\" Crno vino \" = \" Vin rouge ",
+      "LectureId": "lecture_10"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Cognac",
+      "Phrase": "Rakija šljivovica ili lozovača?",
+      "Info": "Apéritifs  habituels",
+      "Translation": "Eau de vie de prunes ou eau-de-vie de marc de raisin ?",
+      "Memo": "Rakija est notre eau de vie domestique, habituellement faite de marc de raisins ou de prunes. Le troisième type de rakija le plus courant est  \"travarica\", une eau- de- vie  aux herbes méditerranéennes.",
+      "LectureId": "lecture_10"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "Cocktails",
+      "Phrase": "Pravite li koktele?",
+      "Info": "Demander si le bar propose des cocktails ...",
+      "Translation": "Est-ce que vous préparez des cocktails?",
+      "Memo": "Nous avons domestiqué le mot \"cocktail\" en \"koktel\".",
+      "LectureId": "lecture_10"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_10",
+      "Title": "Paiement",
+      "Phrase": "Mogu li platiti?",
+      "Info": "Demander pour le  paiement ...",
+      "Translation": "Puis-je payer?",
+      "Memo": "Un serveur pourrait vous demander\" \"Mogu li naplatiti?\" \", Ce qui signifie\" \"Puis-je vous apporter l'addition?\" \"\n\" Platiti \" = \" Payer \"\n\" Naplatiti \" = Donner l'addition \" \"\n",
+      "LectureId": "lecture_10"
+    },
+    "lesson_11": {
+      "LessonId": "lesson_11",
+      "Title": "Addition",
+      "Phrase": "Račun molim!",
+      "Info": "Demander l'addition ...",
+      "Translation": "L'addition s'il vous plait!",
+      "Memo": "Račun\" \"signifie\" \"une facture, une addition\" \", mais cela peut aussi signifier\" \"un calcul\" \".\n\" Računati \" = \" Calculer, compter \"\n",
+      "LectureId": "lecture_10"
+    },
+    "lesson_12": {
+      "LessonId": "lesson_12",
+      "Title": "Cartes de crédit",
+      "Phrase": "Primate li kartice?",
+      "Info": "Pour demander si vous pouvez payer avec une carte de crédit ...",
+      "Translation": "Acceptez-vous les cartes de crédit?",
+      "Memo": "Un serveur pourrait vous demander \"Gotovina ili kartica\", ce qui signifie \"Cash ou carte?\"",
+      "LectureId": "lecture_10"
+    }
+  }
+}

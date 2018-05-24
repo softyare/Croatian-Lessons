@@ -73,6 +73,24 @@
       "Translation": "How are you doing?",
       "Memo": "Informally, you would use a singular form \"Kako si?\". If you're asking someone formally or you're asking a group of people, you would use plural form \"Kako ste?\"",
       "LectureId": "lecture_01"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_07",
+      "Title": "While eating",
+      "Phrase": "Dobar tek!",
+      "Info": "In a restaurant or a dining room we say...",
+      "Translation": "Have a nice meal!",
+      "Memo": "We also say \"Uslast!\"",
+      "LectureId": "lecture_01"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_08",
+      "Title": "While drinking",
+      "Phrase": "Živjeli!",
+      "Info": "When giving a toast we look each other in the eyes and say...",
+      "Translation": "Cheers!",
+      "Memo": "Živjeli means \"Let's live!\". We also say \"Nazdravlje!\" or \"Uzdravlje!\". That means \"To health!\"",
+      "LectureId": "lecture_01"
     }
   }
 }

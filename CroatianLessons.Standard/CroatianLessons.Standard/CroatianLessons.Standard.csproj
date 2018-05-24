@@ -1,10 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
+  <PropertyGroup Label="MultilingualAppToolkit">
+    <MultilingualAppToolkitVersion>4.0</MultilingualAppToolkitVersion>
+    <MultilingualFallbackLanguage>en-US</MultilingualFallbackLanguage>
+    <TranslationReport Condition="'$(Configuration)' == 'Release'">true</TranslationReport>
+    <SuppressPseudoWarning Condition="'$(Configuration)' == 'Debug'">true</SuppressPseudoWarning>
+  </PropertyGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <ApplicationIcon />
+    <Win32Resource />
   </PropertyGroup>
-
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\Microsoft.Multilingual.ResxResources.targets" Label="MultilingualAppToolkit" Condition="Exists('$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\v$(MultilingualAppToolkitVersion)\Microsoft.Multilingual.ResxResources.targets')" />
+  <Target Name="MATPrerequisite" BeforeTargets="PrepareForBuild" Condition="!Exists('$(MSBuildExtensionsPath)\Microsoft\Multilingual App Toolkit\Microsoft.Multilingual.ResxResources.targets')" Label="MultilingualAppToolkit">
+    <Warning Text="$(MSBuildProjectFile) is Multilingual build enabled, but the Multilingual App Toolkit is unavailable during the build. If building with Visual Studio, please check to ensure that toolkit is properly installed." />
+  </Target>
   <ItemGroup>
+    <None Remove="MultilingualResources\CroatianLessons.Standard.de.xlf" />
+    <None Remove="MultilingualResources\CroatianLessons.Standard.fr.xlf" />
+    <None Remove="MultilingualResources\CroatianLessons.Standard.it.xlf" />
     <None Remove="Resources\Audio\Abeceda\a.mp3" />
     <None Remove="Resources\Audio\Abeceda\b.mp3" />
     <None Remove="Resources\Audio\Abeceda\c.mp3" />
@@ -288,6 +303,18 @@
     <None Remove="Resources\Lectures\en\lecture_7.json" />
     <None Remove="Resources\Lectures\en\lecture_8.json" />
     <None Remove="Resources\Lectures\en\lecture_9.json" />
+    <None Remove="Resources\Lectures\fr\lecture_01.json" />
+    <None Remove="Resources\Lectures\fr\lecture_02.json" />
+    <None Remove="Resources\Lectures\fr\lecture_03.json" />
+    <None Remove="Resources\Lectures\fr\lecture_04.json" />
+    <None Remove="Resources\Lectures\fr\lecture_05.json" />
+    <None Remove="Resources\Lectures\fr\lecture_06.json" />
+    <None Remove="Resources\Lectures\fr\lecture_07.json" />
+    <None Remove="Resources\Lectures\fr\lecture_08.json" />
+    <None Remove="Resources\Lectures\fr\lecture_09.json" />
+    <None Remove="Resources\Lectures\fr\lecture_10.json" />
+    <None Remove="Resources\Lectures\fr\lecture_11.json" />
+    <None Remove="Resources\Lectures\fr\lecture_12.json" />
     <None Remove="Resources\Lectures\Icons\lecture_01.png" />
     <None Remove="Resources\Lectures\Icons\lecture_02.png" />
     <None Remove="Resources\Lectures\Icons\lecture_03.png" />
@@ -310,7 +337,6 @@
     <None Remove="Resources\Lectures\Icons\lecture_8.png" />
     <None Remove="Resources\Lectures\Icons\lecture_9.png" />
   </ItemGroup>
-
   <ItemGroup>
     <EmbeddedResource Include="Resources\Audio\Abeceda\a.mp3" />
     <EmbeddedResource Include="Resources\Audio\Abeceda\b.mp3" />
@@ -498,6 +524,18 @@
     <EmbeddedResource Include="Resources\Lectures\en\lecture_10.json" />
     <EmbeddedResource Include="Resources\Lectures\en\lecture_11.json" />
     <EmbeddedResource Include="Resources\Lectures\en\lecture_12.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_01.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_02.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_03.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_04.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_05.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_06.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_07.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_08.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_09.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_10.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_11.json" />
+    <EmbeddedResource Include="Resources\Lectures\fr\lecture_12.json" />
     <EmbeddedResource Include="Resources\Lectures\Icons\lecture_01.png" />
     <EmbeddedResource Include="Resources\Lectures\Icons\lecture_02.png" />
     <EmbeddedResource Include="Resources\Lectures\Icons\lecture_03.png" />
@@ -511,17 +549,15 @@
     <EmbeddedResource Include="Resources\Lectures\Icons\lecture_11.png" />
     <EmbeddedResource Include="Resources\Lectures\Icons\lecture_12.png" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="DLToolkit.Forms.Controls.FlowListView" Version="2.0.10" />
-    <PackageReference Include="Microsoft.AppCenter.Analytics" Version="1.5.0" />
-    <PackageReference Include="Microsoft.AppCenter.Crashes" Version="1.5.0" />
+    <PackageReference Include="Microsoft.AppCenter.Analytics" Version="1.6.0" />
+    <PackageReference Include="Microsoft.AppCenter.Crashes" Version="1.6.0" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
-    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.0.2" />
-    <PackageReference Include="Xam.Plugins.Settings" Version="4.0.0.3-beta" />
-    <PackageReference Include="Xamarin.Forms" Version="3.0.0.354232-pre3" />
+    <PackageReference Include="Xam.Plugin.SimpleAudioPlayer" Version="1.2.1.1-beta" />
+    <PackageReference Include="Xam.Plugins.Settings" Version="4.0.0.10-beta" />
+    <PackageReference Include="Xamarin.Forms" Version="3.1.0.469394-pre1" />
   </ItemGroup>
-
   <ItemGroup>
     <Compile Condition=" '$(EnableDefaultCompileItems)' == 'true' " Update="App.xaml.cs">
       <DependentUpon>*.xaml</DependentUpon>
@@ -532,12 +568,16 @@
       <DependentUpon>AppResources.resx</DependentUpon>
     </Compile>
   </ItemGroup>
-
   <ItemGroup>
     <Folder Include="DataAccess\" />
     <Folder Include="Resources\AbecedaImg\" />
+    <Folder Include="Resources\Lectures\it\" />
   </ItemGroup>
-
+  <ItemGroup>
+    <XliffResource Include="MultilingualResources\CroatianLessons.Standard.de.xlf" />
+    <XliffResource Include="MultilingualResources\CroatianLessons.Standard.fr.xlf" />
+    <XliffResource Include="MultilingualResources\CroatianLessons.Standard.it.xlf" />
+  </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Update="Resources\AppResources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

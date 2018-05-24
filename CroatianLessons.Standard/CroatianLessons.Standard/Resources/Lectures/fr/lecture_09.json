@@ -1,0 +1,105 @@
+{
+  "LectureId": "lecture_09",
+  "Title": "À l'hotel",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "En cherchant la réception",
+      "Phrase": "Molim vas, gdje je recepcija?",
+      "Info": "Si vous voulez demander pour la réception ...",
+      "Translation": "Excusez-moi, où se trouve la réception?",
+      "Memo": "Recepcija est une version domestiquée du même mot international, pas difficile à retenir.",
+      "LectureId": "lecture_09"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Demander une chambre",
+      "Phrase": "Trebam sobu.",
+      "Info": "Si vous avez besoin d'une chambre, vous pouvez dire ...",
+      "Translation": "J'ai besoin d'une chambre.",
+      "Memo": "\"Nous avons des cas dans notre langue, une chambre dans le cas nominatif est\" \"soba\" \". Le mot \" \"sobu\" \"c'est l'accusatif.\nComme mentionné précédemment, nous conjugons les verbes par genre, donc nous n'avons pas besoin d'utiliser des pronoms personnels. Vous pourriez aussi dire:\n\" Ja trebam sobu \" dans l'exemple donné, mais \" Trebam sobu \"  est suffisant et grammaticalement correct. \"",
+      "LectureId": "lecture_09"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Taille de la chambre",
+      "Phrase": "Jednokrevetna ili dvokrevetna soba?",
+      "Info": "Un réceptionniste pourrait demander ...",
+      "Translation": "Chambre simple ou double?",
+      "Memo": "Les mots longs dans l'exemple donné sont des mots combinés faits de mots pour les nombres:\r\n\" Jedan \" = \" Un \" et\r\n\" Dva \" = \" Deux \",\r\net le mot  lit - \" Krevet \". ",
+      "LectureId": "lecture_09"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Donner les clés",
+      "Phrase": "Izvolite, vaši ključevi.",
+      "Info": "En vous donnant une clé de chambre, un réceptionniste pourrait dire ...",
+      "Translation": "Voici vos clés!",
+      "Memo": "Une clé est \"ključ\" \".Aujourd'hui, la plupart des hôtels utilisent des portes avec des cartes au lieu de clés. Pour une \" carte de chambre \" on dit \" kartica od sobe \" ou simplement \" kartica \"",
+      "LectureId": "lecture_09"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "En donnant le numéro de la chambre",
+      "Phrase": "Moj broj sobe je 123.",
+      "Info": "Pour dire le numéro de votre chambre ...",
+      "Translation": "Mon numéro de chambre est 123.",
+      "Memo": "Ici le mot \"soba\" est le génitif et on dit donc \"sobe\".",
+      "LectureId": "lecture_09"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Demander un échange de monnaie",
+      "Phrase": "Gdje mogu promijeniti novac?",
+      "Info": "Pour demander où se trouve le bureau de change...",
+      "Translation": "Où puis-je changer l'argent?",
+      "Memo": "Le mot pour le bureau de change est \"mjenjačnica\". Donc vous pouvez aussi demander: \"Gdje je mjenjačnica?\" - \"Où se trouve le bureau de change?\".",
+      "LectureId": "lecture_09"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Demander pour les horaires",
+      "Phrase": "Kada se otvara restoran?",
+      "Info": "Demander quand ouvre  le restaurant  ...",
+      "Translation": "Quand ouvre le restaurant?",
+      "Memo": "Deux mots utiles à retenir:\r\n\" Otvoreno \" = \" Ouvert \"\r\n\" Zatvoreno \" = Fermé \" ",
+      "LectureId": "lecture_09"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Repas",
+      "Phrase": "Doručak, ručak i večera.",
+      "Info": "Les noms des principaux repas sont...",
+      "Translation": "Petit-déjeuner, déjeuner et diner.",
+      "Memo": "\" \"Do\" \"in\" \"Doručak\" \"signifie\" \"à côté de\" \", parce que le petit déjeuner est à côté, ou avant le déjeuner.\nLe mot pour dîner - \" večera \" vient du mot  \"le soir\" - \" večer \",  vous connaissez déjà de la salutation \" Dobra večer! \" \"",
+      "LectureId": "lecture_09"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "Demander pour la  piscine",
+      "Phrase": "Imate li bazen za djecu?",
+      "Info": "Demader s'il y a une piscine pour enfants ...",
+      "Translation": "Avez-vous une piscine pour enfants?",
+      "Memo": "La piscine pour enfants s'appelle aussi \"dječji bazen\".",
+      "LectureId": "lecture_09"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_10",
+      "Title": "Avoir la réservation",
+      "Phrase": "Imam rezervaciju za sobu.",
+      "Info": "Pour dire que vous avez une réservation pour une chambre ...",
+      "Translation": "J'ai une réservation pour une chambre.",
+      "Memo": "\" \"Avoir\" \"est un verbe important, alors apprenons-le en croate:\n\" J'ai \" = \" Imam \"\n\" Tu as \" = \" Imaš \"\n\" Il / elle a \" = \" Ima \"\n\" Nous avons \" = \" Imamo \"\n\" Vous avez \" = \" Imate \"\n\" Ils ont \" = \" Imaju \" \"",
+      "LectureId": "lecture_09"
+    },
+    "lesson_11": {
+      "LessonId": "lesson_11",
+      "Title": "Demander une femme de chambre",
+      "Phrase": "Molim vas, pošaljite sobaricu u moju sobu.",
+      "Info": "Pour demander une femme de chambre ..",
+      "Translation": "S'il vous plaît,  envoyez une femme de chambre dans ma chambre.",
+      "Memo": "Si vous avez retenu le mot \"soba\", il sera facile de se souvenir de \"sobarica\" - \"femme de chambre\".",
+      "LectureId": "lecture_09"
+    }
+  }
+}

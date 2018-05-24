@@ -1,0 +1,87 @@
+{
+  "LectureId": "lecture_08",
+  "Title": "Sur la route",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Chaque été",
+      "Phrase": "Idemo u Hrvatsku!",
+      "Info": "Quand les vacances commencent enfin ...",
+      "Translation": "Nous allons en Croatie!",
+      "Memo": "\"Idemo\" \"signifie\" \"Nous allons\" \", mais cela peut aussi signifier\" Allons-y!\" \"Si vous soutenez l'équipe de football croate par exemple, vous pouvez crier:\n\" Idemo Hrvatska! \" = \" Allons-y Croatie! \".\n\" 'aj'mo Hrvatska!\", ignifie la même chose que la phrase précédente. \" 'aj'mo \" est raccourci de \" Hajdemo \", qui signifie aussi \" Allons-y \".\n\n\" Hrvatska \" est le nom croate pour la Croatie. La langue croate est \" Hrvatski jezik \". Si vous avez déjà appris  cette leçon, vous pouvez dire:\n\"Učim hrvatski. \" = \" J'apprends le croate. \".",
+      "LectureId": "lecture_08"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Chemin et route",
+      "Phrase": "Put, cesta, autocesta.",
+      "Info": "Nous conduisons sur...",
+      "Translation": "Chemin, route, autoroute.",
+      "Memo": "\"Put\" \"est la racine de beaucoup de mots en croate:\n\" Putnik \" = \" Voyageur \"\n\" Putovanje \" = \" Voyage \"\n\" Putovnica \" = \" Passeport \"\n\" Usput \" = \" Au passage \"\n...",
+      "LectureId": "lecture_08"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Demander son chemin 1",
+      "Phrase": "Tražim put do Splita.",
+      "Info": "Si vous avez besoin de demander le chemin à...",
+      "Translation": "Je cherche le chemin pour Split",
+      "Memo": "\"Tražim\" \"signifie\" \"Je cherche\" \".\n\nVous pouvez également demander:\n\" Kojim putem do Zagreba? \" = \" Quel chemin vers Zagreb? \", Ou simplement:\n\" Put za Hvar? \" = \" Le chemin pour Hvar? \" \"\n",
+      "LectureId": "lecture_08"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Demander son chemin 2",
+      "Phrase": "Je li ovo cesta za Dubrovnik?",
+      "Info": "Pour vous assurer que vous êtes sur la bonne route, demandez ...",
+      "Translation": "Est-ce la route pour aller à Dubrovnik?",
+      "Memo": "\"Koja cesta ide do obale?\" = \" \"Quelle route va à la côte?\"",
+      "LectureId": "lecture_08"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Demander son chemin 3",
+      "Phrase": "Kako do trajekta?",
+      "Info": "Le moyen facile de demander le chemin est ..",
+      "Translation": "Comment se rendre au ferry?",
+      "Memo": "\"Kako doći do plaže?\" = \"Comment aller à la plage\"",
+      "LectureId": "lecture_08"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Demander de l'aide",
+      "Phrase": "Oprostite! Možete li mi pomoći?",
+      "Info": "Quand vous avez besoin de l'aide, vous dites ...",
+      "Translation": "Excusez-moi! Pouvez-vous m'aider?",
+      "Memo": "\" \"Pomoć\" \"=\" \"Aide\" \"\n\" Prva pomoć \" = \" Premiers secours \"\n\" Upomoć! \" = \" Aide! \" \"\n",
+      "LectureId": "lecture_08"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Demander à voir",
+      "Phrase": "Možete li mi pokazati?",
+      "Info": "Quand vous voulez que quelqu'un vous montre, vous demandez ...",
+      "Translation": "Pouvez-vous me montrer?",
+      "Memo": "Quelqu'un pourrait vous répondre avec:\r\n\" Vidite li ...? \" = \" Pouvez-vous voir ...? \"\r\n\r\nÀ laquelle vous pourriez répondre avec:\r\n\" Vidim \" = \" Je vois \", ou\r\n\" Ne vidim \" = \" Je ne vois pas \" ",
+      "LectureId": "lecture_08"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Directions",
+      "Phrase": "Lijevo - Desno - Pravo",
+      "Info": "Nous utilisons souvent ces mots pour les directions ...",
+      "Translation": "A gauche - A droite - Tout droit",
+      "Memo": "Pour s'orienter , on utilise:\r\n\" Sjever \" = \" Nord \"\r\n\" Istok \" = \" Est \"\r\n\" Jug \" = \" Sud \"\r\n\" Zapad \" = \" Ouest \" ",
+      "LectureId": "lecture_08"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "De retour",
+      "Phrase": "Sretan put!",
+      "Info": "Quand quelqu'un part on voyage on dit...",
+      "Translation": "Bon voyage!",
+      "Memo": "\"Sretan\" \"signifie à la fois \"Chanceux\" et \"Heureux\" en croate.\n\"Sreća\" = \"Chance\" ou \" Bonheur\"",
+      "LectureId": "lecture_08"
+    }
+  }
+}

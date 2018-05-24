@@ -1,0 +1,69 @@
+{
+  "LectureId": "lecture_06",
+  "Title": "Introduction",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Demander le nom",
+      "Phrase": "Kako se zoveš?",
+      "Info": "Quand on veut connaître le nom de quelqu'un, on demande ...",
+      "Translation": "Comment t'appelles tu?",
+      "Memo": "Cette phrase signifie en faite \"Comment vous vous appelez?\", Mais elle est  plus courrante que l'autre phrase que nous utilisons: \"Kako ti je ime?\" ce qui signifie littéralement \"Comment est ton nom?\"",
+      "LectureId": "lecture_06"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Vous présenter",
+      "Phrase": "Moje ime je ...",
+      "Info": "Quand on veut dire son nom...",
+      "Translation": "Mon prénom c'est...",
+      "Memo": "Normalement, on dit simplement \"Ja sam ...\", signifiant \"Je suis ...\"",
+      "LectureId": "lecture_06"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Être ravi de...",
+      "Phrase": "Drago mi je!",
+      "Info": "Après avoir dit notre nom, nous disons habituellement...",
+      "Translation": "Enchanté!",
+      "Memo": "C'est la phrase que nous ajoutons habituellement après avoir dit notre nom. Par exemple:\n\"Ja sam Ivan, drago mi je!\" = \"Je suis Ivan, enchanté\",\nou plus souvent juste:\n\"Ivan, drago mi je\" = \"Ivan, enchanté\".\n\nLa phrase signifie en réalité \"Je suis content!\" et pour exprimer à quel point vous êtes heureux de rencontrer quelqu'un, vous pouvez utiliser l'expression la plus longue:\n\"Drago mi je što smo se upoznali.\" = \"Je suis ravi de vous connaître.\"",
+      "LectureId": "lecture_06"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Demander d'où l'on vient?",
+      "Phrase": "Odakle si?",
+      "Info": "Pour savoir d'où vient quelqu'un, nous demandons ...\n",
+      "Translation": "D'où viens-tu?",
+      "Memo": "Si vous demandez formellement ou un groupe de personnes,vous dites \"Odakle ste? ( d'où venez vous?\")",
+      "LectureId": "lecture_06"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Parler d'où on vient",
+      "Phrase": "Ja sam iz ...",
+      "Info": "Pour dire d'où on vient...",
+      "Translation": "Je viens de ...",
+      "Memo": "Une expression plus longue pourrait être:\r\n\" (Ja) dolazim iz ... \" = \" Je viens de ... \" ",
+      "LectureId": "lecture_06"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Présenter  quelqu'un ",
+      "Phrase": "Ovo je ...",
+      "Info": "Pour présenter quelqu'un qui est avec nous, on dit ...",
+      "Translation": "c'est...",
+      "Memo": "\"Moj prijatelj, moja prijateljica\"=\"Mon ami/e\" (homme et femme)\n\" Moj momak, moja djevojka \"= \" Mon copin, ma copine \"\n\" Moj suprug, moja supruga \" = \" Mon mari, ma femme \"\n\"Moj sin, moja kćer \" = \" Mon fils, ma fille \"\n\" Moj brat, moja sestra \" = \"Mon frère, ma soeur \"\n\nVous trouverez la prononciation de tous ces mots dans la leçon sur les amis et la famille. \"\n",
+      "LectureId": "lecture_06"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Titres de civilité",
+      "Phrase": "Gospodin ... Gospođa ...",
+      "Info": "Pour les situations formelles, nous utilisons...",
+      "Translation": "Monsieur.. Madame...",
+      "Memo": "La lettre \"đ\" se prononce comme \"J\" dans le nom \"Jimmy\" ou comme \"g\" dans le mot \"gym\".",
+      "LectureId": "lecture_06"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "LectureId": "lecture_03",
+  "Title": "Nombres",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "0 - Zéro",
+      "Phrase": "Nula",
+      "Info": "0",
+      "Translation": "Zéro",
+      "Memo": "On dit aussi \"ništica\" ou \"ništa\" pour zéro. \"Ništa\" signifie aussi \"rien\".",
+      "LectureId": "lecture_03"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "1 - Un",
+      "Phrase": "Jedan",
+      "Info": "1",
+      "Translation": "Un",
+      "Memo": "\"Jedan\" = \"Une personne\"\n\"Jedna\" = \"Une femme, ou quelque chose de féminin\"\n\"Jedno\" = \"Quelque chose de genre neutre \"\n\"Jednom\" = \"Une fois\"\n\"Prvi / Prva / Prvo\" = \"Le premier/ la première\"\n\"Jedinica\" = \"Unité\", \nAussi le nom du chiffre 1",
+      "LectureId": "lecture_03"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "2 - Deux",
+      "Phrase": "Dva",
+      "Info": "2",
+      "Translation": "Deux",
+      "Memo": "\"Dvojica\" = \"Deux hommes\"\n\"Dvije\" = \"Deux femmes (ou quelques chose de féminin)\"\n\"Dvoje\" = \"Deux personnes (maculines ou masuline et féminine)\"\n\"Drugi / Druga / Drugo\" = \"Deuxième\"\n\"Dvaput\" = \"Deux fois\"\n\"Dvojka\" = Aussi le nom du chiffre 2",
+      "LectureId": "lecture_03"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "3- Trois",
+      "Phrase": "Tri",
+      "Info": "3",
+      "Translation": "Trois",
+      "Memo": "\"Trojica\" = \"Trois personnes\"\n\"Tri\" = \"Trois femmes (ou trois choses)\"\n\"Troje\" = \"Trois personnes (masculin ou féminin)\"\n\"Treći / Treća / Treće\" = \"Troisième\"\n\"Trojka\" = \"Groupe de 3 personnes\", aussi le nom du chiffre 3",
+      "LectureId": "lecture_03"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "4 - Quatre",
+      "Phrase": "Četiri",
+      "Info": "4",
+      "Translation": "Quatre",
+      "Memo": "\"Četvorica\" = \"Quatre personnes\"\n\"Četiri\" = \"Quatre femmes, ou quatre choses\n\"Četvero\" = \"Quatre personnes, masculin ou féminin\"\n\"Četvrti / Četvrta / Četvrto\" = \"Quatrième\"\n\"Četvorka\" = \"Groupe de quatre personnes\", aussi le nom du chiffre 4",
+      "LectureId": "lecture_03"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "5 - Cinq",
+      "Phrase": "Pet",
+      "Info": "5",
+      "Translation": "Cinq",
+      "Memo": "\"Petorica\" = \"5 hommes\"\n\"Petero\" = \"5 personnes\"\n\"Peti / Peta / Peto\" = \"Cinquième\"\n\"Petorka\" = \"Groupe de cinq\"\n\"Petica\" = Le nom du chiffre 5",
+      "LectureId": "lecture_03"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "6 - Six",
+      "Phrase": "Šest",
+      "Info": "6",
+      "Translation": "Six",
+      "Memo": "\"Šestorica\" = \"6 hommes\"\n\"Šestero\" = \"6 personnes\"\n\"Šesti / Šesta / Šesto\" = \"Sixième\"\n\"Šestorka\" = \"Groupe de 6\"\n\"Šestica\" = Le nom du chiffre 6",
+      "LectureId": "lecture_03"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "7 - Sept",
+      "Phrase": "Sedam",
+      "Info": "7",
+      "Translation": "Sept",
+      "Memo": "\"Sedmorica\" = \"7 hommes\"\n\"Sedmero\" = \"7 personnes\"\n\"Sedmi / Sedma / Sedmo\" = \"Septième\"\n\"Sedmorka\" = \"Groupe de  7\"\n\"Sedmica\" = Le nom du chiffre 7",
+      "LectureId": "lecture_03"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "8 - Huit",
+      "Phrase": "Osam",
+      "Info": "8",
+      "Translation": "Huit",
+      "Memo": "\"Osmorica\" = \"8 hommes\"\n\"Osmero\" = \"8 personnes\"\n\"Osmi / Osma / Osmo\" = \"Huitième\"\n\"Osmorka\" = \"Groupe de 8\"\n\"Osmica\" = Le nom du chiffre 8",
+      "LectureId": "lecture_03"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_10",
+      "Title": "9 - Neuf",
+      "Phrase": "Devet",
+      "Info": "9",
+      "Translation": "Neuf",
+      "Memo": "\"Devetorica\" = \"9 hommes\"\n\"Devetero\" = \"9 personnes\"\n\"Deveti / Deveta / Deveto\" = \"Neuvième\"\n\"Devetorka\" = \"Groupe de 9\"\n\"Devetka\" = Le nom du chiffre 9",
+      "LectureId": "lecture_03"
+    },
+    "lesson_11": {
+      "LessonId": "lesson_11",
+      "Title": "10 - Dix",
+      "Phrase": "Deset",
+      "Info": "10",
+      "Translation": "Dix",
+      "Memo": "\"Desetorica\" = \"10 hommes\"\n\"Desetero\" = \"10 personnes\"\n\"Deseti / Deseta / Deseto\" = \"Dixième\"\n\"Desetorka\" = \"Groupe de 10\"\n\"Desetka\" = Le nom du nombre 10",
+      "LectureId": "lecture_03"
+    },
+    "lesson_12": {
+      "LessonId": "lesson_12",
+      "Title": "11 - Onze",
+      "Phrase": "Jedanaest",
+      "Info": "11",
+      "Translation": "Onze",
+      "Memo": "\"Jedanaestorica\" = \"11 hommes\"\n\"Jedanaestero\" = \"11 personnes\"\n\"Jedanaesti / Jedanaesta / Jedanaesto\" = \"Onzième\"\n\"Jedanaestorka\" = \"Groupe de 11\"\n\"Jedanaestica\" =Le nom du nombre 11",
+      "LectureId": "lecture_03"
+    },
+    "lesson_13": {
+      "LessonId": "lesson_13",
+      "Title": "12 - Douze",
+      "Phrase": "Dvanaest",
+      "Info": "12",
+      "Translation": "Douze",
+      "Memo": "\"Dvanaestorica\" = \"12 hommes\"\n\"Dvanaestero\" = \"12 personnes\"\n\"Dvanaesti / Dvanaesta / Dvanaesto\" = \"Douzième\"\n\"Dvanaestorka\" = \"Groupe de 12\"\n\"Dvanaestica\" = Le nom du nombre 12",
+      "LectureId": "lecture_03"
+    },
+    "lesson_14": {
+      "LessonId": "lesson_14",
+      "Title": "13 - Treize",
+      "Phrase": "Trinaest",
+      "Info": "13",
+      "Translation": "Treize",
+      "Memo": "\"Trinaestorica\" = \"13 hommes\"\n\"Trinaestero\" = \"13 personnes\"\n\"Trinaesti / Trinaesta / Trinaesto\" = \"Treizième\"\n\"Trinaestorka\" = \"Groupe de 13\"\n\"Trinaestica\" = Le nom du nombre 13",
+      "LectureId": "lecture_03"
+    },
+    "lesson_15": {
+      "LessonId": "lesson_15",
+      "Title": "20 -Vingt",
+      "Phrase": "Dvadeset",
+      "Info": "20",
+      "Translation": "Vingt",
+      "Memo": "\"Dvadesetorica\" = \"20 hommes\"\n\"Dvadesetero\" = \"20 personnes\"\n\"Dvadeseti / Dvadeseta / Dvadeseto\" = \"Vingtième\"\n\"Dvadesetorka\" = \"Groupe de 20\"\n\"Dvadesetica\" = Le nom du nombre 20",
+      "LectureId": "lecture_03"
+    },
+    "lesson_16": {
+      "LessonId": "lesson_16",
+      "Title": "25 - Vingt cinq",
+      "Phrase": "Dvadeset i pet",
+      "Info": "25",
+      "Translation": "Vingt cinq",
+      "Memo": "\"Dvadesetpetorica\" = \"25 hommes\"\n\"Dvadesetpetero\" = \"25 personnes\"\n\"Dvadesetpeti / Dvadesetpeta / Dvadesetpeto\" = \"Vingt-cinquième\"\n\"Dvadesetpetorka\" = \"Groupe de 25\"\n\"Dvadesetpetica\" = Le nom du nombre  25",
+      "LectureId": "lecture_03"
+    },
+    "lesson_17": {
+      "LessonId": "lesson_17",
+      "Title": "99 - Quatre-vingt-dix-neuf",
+      "Phrase": "Devedeset i devet",
+      "Info": "99",
+      "Translation": " Quatre-vingt-dix-neuf",
+      "Memo": "\"Devedesetdevetorica\" = \"99 hommes\"\n\"Devedesetdevetero\" = \"99 personnes\"\n\"Devedesetdeveti / Devedesetdeveta / Devedesetdeveto\" = \"\"quatre-vingt-dix-neuvième\n\"Devedesetpetorka\" = \"Groupe de  99\"\n\"Devedesetdevetka\" =Le nom du nombre 99",
+      "LectureId": "lecture_03"
+    },
+    "lesson_18": {
+      "LessonId": "lesson_18",
+      "Title": "100 - Cent",
+      "Phrase": "Sto",
+      "Info": "100",
+      "Translation": "Cent",
+      "Memo": "On dit aussi \"stotinu\". Le nom du nombre est \"stotica\" ili \"stotka\".",
+      "LectureId": "lecture_03"
+    },
+    "lesson_19": {
+      "LessonId": "lesson_19",
+      "Title": "500 - Cinq cents",
+      "Phrase": "Petsto",
+      "Info": "500",
+      "Translation": "Cinq cents",
+      "Memo": "On dit aussi  \"pet stotina\".",
+      "LectureId": "lecture_03"
+    },
+    "lesson_20": {
+      "LessonId": "lesson_20",
+      "Title": "1000 - Mille",
+      "Phrase": "Tisuću",
+      "Info": "1000",
+      "Translation": "Mille",
+      "Memo": "\nPour un million, on dit  \"milijun\", et pour un millard on dit \"milijarda\".",
+      "LectureId": "lecture_03"
+    },
+    "lesson_21": {
+      "LessonId": "lesson_21",
+      "Title": "1/2 - Moitié",
+      "Phrase": "Pola",
+      "Info": "1/2",
+      "Translation": "Moitié",
+      "Memo": "\"Poluvrijeme\" = \"Mi-temps\" (en sport)\n\"Pola sata\" = \"Une demi-heure\"\n\"Pola pet\" = \"Quatre heures et demie\" (notez bien: \"pet\" signifie 5)",
+      "LectureId": "lecture_03"
+    }
+  }
+}

@@ -10,7 +10,7 @@ using Newtonsoft.Json.Linq;
 using System.Collections.ObjectModel;
 using System.Globalization;
 using DLToolkit.Forms.Controls;
-using Plugin.SimpleAudioPlayer.Abstractions;
+using Plugin.SimpleAudioPlayer;
 
 namespace CroatianLessons.Standard.ViewModels
 {
@@ -165,7 +165,7 @@ namespace CroatianLessons.Standard.ViewModels
 
         public void OnPropertyChanged(string propertyName)
         {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(nameof(propertyName)));
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
 
         Stream GetStreamFromFile(string filename)

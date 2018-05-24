@@ -1,0 +1,96 @@
+{
+  "LectureId": "lecture_01",
+  "Title": "Les salutations",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "En partant ou en arrivant",
+      "Phrase": "Bok!",
+      "Info": "En rencontrant nos amis on dit...",
+      "Translation": "Salut!",
+      "Memo": "C'est une salutation informelle. Nous le disons aux amis, à la famille et aux connaissances.",
+      "LectureId": "lecture_01"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Le matin",
+      "Phrase": "Dobro jutro!",
+      "Info": "Le matin on se salue avec..",
+      "Translation": "Bonjour!",
+      "Memo": "Ceci est une salutation formelle mais utilisée dans des situations informelles. Nous disons \"dobro jutro\" jusqu'à environ 10 heures du matin. \"Dobro\" signifie \"bon\", \"jutro\" signifie \"matin\".",
+      "LectureId": "lecture_01"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "L'après-midi",
+      "Phrase": "Dobar dan!",
+      "Info": "Pendant la journée on se salue avec...",
+      "Translation": "Bonjour!",
+      "Memo": "Ceci est une salutation formelle utilisée de 10h00 à 18h00. \"Dan\" signifie \"jour\". Notez que \"jutro\" était \"dobro\", et \"dan\" est \"dobar\". La raison de ce changement est le genre en langue croate. Le jour (dan) est masculin et le matin (jutro) est du genre neutre. Le soir, dans la prochaine leçon est du genre féminin.",
+      "LectureId": "lecture_01"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Le soir",
+      "Phrase": "Dobra večer!",
+      "Info": "Pendant la soirée on dit...",
+      "Translation": "Bonsoir!",
+      "Memo": "Beaucoup de Croates confondent les genres de mots, particulièrement pour le mot soir - \"večer\", qui est  féminin. Donc, vous pouvez souvent entendre \"Dobro večer\", ou \"Dobar večer\", et personne ne va vous regarder bizarrement .",
+      "LectureId": "lecture_01"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Pour accueillir",
+      "Phrase": "Dobrodošli!",
+      "Info": "On accueille les gens avec ...",
+      "Translation": "Bienvenus!",
+      "Memo": "Notez que \"dobrodošli\" est un mot composé de deux mots \"dobro\" = \"bien\" et \"došli\" = \"venu(e)s\" écrit ensemble, contrairement aux salutations pour le matin, jour, soir et nuit \"dobro jutro\", \" dobar dan \", etc ...",
+      "LectureId": "lecture_01"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "En partant",
+      "Phrase": "Doviđenja!",
+      "Info": "Quand on s'en va..",
+      "Translation": "Au revoir!",
+      "Memo": "Cette formule a le même sens qu'en français.",
+      "LectureId": "lecture_01"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "A la prochaine!",
+      "Phrase": "Vidimo se!",
+      "Info": "Pour dire qu'on se reverra...",
+      "Translation": "A la prochaine!",
+      "Memo": "Vidimo se signifie littéralement \"Nous nous reverrons\"",
+      "LectureId": "lecture_01"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Etre poli",
+      "Phrase": "Kako si? Kako ste?",
+      "Info": "Si nous voulons être polis avec les autres, nous leur demandons s'ils vont bien ...",
+      "Translation": "Comment allez-vous?",
+      "Memo": "Informellement, vous utilisez une forme singulière \"Kako si?\". Si vous demandez à quelqu'un formellement ou que vous demandez à plusieures  personnes, vous utilisez le pluriel \"Kako ste?\"",
+      "LectureId": "lecture_01"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "Pendant le repas!",
+      "Phrase": "Dobar tek!",
+      "Info": "Dans un restaurant ou une salle à manger on dit ...",
+      "Translation": "Bon appétit!",
+      "Memo": "Nous disons aussi \"Uslast!\"",
+      "LectureId": "lecture_01"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_10",
+      "Title": "En buvant",
+      "Phrase": "Živjeli!",
+      "Info": "Quand on trinque, on se regarde dans les yeux et on dit ...",
+      "Translation": "À votre santé!",
+      "Memo": "Živjeli signifie \"Vivons!\". Nous disons aussi \"Nazdravlje!\" ou \"Uzdravlje!\". Cela signifie comme en français \"À votre santé!\"",
+      "LectureId": "lecture_01"
+    }
+  }
+}

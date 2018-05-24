@@ -14,17 +14,27 @@
 
                 <StackLayout Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="FillAndExpand">
                     <Button Text="{t:Translate BtnPrevLesson}"
-                        FontSize="Small"
+                        FontSize="Micro"
                         HorizontalOptions="StartAndExpand"
                         Margin="10"
+                            WidthRequest="150"
                         VerticalOptions="End"
+                            BorderColor="DarkGreen"
+                            BorderRadius="16"
+                            BorderWidth="1"
+                            BackgroundColor="LightGreen"
                         Command="{Binding OpenPrevPageCommand}"
                         IsEnabled="{Binding IsPreviousLessonAvailable}" />
                     <Button Text="{t:Translate BtnNextLesson}"
-                        FontSize="Small"
+                        FontSize="Micro"
                         HorizontalOptions="EndAndExpand"
                         Margin="10"
+                            WidthRequest="150"
                         VerticalOptions="End"
+                            BorderColor="DarkGreen"
+                            BorderRadius="16"
+                            BorderWidth="1"
+                            BackgroundColor="LightGreen"
                         Command="{Binding OpenNextPageCommand}"
                         IsEnabled="{Binding IsNextLessonAvailable}" />
                 </StackLayout>
@@ -71,12 +81,40 @@
                 FontSize="Small"
                 Margin="20,5"/>
 
+                <ScrollView>
+                <Editor Text="{Binding LessonNotes}"
+                        IsEnabled="false"
+                        Margin="10"
+                        HeightRequest="{Binding NotesHeight}"
+                        FontSize="Small"
+                        />
+                </ScrollView>
+                
+                <StackLayout Orientation="Horizontal" Margin ="10" Spacing="10" HorizontalOptions="FillAndExpand">
+                    <Entry Text="{Binding Note}" 
+                           HorizontalOptions="FillAndExpand" />
+                    <Button Text="{t:Translate AddNote}" 
+                            Command="{Binding SaveNoteCommand}" 
+                            BorderColor="DarkBlue"
+                            BorderRadius="16"
+                            BorderWidth="1"
+                            BackgroundColor="LightBlue"
+                            WidthRequest="100"
+                FontSize="Micro"
+                            />
+                </StackLayout>
+
                 <Button Text="{t:Translate BtnCloseLesson}"
                     Command="{Binding CloseModalPageCommand}"
                 VerticalOptions="Start" 
                 HorizontalOptions="End"
-                FontSize="Small"
-                Margin="20,5"/>
+                            BorderColor="DarkRed"
+                            BorderRadius="16"
+                            BorderWidth="1"
+                            BackgroundColor="LightPink"
+                            WidthRequest="100"
+                FontSize="Micro"
+                Margin="10,5"/>
 
             </StackLayout>
 

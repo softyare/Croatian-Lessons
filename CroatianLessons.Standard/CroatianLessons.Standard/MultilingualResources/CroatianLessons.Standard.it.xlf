@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="it" original="CROATIANLESSONS.STANDARD/RESOURCES/APPRESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="CROATIANLESSONS.STANDARD/RESOURCES/APPRESOURCES.RESX" datatype="resx">
+        <trans-unit id="A" translate="yes" xml:space="preserve">
+          <source>Adventure</source>
+          <target state="translated">Avventura</target>
+        </trans-unit>
+        <trans-unit id="AddNote" translate="yes" xml:space="preserve">
+          <source>Add Note</source>
+          <target state="translated" state-qualifier="tm-suggestion">Aggiungi nota</target>
+        </trans-unit>
+        <trans-unit id="Alphabet" translate="yes" xml:space="preserve">
+          <source>Alphabet</source>
+          <target state="translated" state-qualifier="tm-suggestion">Alfabeto</target>
+        </trans-unit>
+        <trans-unit id="AnswerNo" translate="yes" xml:space="preserve">
+          <source>No</source>
+          <target state="translated" state-qualifier="tm-suggestion">No</target>
+        </trans-unit>
+        <trans-unit id="AnswerYes" translate="yes" xml:space="preserve">
+          <source>Yes</source>
+          <target state="translated" state-qualifier="tm-suggestion">Sì</target>
+        </trans-unit>
+        <trans-unit id="AppName" translate="yes" xml:space="preserve">
+          <source>Croatian Lessons For Tourists</source>
+          <target state="translated" state-qualifier="mt-suggestion">Lezioni di croato per i turisti</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Application name</note>
+        </trans-unit>
+        <trans-unit id="B" translate="yes" xml:space="preserve">
+          <source>Bug</source>
+          <target state="translated">Insetto</target>
+        </trans-unit>
+        <trans-unit id="BtnCloseLesson" translate="yes" xml:space="preserve">
+          <source>Close ✕</source>
+          <target state="translated" state-qualifier="mt-suggestion">Vicino ✕</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Close Lesson Page (modal)</note>
+        </trans-unit>
+        <trans-unit id="BtnFinish" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <target state="translated" state-qualifier="tm-suggestion">Fine</target>
+        </trans-unit>
+        <trans-unit id="BtnNextLesson" translate="yes" xml:space="preserve">
+          <source>Next lesson »</source>
+          <target state="translated">Lezione successiva »</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text for next lesson</note>
+        </trans-unit>
+        <trans-unit id="BtnPrevLesson" translate="yes" xml:space="preserve">
+          <source>« Previous lesson</source>
+          <target state="translated">« Precedente lezione</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text for previous lesson</note>
+        </trans-unit>
+        <trans-unit id="BtnStartLearning" translate="yes" xml:space="preserve">
+          <source>Let's start!</source>
+          <target state="translated" state-qualifier="mt-suggestion">Iniziamo!</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Button text to start learning, i.e. leaving Intro screen</note>
+        </trans-unit>
+        <trans-unit id="C" translate="yes" xml:space="preserve">
+          <source>Road</source>
+          <target state="translated" state-qualifier="tm-suggestion">Strada</target>
+        </trans-unit>
+        <trans-unit id="Cx" translate="yes" xml:space="preserve">
+          <source>Man</source>
+          <target state="translated" state-qualifier="tm-suggestion">Uomo</target>
+        </trans-unit>
+        <trans-unit id="Cy" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="D" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Dx" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Dy" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="E" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="F" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="G" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="H" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="I" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="IntroInfoMsg" translate="yes" xml:space="preserve">
+          <source>Welcome to Love Carpe Diem's Croatian Lessons!</source>
+          <target state="translated">Benvenuti ad lezioni Croato di Love Carpe Diem!</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Welcome to Love Carpe Diem's Croatian Lessons!</note>
+        </trans-unit>
+        <trans-unit id="IntroLanguageInfo" translate="yes" xml:space="preserve">
+          <source>Your device's language is </source>
+          <target state="translated" state-qualifier="mt-suggestion">La lingua del dispositivo è </target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Info on device's language</note>
+        </trans-unit>
+        <trans-unit id="J" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="K" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="L" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="LabelSelectLanguage" translate="yes" xml:space="preserve">
+          <source>Select application language:</source>
+          <target state="translated" state-qualifier="mt-suggestion">Selezionare la lingua dell'applicazione:</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Label for language selector</note>
+        </trans-unit>
+        <trans-unit id="LanguageChangeDialogText" translate="yes" xml:space="preserve">
+          <source>Do you want to change language to xxxx</source>
+          <target state="translated" state-qualifier="mt-suggestion">Vuoi cambiare lingua a xxxx</target>
+        </trans-unit>
+        <trans-unit id="LanguageChangeDialogTitle" translate="yes" xml:space="preserve">
+          <source>Language Change</source>
+          <target state="translated" state-qualifier="mt-suggestion">Cambiamento di lingua</target>
+        </trans-unit>
+        <trans-unit id="LanguageFoundInfo" translate="yes" xml:space="preserve">
+          <source>Application is set to your device's language. You can change the language here or later in Settings</source>
+          <target state="translated" state-qualifier="mt-suggestion">Applicazione è impostata su lingua del dispositivo. È possibile modificare la lingua qui o successivamente in impostazioni</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Info message if device's language is supported</note>
+        </trans-unit>
+        <trans-unit id="LanguageFoundInfoSettings" translate="yes" xml:space="preserve">
+          <source>Application is set to your device's language. You can change the language here.</source>
+          <target state="translated" state-qualifier="mt-suggestion">Applicazione è impostata su lingua del dispositivo. È possibile modificare la lingua di qui.</target>
+        </trans-unit>
+        <trans-unit id="LanguageNotFoundInfo" translate="yes" xml:space="preserve">
+          <source>Unfortunately your language is not supported in this version. Use default English language or pick another language here now or later in Settings.</source>
+          <target state="translated" state-qualifier="mt-suggestion">Purtroppo la tua lingua non è supportata in questa versione. Utilizzare la lingua inglese predefinita o scegliere un'altra lingua qui subito o più tardi in impostazioni.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Info message if device's language is not supported</note>
+        </trans-unit>
+        <trans-unit id="LanguageNotFoundInfoSettings" translate="yes" xml:space="preserve">
+          <source>Unfortunately your language is not supported in this version. Use default English language or pick another language.</source>
+          <target state="translated" state-qualifier="mt-suggestion">Purtroppo la tua lingua non è supportata in questa versione. Utilizzare la lingua inglese predefinita o scegliere un'altra lingua.</target>
+        </trans-unit>
+        <trans-unit id="Lj" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="M" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="N" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Nj" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="O" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="P" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="R" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="S" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Sx" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="T" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Tab1Title" translate="yes" xml:space="preserve">
+          <source>Lectures</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lezioni</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tab1Title</note>
+        </trans-unit>
+        <trans-unit id="Tab2Title" translate="yes" xml:space="preserve">
+          <source>Accessories</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Accessori</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tab2Title</note>
+        </trans-unit>
+        <trans-unit id="Tab3Title" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">impostazioni</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">Tab3Title</note>
+        </trans-unit>
+        <trans-unit id="U" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="V" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Z" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+        <trans-unit id="Zx" translate="yes" xml:space="preserve">
+          <source></source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion"></target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

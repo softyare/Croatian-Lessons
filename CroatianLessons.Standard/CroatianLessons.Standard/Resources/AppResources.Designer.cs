@@ -70,6 +70,15 @@ namespace CroatianLessons.Standard.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Add Note.
+        /// </summary>
+        internal static string AddNote {
+            get {
+                return ResourceManager.GetString("AddNote", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Alphabet.
         /// </summary>
         internal static string Alphabet {

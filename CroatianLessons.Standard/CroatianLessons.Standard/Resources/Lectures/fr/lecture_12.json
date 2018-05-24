@@ -1,0 +1,114 @@
+{
+  "LectureId": "lecture_12",
+  "Title": "Amour et Rencontres",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Amour",
+      "Phrase": "Ljubav",
+      "Info": "Tout ce dont tu as besoin c'est...",
+      "Translation": "Amour",
+      "Memo": "\"Ljubav\"est la racine de quelques autres mots en croate, comme:\n\" Ljubiti\" -\" Embrasser\"\n\" Poljubac\" -\" Un baiser\"\n\" Zaljubljen / Zaljubljena\" =\" Amoureux/amoureuse\"\n\" Ljubavnik / Ljubavnica\" =\" Amant\"\n\" Ljubomora\" =\" Jalousie\"\n\" Voditi ljubav\" =\" Faire l'amour\"\n\n",
+      "LectureId": "lecture_12"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Baiser",
+      "Phrase": "Poljubac",
+      "Info": "Tout commence avec un ...",
+      "Translation": "Baiser",
+      "Memo": "Un autre mot pour le baiser est\"pusa\".",
+      "LectureId": "lecture_12"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Demander un baiser",
+      "Phrase": "Poljubi me!",
+      "Info": "Parfois, vous devez le demander ...",
+      "Translation": "Donne-moi un baiser!/bisou!",
+      "Memo": "Une autre phrase est:\r\n\" Daj mi pusu\" =\" Donne moi un bisou\" ",
+      "LectureId": "lecture_12"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Exprimer de l'affection",
+      "Phrase": "Zaljubljen sam u tebe!",
+      "Info": "Pour exprimer vos sentiments, vous pouvez dire ...",
+      "Translation": "Je suis amoureux/amoureuse de toi!",
+      "Memo": "Cette phrase est prononcée par un homme à une femme. Elle dit:\"Zaljubljena sam u tebe!\"",
+      "LectureId": "lecture_12"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Exprimer ses condoléances",
+      "Phrase": "Sviđaš mi se!",
+      "Info": "Vous pouvez également dire...",
+      "Translation": "Tu me plais.",
+      "Memo": "La question serait\"Sviđam li ti se?\" =\"Je te plais?\"",
+      "LectureId": "lecture_12"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Exprimer  de l'amour",
+      "Phrase": "Volim te!",
+      "Info": "Quand vos sentiments sont plus profonds, vous dites ...",
+      "Translation": "Je t'aime.",
+      "Memo": "\"Voljeti\"=\"Aimer\"\n\" Volim Hrvatsku\" =\" J'aime la Croatie\"",
+      "LectureId": "lecture_12"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Demander un câlin",
+      "Phrase": "Zagrli me!",
+      "Info": "Quand vous avez besoin d'un câlin ...",
+      "Translation": "Donne moi un câlin!",
+      "Memo": "\"Zagrljaj\" =\" étreinte \"\n\"Grljenje\" =\"étreindre",
+      "LectureId": "lecture_12"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Exprimer le manque",
+      "Phrase": "Nedostaješ mi!",
+      "Info": "Quand ton amour est loin ...",
+      "Translation": "Tu me manques!",
+      "Memo": "Une autre expression commune de la même signification est \"Fališ mi!\"",
+      "LectureId": "lecture_12"
+    },
+    "lesson_09": {
+      "LessonId": "lesson_09",
+      "Title": "Exprimer dre l'enchantement",
+      "Phrase": "Prekrasno izgledaš!",
+      "Info": "Pour lui faire un compliment ...",
+      "Translation": "Tu est beau/belle!",
+      "Memo": "Cette phrase est généralement donnée à une femme.Pour donner un compliment à un homme, vous pouvez dire:\r\n\" Zgodan si\" -\" T'es beau\" ou\r\n\" Dobro izgledaš\" -\" Tu as l'air bien\". ",
+      "LectureId": "lecture_12"
+    },
+    "lesson_10": {
+      "LessonId": "lesson_10",
+      "Title": "Demander si quelqu'un est en couple",
+      "Phrase": "Jesi li u vezi?",
+      "Info": "Demander si quelqu'un est en couple",
+      "Translation": "Tu est en couple?/ Tu as quelqu'un?",
+      "Memo": "Tu es seule/Tu as quelqu'un?",
+      "LectureId": "lecture_12"
+    },
+    "lesson_11": {
+      "LessonId": "lesson_11",
+      "Title": "Demander à qqn de sortir",
+      "Phrase": "Hoćeš li izaći sa mnom?",
+      "Info": "Demander à qqn de sortir",
+      "Translation": "Tu veux sortir avec moi?",
+      "Memo": "\"Izlaz\"=\"Sortie\"\n\" Izaći\" =\" Sortir\" (en général)\n\" Izaći\" =\" Sortir\" (faire la fête)\n\" Izlazak\" =\" Un rendez-vous,passer du temps avec les amis\"\n",
+      "LectureId": "lecture_12"
+    },
+    "lesson_12": {
+      "LessonId": "lesson_12",
+      "Title": "Demander en mariage",
+      "Phrase": "Hoćeš li se udati za mene?",
+      "Info": "Pour lui demander de t'épouser ...",
+      "Translation": "Veux-tu m'épouser?",
+      "Memo": "\"Ona se udaje\" =\"Elle se marie\"\n\"On se ženi\" =\"Il se marie\"\n\"Ona je udana\" =\"Elle est mariée\"\n\"On je oženjen\" =Il est marié\" ",
+      "LectureId": "lecture_12"
+    }
+  }
+}

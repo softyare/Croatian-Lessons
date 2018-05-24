@@ -1,0 +1,78 @@
+{
+  "LectureId": "lecture_02",
+  "Title": "Mots de base",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "Affirmation and négation",
+      "Phrase": "Da. Ne. Možda...",
+      "Info": "Pour confirmer, refuser ou si on n'est pas pas sûrs, on dit...",
+      "Translation": "Oui. Non. Peut-être ...",
+      "Memo": "Prononcez \"ž\" dans \"možda\" comme le français \"j\" dans \"bonjour\", ou comme le deuxième \"g\" dans \"négligee\".",
+      "LectureId": "lecture_02"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "Pronoms personnels 1",
+      "Phrase": "Ja sam. Ti si.",
+      "Info": "Lorsque nous nous adressons à nous-mêmes ou directement à quelqu'un, nous disons ...",
+      "Translation": "Je suis. Tu es.",
+      "Memo": "Utilisez \"Ja sam\" quand vous voulez dire ce que vous êtes, par exemple : un homme, un chanteur ou occupé ... Si vous répondez à une question comme \"Êtes-vous un homme?\" ou \"Êtes-vous occupé?\" vous répondez avec une phrase \"Jesam\". En langue croate \"J\" est toujours prononcé comme l'anglais \"Y\" dans \"Yes\" par exemple.",
+      "LectureId": "lecture_02"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Pronoms personnels 2",
+      "Phrase": "On, ona, ono je.",
+      "Info": "Lorsque nous nous adressons à quelque'un d'autre on dit...",
+      "Translation": "Il est / elle est.",
+      "Memo": "On, ona, ono - facile à mémoriser. Comme avec \"Je suis\" , vous dites \"on je\" ou \"ona je\" quelqu'un, quelque chose ou quelque part. Mais quand vous répondez à la question \"\nEst-il ou elle ceci, cela, ou là?\", vous répondez seulement \"je\", signification (il ou elle) \"est\", ou \"n'est pas\" si la réponse est négative.",
+      "LectureId": "lecture_02"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Pronoms personnels 3 pluriel",
+      "Phrase": "Mi smo. Vi ste. Oni su.",
+      "Info": "Quand on parles à un groupe de personnes, on dit ...",
+      "Translation": "Nous sommes. Vous êtes. Ils sont.",
+      "Memo": "Nous avons aussi des pronoms personnels au pluriel par genre.  Genre masculin  \"oni\", feminin est \"one\", et neutre \"ona\". ",
+      "LectureId": "lecture_02"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Conjonctions",
+      "Phrase": "i, ili, ali...",
+      "Info": "Quand on compte quelque chose ou qu'on choisit ...",
+      "Translation": "et ,ou, mais...",
+      "Memo": "On utilise \"i\" comme \"et\" quand on lie des mots, par exemple \"ceci et cela\" on dit \"to i to\". On utilise \"a\" comme \"et\" quand on sépare, \"ceci et pas cela\" on dirait \"to, a ne to\". Aussi , la phrase \"et alors...\" on dirait \"a onda...\". \nDonc, en langue croate, le francais \"et\" est parfois \"i\", et parfois \"a\".",
+      "LectureId": "lecture_02"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Prépositions 1",
+      "Phrase": "u... na... iz... o... ",
+      "Info": "Pour dire où se trouve quelque chose nous utilisons ...",
+      "Translation": "dans... sur... de... a propos de... ",
+      "Memo": "Remarquez que vous avez déjà appris des mots croates très faciles: \"a\", \"i\", \"o\", \"u\".",
+      "LectureId": "lecture_02"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Prépositions 2",
+      "Phrase": "s... bez...",
+      "Info": "Pour inclure ou exclure, nous utilisons ...",
+      "Translation": "avec... sans...",
+      "Memo": "\"S\" est un autre mot croate facile. Cela signifie \"avec\". Mais si le mot après \"s\" commence par \"s\", \"š\", \"z\" ou \"ž\", alors on utilise une forme plus longue \"sa\". Par exemple, \"avec soeur\" on dirait \"sa sestrom\", pas \"s sestrom\".",
+      "LectureId": "lecture_02"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Prépositions 3",
+      "Phrase": "od - do",
+      "Info": "Pour exprimer la distance spatiale ou temporelle on utilise ...",
+      "Translation": "de - à",
+      "Memo": "Notez que \"od\", qui signifie \"de\", est une version a l'envers de \"do\"  signifie \"'à\". \"Do\" signifie aussi \"à côté de\".",
+      "LectureId": "lecture_02"
+    }
+  }
+}

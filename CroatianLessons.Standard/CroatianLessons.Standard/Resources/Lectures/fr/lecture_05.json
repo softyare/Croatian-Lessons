@@ -1,0 +1,78 @@
+{
+  "LectureId": "lecture_05",
+  "Title": "Phrases courantes",
+  "Lessons": {
+    "lesson_01": {
+      "LessonId": "lesson_01",
+      "Title": "En donnant quelque chose",
+      "Phrase": "Izvolite.",
+      "Info": "En donnant quelque chose on dit...",
+      "Translation": "Tenez.",
+      "Memo": "En tant que touriste en Croatie, vous l'utiliserez dans la plupart des situations, si vous donnez quelque chose à votre ami croate, ou dans des situations informelles, vous direz\" Izvoli \".\n\nUne version encore plus informelle et plus courte qu'on utilise  est \" Evo ti.\" Ou simplement \" Evo! , Signifiant \" Voici/voilà! \"\nSi prononcez en forme d'une question,  Izvolite? \" signifie\" Que puis-je faire pour vous? \"\" \"",
+      "LectureId": "lecture_05"
+    },
+    "lesson_02": {
+      "LessonId": "lesson_02",
+      "Title": "En recevant quelque chose",
+      "Phrase": "Hvala!",
+      "Info": "En recevant quelque chose ou si quelqu'un a fait quelque chose pour nous, on dit ...",
+      "Translation": "Merci!",
+      "Memo": "\"Hv\" est assez difficile à prononcer, et si c'est plus facile pour vous, vous pouvez dire \"Fala\". Beaucoup de Croates font la même chose.\nSi vous est très reconnaissant, vous pouvez ajouter des mots, comme:\n\"Hvala lijepo\" = \"Merci bien\"\n\"Hvala puno\" = \"Merci beaucoup\"\n\"Veliko vam hvala\" = \"Un grand merci\"",
+      "LectureId": "lecture_05"
+    },
+    "lesson_03": {
+      "LessonId": "lesson_03",
+      "Title": "Si quelqu'un vous remercie",
+      "Phrase": "Molim.",
+      "Info": "Si quelqu'un nous a remercié, on répond avec ...",
+      "Translation": "Je vous en prie!",
+      "Memo": "Une autre phrase utlisé souvent après \"Hvala\" est \"Nema na čemu\" qui signifie \"De rien\"\n\nComme vous allez voir dans les prochaines leçons, \"molim\" signifie aussi 'autre choses en croate, selon le contexte et la forme de la phrase.",
+      "LectureId": "lecture_05"
+    },
+    "lesson_04": {
+      "LessonId": "lesson_04",
+      "Title": "Si vous n'avez pas bien entendu.",
+      "Phrase": "Molim?",
+      "Info": "Si on veut que quelqu'un répète ce qu'il vient de dire, ou on exprime de l'incrédulité,on demande ...",
+      "Translation": "Pardon?",
+      "Memo": "Une autre façon de demander la même chose est \"Kako?\" ce qui signifie \"Comment?\", ou en combinaison \"Kako molim?\" qui serait mieux traduit par \"Pardon, quoi?\" ou \"Pardon ,qu'est-ce que vous avez dit?\"",
+      "LectureId": "lecture_05"
+    },
+    "lesson_05": {
+      "LessonId": "lesson_05",
+      "Title": "Demander poliment",
+      "Phrase": "Molim Vas ...",
+      "Info": "Lorsque nous demandons quelque chose dans une situation formelle, nous disons ...",
+      "Translation": "S'il vous plaît.",
+      "Memo": "C'est déjà la troisième signification du mot \"molim\", cette fois signifiant \"s'il vous plaît\".\nVous devez mettre un pronom personnel après \"molim\" pour qu'il signifie \"s'il vous plaît\". Par exemple, \"Molim Vas, pokažite mi.\" signifie \"S'il vous plaît, montrez-moi.\". Si vous dites juste \"Molim te!\" ou \"Molim Vas!\" cela pourrait signifier «je t' en supplie!», dans des versions informelles et formelles.\nJuste \"Molim.\", Peut être raccourci de \"Ja molim\". ce qui signifie \"je prie\".",
+      "LectureId": "lecture_05"
+    },
+    "lesson_06": {
+      "LessonId": "lesson_06",
+      "Title": "Pour s' excuser",
+      "Phrase": "Oprostite ...",
+      "Info": "Quand on commene des questions dans des situations formelles, on dit ..",
+      "Translation": "Pardon...",
+      "Memo": "Si vous demandez à un étranger quel temps il fait vous diriez:\n\"Oprostite, koliko je sati?\" = \"Excusez-moi, quelle heure est-il?\"\n\nSi vous appelez un serveur dans un restaurant, vous appelez:\n\"Oprostite!\" = \"Excusez moi!\"\n\nVous pouvez également dire «oprostite» si vous cognez  quelqu'un dans la rue, ou vous pouvez utiliser l'expression internationale «pardon», qui est également courante en Croatie.\n\nSi vous mettez un pronom personnel après \"oprosti\", cela signifie autre chose.\n\"Oprosti mi!\", ou formellement \"Oprostite mi!\" = \"Pardonne moi!\"",
+      "LectureId": "lecture_05"
+    },
+    "lesson_07": {
+      "LessonId": "lesson_07",
+      "Title": "Dire qu'on est  désolé",
+      "Phrase": "Žao mi je.",
+      "Info": "Pour exprimer qu'on est désolés, on dit ...",
+      "Translation": "Je suis désolé.",
+      "Memo": "Cette phrase est également utilisée pour exprimer des condoléances.\nUne forme plus longue pourrait être:\n\"Jako mi je žao!\" = \"Je suis vraiment désolé!\"",
+      "LectureId": "lecture_05"
+    },
+    "lesson_08": {
+      "LessonId": "lesson_08",
+      "Title": "Dire qu'on ne comprend pas ",
+      "Phrase": "Ne razumijem.",
+      "Info": "Pour exprimer notre manque de compréhension, on dit ...",
+      "Translation": "Je ne comprends pas.",
+      "Memo": "Comme dans d'autres langues, vous pouvez utiliser cette expression pour montrer votre confusion.\r\n\r\nSi vous voulez dire que vous ne comprenez pas la langue croate, vous direz:\r\n\" Ne razumijem hrvatski. \" = \" Je ne comprends pas le croate. \" ",
+      "LectureId": "lecture_05"
+    }
+  }
+}
