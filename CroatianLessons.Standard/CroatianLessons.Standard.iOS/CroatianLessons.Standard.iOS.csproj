@@ -226,46 +226,46 @@
     <ImageAsset Include="Resources\Icons.xcassets\accessories.imageset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_1024.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_120.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_152.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_167.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_180.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_20.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_29.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_40.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_58.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_60.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_76.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_80.png">
+      <Visible>false</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\AppIcon_87.png">
+      <Visible>false</Visible>
+    </ImageAsset>
     <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Contents.json">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon1024.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon120.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon152.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon167.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon180.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon20.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon29.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon40.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon58.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon60.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon76.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon80.png">
-      <Visible>false</Visible>
-    </ImageAsset>
-    <ImageAsset Include="Resources\Icons.xcassets\AppIcons.appiconset\Icon87.png">
       <Visible>false</Visible>
     </ImageAsset>
     <ImageAsset Include="Resources\Icons.xcassets\audio.imageset\audio.png">
@@ -359,5 +359,7 @@
   <ItemGroup>
     <BundleResource Include="Resources\Icon120.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <BundleResource Include="Resources\AppLogo_Large.png" />
+  </ItemGroup>
 </Project>

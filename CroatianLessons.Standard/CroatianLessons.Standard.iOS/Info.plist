@@ -23,7 +23,7 @@
 	<key>MinimumOSVersion</key>
 	<string>11.2</string>
 	<key>CFBundleDisplayName</key>
-	<string>CroatianLessons</string>
+	<string>Croatian Lessons</string>
 	<key>CFBundleIdentifier</key>
 	<string>hr.lovecarpediem.CroatianLessons</string>
 	<key>CFBundleVersion</key>
@@ -53,8 +53,8 @@
 	<key>CFBundleLocalizations</key>
 	<array>
 		<string>en</string>
-		<string>de</string>
 		<string>hr</string>
+		<string>de</string>
 		<string>fr</string>
 		<string>it</string>
 		<string>ru</string>
